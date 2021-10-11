@@ -1,4 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="AddressesSchema.rnc" type="application/relax-ng-compact-syntax"?>
 <addresses>
 <source>Project Gutenberg's United States Presidents' Inaugural Speeches, by Various
 
@@ -39,10 +40,10 @@ FROM GEORGE WASHINGTON TO GEORGE W. BUSH
 </source>
 
 <address n="01" name="GEORGE WASHINGTON" title="FIRST INAUGURAL ADDRESS" date="IN THE CITY OF NEW YORK THURSDAY, APRIL 30, 1789">
-<div class="editnote">
+<d class="editnote">
 <p>[Transcriber's note: The Nation's first chief executive took his oath of office in April in New York City on the balcony of the Senate Chamber at Federal Hall on Wall Street. General Washington had been unanimously elected President by the first electoral college, and John Adams was elected Vice President because he received the second greatest number of votes. Under the rules, each elector cast two votes. The Chancellor of New York and fellow Freemason, Robert R. Livingston administered the oath of office. The Bible on which the oath was sworn belonged to New York's St. John's Masonic Lodge. The new President gave his inaugural address before a joint session of the two Houses of Congress assembled inside the Senate Chamber.]</p>
 
-</div>
+</d>
 <p>Fellow-Citizens of the Senate and of the House of Representatives:</p>
 <p>Among the vicissitudes incident to life no event could have filled me with greater anxieties than that of which the notification was transmitted by your order, and received on the 14th day of the present month. On the one hand, I was summoned by my Country, whose voice I can never hear but with veneration and love, from a retreat which I had chosen with the fondest predilection, and, in my flattering hopes, with an immutable decision, as the asylum of my declining years—a retreat which was rendered every day more necessary as well as more dear to me by the addition of habit to inclination, and of frequent interruptions in my health to the gradual waste committed on it by time. On the other hand, the magnitude and difficulty of the trust to which the voice of my country called me, being sufficient to awaken in the wisest and most experienced of her citizens a distrustful scrutiny into his qualifications, could not but overwhelm with despondence one who (inheriting inferior endowments from nature and unpracticed in the duties of civil administration) ought to be peculiarly conscious of his own deficiencies. In this conflict of emotions all I dare aver is that it has been my faithful study to collect my duty from a just appreciation of every circumstance by which it might be affected. All I dare hope is that if, in executing this task, I have been too much swayed by a grateful remembrance of former instances, or by an affectionate sensibility to this transcendent proof of the confidence of my fellow-citizens, and have thence too little consulted my incapacity as well as disinclination for the weighty and untried cares before me, my error will be palliated by the motives which mislead me, and its consequences be judged by my country with some share of the partiality in which they originated.</p>
 <p>Such being the impressions under which I have, in obedience to the public summons, repaired to the present station, it would be peculiarly improper to omit in this first official act my fervent supplications to that Almighty Being who rules over the universe, who presides in the councils of nations, and whose providential aids can supply every human defect, that His benediction may consecrate to the liberties and happiness of the people of the United States a Government instituted by themselves for these essential purposes, and may enable every instrument employed in its administration to execute with success the functions allotted to his charge. In tendering this homage to the Great Author of every public and private good, I assure myself that it expresses your sentiments not less than my own, nor those of my fellow-citizens at large less than either. No people can be bound to acknowledge and adore the Invisible Hand which conducts the affairs of men more than those of the United States. Every step by which they have advanced to the character of an independent nation seems to have been distinguished by some token of providential agency; and in the important revolution just accomplished in the system of their united government the tranquil deliberations and voluntary consent of so many distinct communities from which the event has resulted can not be compared with the means by which most governments have been established without some return of pious gratitude, along with an humble anticipation of the future blessings which the past seem to presage. These reflections, arising out of the present crisis, have forced themselves too strongly on my mind to be suppressed. You will join with me, I trust, in thinking that there are none under the influence of which the proceedings of a new and free government can more auspiciously commence.</p>
@@ -54,10 +55,10 @@ FROM GEORGE WASHINGTON TO GEORGE W. BUSH
 </address>
 
 <address n="02" name="GEORGE WASHINGTON" title="SECOND INAUGURAL ADDRESS" date="IN THE CITY OF PHILADELPHIA, MONDAY, MARCH 4, 1793">
-<div class="editnote">
+<d class="editnote">
 <p>[Transcriber's note: President Washington's second oath of office was taken in the Senate Chamber of Congress Hall in Philadelphia on March 4, the date fixed by the Continental Congress for inaugurations. Before an assembly of Congressmen, Cabinet officers, judges of the federal and district courts, foreign officials, and a small gathering of Philadelphians, the President offered the shortest inaugural address ever given. Associate Justice of the Supreme Court William Cushing administered the oath of office.]</p>
 
-</div>
+</d>
 <p>Fellow Citizens:</p>
 <p>I am again called upon by the voice of my country to execute the functions of its Chief Magistrate. When the occasion proper for it shall arrive, I shall endeavor to express the high sense I entertain of this distinguished honor, and of the confidence which has been reposed in me by the people of united America.</p>
 <p>Previous to the execution of any official act of the President the Constitution requires an oath of office. This oath I am now about to take, and in your presence: That if it shall be found during my administration of the Government I have in any instance violated willingly or knowingly the injunctions thereof, I may (besides incurring constitutional punishment) be subject to the upbraidings of all who are now witnesses of the present solemn ceremony.</p>
@@ -65,10 +66,10 @@ FROM GEORGE WASHINGTON TO GEORGE W. BUSH
 </address>
 
 <address n="03" name="JOHN ADAMS" title="INAUGURAL ADDRESS" date="IN THE CITY OF PHILADELPHIA SATURDAY, MARCH 4, 1797">
-<div class="editnote">
+<d class="editnote">
 <p>[Transcriber's note: The first Vice President became the second President of the United States. His opponent in the election, Thomas Jefferson, had won the second greatest number of electoral votes and therefore had been elected Vice President by the electoral college. Chief Justice Oliver Ellsworth administered the oath of office in the Hall of the House of Representatives in Federal Hall before a joint session of Congress.]</p>
 
-</div>
+</d>
 <p>When it was first perceived, in early times, that no middle course for America remained between unlimited submission to a foreign legislature and a total independence of its claims, men of reflection were less apprehensive of danger from the formidable power of fleets and armies they must determine to resist than from those contests and dissensions which would certainly arise concerning the forms of government to be instituted over the whole and over the parts of this extensive country. Relying, however, on the purity of their intentions, the justice of their cause, and the integrity and intelligence of the people, under an overruling Providence which had so signally protected this country from the first, the representatives of this nation, then consisting of little more than half its present number, not only broke to pieces the chains which were forging and the rod of iron that was lifted up, but frankly cut asunder the ties which had bound them, and launched into an ocean of uncertainty.</p>
 <p>The zeal and ardor of the people during the Revolutionary war, supplying the place of government, commanded a degree of order sufficient at least for the temporary preservation of society. The Confederation which was early felt to be necessary was prepared from the models of the Batavian and Helvetic confederacies, the only examples which remain with any detail and precision in history, and certainly the only ones which the people at large had ever considered. But reflecting on the striking difference in so many particulars between this country and those where a courier may go from the seat of government to the frontier in a single day, it was then certainly foreseen by some who assisted in Congress at the formation of it that it could not be durable.</p>
 <p>Negligence of its regulations, inattention to its recommendations, if not disobedience to its authority, not only in individuals but in States, soon appeared with their melancholy consequences—universal languor, jealousies and rivalries of States, decline of navigation and commerce, discouragement of necessary manufactures, universal fall in the value of lands and their produce, contempt of public and private faith, loss of consideration and credit with foreign nations, and at length in discontents, animosities, combinations, partial conventions, and insurrection, threatening some great national calamity.</p>
@@ -87,10 +88,10 @@ FROM GEORGE WASHINGTON TO GEORGE W. BUSH
 </address>
 
 <address n="04" name="THOMAS JEFFERSON" title="FIRST INAUGURAL ADDRESS" date="IN THE WASHINGTON, D.C., WEDNESDAY, MARCH 4, 1801">
-<div class="editnote">
+<d class="editnote">
 <p>[Transcriber's note: Chief Justice John Marshall administered the first executive oath of office ever taken in the new federal city in the new Senate Chamber (now the Old Supreme Court Chamber) of the partially built Capitol building. The outcome of the election of 1800 had been in doubt until late February because Thomas Jefferson and Aaron Burr, the two leading candidates, each had received 73 electoral votes. Consequently, the House of Representatives met in a special session to resolve the impasse, pursuant to the terms spelled out in the Constitution. After 30 hours of debate and balloting, Mr. Jefferson emerged as the President and Mr. Burr the Vice President. President John Adams, who had run unsuccessfully for a second term, left Washington on the day of the inauguration without attending the ceremony.]</p>
 
-</div>
+</d>
 <p>Friends and Fellow-Citizens:</p>
 <p>Called upon to undertake the duties of the first executive office of our country, I avail myself of the presence of that portion of my fellow-citizens which is here assembled to express my grateful thanks for the favor with which they have been pleased to look toward me, to declare a sincere consciousness that the task is above my talents, and that I approach it with those anxious and awful presentiments which the greatness of the charge and the weakness of my powers so justly inspire. A rising nation, spread over a wide and fruitful land, traversing all the seas with the rich productions of their industry, engaged in commerce with nations who feel power and forget right, advancing rapidly to destinies beyond the reach of mortal eye—when I contemplate these transcendent objects, and see the honor, the happiness, and the hopes of this beloved country committed to the issue, and the auspices of this day, I shrink from the contemplation, and humble myself before the magnitude of the undertaking. Utterly, indeed, should I despair did not the presence of many whom I here see remind me that in the other high authorities provided by our Constitution I shall find resources of wisdom, of virtue, and of zeal on which to rely under all difficulties. To you, then, gentlemen, who are charged with the sovereign functions of legislation, and to those associated with you, I look with encouragement for that guidance and support which may enable us to steer with safety the vessel in which we are all embarked amidst the conflicting elements of a troubled world.</p>
 <p>During the contest of opinion through which we have passed the animation of discussions and of exertions has sometimes worn an aspect which might impose on strangers unused to think freely and to speak and to write what they think; but this being now decided by the voice of the nation, announced according to the rules of the Constitution, all will, of course, arrange themselves under the will of the law, and unite in common efforts for the common good. All, too, will bear in mind this sacred principle, that though the will of the majority is in all cases to prevail, that will to be rightful must be reasonable; that the minority possess their equal rights, which equal law must protect, and to violate would be oppression. Let us, then, fellow-citizens, unite with one heart and one mind. Let us restore to social intercourse that harmony and affection without which liberty and even life itself are but dreary things. And let us reflect that, having banished from our land that religious intolerance under which mankind so long bled and suffered, we have yet gained little if we countenance a political intolerance as despotic, as wicked, and capable of as bitter and bloody persecutions. During the throes and convulsions of the ancient world, during the agonizing spasms of infuriated man, seeking through blood and slaughter his long-lost liberty, it was not wonderful that the agitation of the billows should reach even this distant and peaceful shore; that this should be more felt and feared by some and less by others, and should divide opinions as to measures of safety. But every difference of opinion is not a difference of principle. We have called by different names brethren of the same principle. We are all Republicans, we are all Federalists. If there be any among us who would wish to dissolve this Union or to change its republican form, let them stand undisturbed as monuments of the safety with which error of opinion may be tolerated where reason is left free to combat it. I know, indeed, that some honest men fear that a republican government can not be strong, that this Government is not strong enough; but would the honest patriot, in the full tide of successful experiment, abandon a government which has so far kept us free and firm on the theoretic and visionary fear that this Government, the world's best hope, may by possibility want energy to preserve itself? I trust not. I believe this, on the contrary, the strongest Government on earth. I believe it the only one where every man, at the call of the law, would fly to the standard of the law, and would meet invasions of the public order as his own personal concern. Sometimes it is said that man can not be trusted with the government of himself. Can he, then, be trusted with the government of others? Or have we found angels in the forms of kings to govern him? Let history answer this question.</p>
@@ -102,10 +103,10 @@ FROM GEORGE WASHINGTON TO GEORGE W. BUSH
 </address>
 
 <address n="05" name="THOMAS JEFFERSON" title="SECOND INAUGURAL ADDRESS" date="IN WASHINGTON D.C., MONDAY, MARCH 4, 1805">
-<div class="editnote">
+<d class="editnote">
 <p>[Transcriber's note: The second inauguration of Mr. Jefferson followed an election under which the offices of President and Vice President were to be separately sought, pursuant to the newly adopted 12th Amendment to the Constitution. George Clinton of New York was elected Vice President. Chief Justice John Marshall administered the oath of office in the Senate Chamber at the Capitol.]</p>
 
-</div>
+</d>
 <p>Proceeding, fellow-citizens, to that qualification which the Constitution requires before my entrance on the charge again conferred on me, it is my duty to express the deep sense I entertain of this new proof of confidence from my fellow-citizens at large, and the zeal with which it inspires me so to conduct myself as may best satisfy their just expectations.</p>
 <p>On taking this station on a former occasion I declared the principles on which I believed it my duty to administer the affairs of our Commonwealth. MY conscience tells me I have on every occasion acted up to that declaration according to its obvious import and to the understanding of every candid mind.</p>
 <p>In the transaction of your foreign affairs we have endeavored to cultivate the friendship of all nations, and especially of those with which we have the most important relations. We have done them justice on all occasions, favored where favor was lawful, and cherished mutual interests and intercourse on fair and equal terms. We are firmly convinced, and we act on that conviction, that with nations as with individuals our interests soundly calculated will ever be found inseparable from our moral duties, and history bears witness to the fact that a just nation is trusted on its word when recourse is had to armaments and wars to bridle others.</p>
@@ -125,10 +126,10 @@ FROM GEORGE WASHINGTON TO GEORGE W. BUSH
 </address>
 
 <address n="06" name="JAMES MADISON" title="FIRST INAUGURAL ADDRESS" date="SATURDAY, MARCH 4, 1809">
-<div class="editnote">
+<d class="editnote">
 <p>[Transcriber's note: Chief Justice John Marshall administered the oath of office in the Hall of the House of Representatives (now National Statuary Hall). Subsequently the oath by Presidents-elect, with few exceptions, was taken in the House Chamber or in a place of the Capitol associated with the Congress as a whole. The Vice Presidential oath of office for most administrations was taken in the Senate Chamber. President Jefferson watched the ceremony, but he joined the crowd of assembled visitors since he no longer was an office-holder. The mild March weather drew a crowd of about 10,000 persons.]</p>
 
-</div>
+</d>
 <p>Unwilling to depart from examples of the most revered authority, I avail myself of the occasion now presented to express the profound impression made on me by the call of my country to the station to the duties of which I am about to pledge myself by the most solemn of sanctions. So distinguished a mark of confidence, proceeding from the deliberate and tranquil suffrage of a free and virtuous nation, would under any circumstances have commanded my gratitude and devotion, as well as filled me with an awful sense of the trust to be assumed. Under the various circumstances which give peculiar solemnity to the existing period, I feel that both the honor and the responsibility allotted to me are inexpressibly enhanced.</p>
 <p>The present situation of the world is indeed without a parallel and that of our own country full of difficulties. The pressure of these, too, is the more severely felt because they have fallen upon us at a moment when the national prosperity being at a height not before attained, the contrast resulting from the change has been rendered the more striking. Under the benign influence of our republican institutions, and the maintenance of peace with all nations whilst so many of them were engaged in bloody and wasteful wars, the fruits of a just policy were enjoyed in an unrivaled growth of our faculties and resources. Proofs of this were seen in the improvements of agriculture, in the successful enterprises of commerce, in the progress of manufacturers and useful arts, in the increase of the public revenue and the use made of it in reducing the public debt, and in the valuable works and establishments everywhere multiplying over the face of our land.</p>
 <p>It is a precious reflection that the transition from this prosperous condition of our country to the scene which has for some time been distressing us is not chargeable on any unwarrantable views, nor, as I trust, on any involuntary errors in the public councils. Indulging no passions which trespass on the rights or the repose of other nations, it has been the true glory of the United States to cultivate peace by observing justice, and to entitle themselves to the respect of the nations at war by fulfilling their neutral obligations with the most scrupulous impartiality. If there be candor in the world, the truth of these assertions will not be questioned; posterity at least will do justice to them.</p>
@@ -140,10 +141,10 @@ FROM GEORGE WASHINGTON TO GEORGE W. BUSH
 </address>
 
 <address n="07" name="JAMES MADISON" title="SECOND INAUGURAL ADDRESS" date="THURSDAY, MARCH 4, 1813">
-<div class="editnote">
+<d class="editnote">
 <p>[Transcriber's note: Chief Justice John Marshall administered the oath of office in the Hall of the House of Representatives. The United States was at war with Great Britain at the time of James Madison's second inauguration. Most of the battles had occurred at sea, and the physical reminders of war seemed remote to the group assembled at the Capitol. In little more than a year, however, both the Capitol and Executive Mansion would be burned by an invading British garrison, and the city thrown into a panic.]</p>
 
-</div>
+</d>
 <p>About to add the solemnity of an oath to the obligations imposed by a second call to the station in which my country heretofore placed me, I find in the presence of this respectable assembly an opportunity of publicly repeating my profound sense of so distinguished a confidence and of the responsibility united with it. The impressions on me are strengthened by such an evidence that my faithful endeavors to discharge my arduous duties have been favorably estimated, and by a consideration of the momentous period at which the trust has been renewed. From the weight and magnitude now belonging to it I should be compelled to shrink if I had less reliance on the support of an enlightened and generous people, and felt less deeply a conviction that the war with a powerful nation, which forms so prominent a feature in our situation, is stamped with that justice which invites the smiles of Heaven on the means of conducting it to a successful termination.</p>
 <p>May we not cherish this sentiment without presumption when we reflect on the characters by which this war is distinguished?</p>
 <p>It was not declared on the part of the United States until it had been long made on them, in reality though not in name; until arguments and postulations had been exhausted; until a positive declaration had been received that the wrongs provoking it would not be discontinued; nor until this last appeal could no longer be delayed without breaking down the spirit of the nation, destroying all confidence in itself and in its political institutions, and either perpetuating a state of disgraceful suffering or regaining by more costly sacrifices and more severe struggles our lost rank and respect among independent powers.</p>
@@ -159,10 +160,10 @@ FROM GEORGE WASHINGTON TO GEORGE W. BUSH
 </address>
 
 <address n="08" name="JAMES MONROE" title="FIRST INAUGURAL ADDRESS" date="TUESDAY, MARCH 4, 1817">
-<div class="editnote">
+<d class="editnote">
 <p>[Transcriber's note: Because the Capitol was under reconstruction after the fire, President-elect Monroe offered to take his oath of office in the House Chamber of the temporary "Brick Capitol," located on the site where the Supreme Court building now stands. A controversy resulted from the inaugural committees proposals concerning the use of the House Chamber on the second floor of the brick building. Speaker Henry Clay declined the use of the hall and suggested that the proceedings be held outside. The President's speech to the crowd from a platform adjacent to the brick building was the first outdoor inaugural address. Chief Justice John Marshall administered the oath of office.]</p>
 
-</div>
+</d>
 <p>I should be destitute of feeling if I was not deeply affected by the strong proof which my fellow-citizens have given me of their confidence in calling me to the high office whose functions I am about to assume. As the expression of their good opinion of my conduct in the public service, I derive from it a gratification which those who are conscious of having done all that they could to merit it can alone feel. MY sensibility is increased by a just estimate of the importance of the trust and of the nature and extent of its duties, with the proper discharge of which the highest interests of a great and free people are intimately connected. Conscious of my own deficiency, I cannot enter on these duties without great anxiety for the result. From a just responsibility I will never shrink, calculating with confidence that in my best efforts to promote the public welfare my motives will always be duly appreciated and my conduct be viewed with that candor and indulgence which I have experienced in other stations.</p>
 <p>In commencing the duties of the chief executive office it has been the practice of the distinguished men who have gone before me to explain the principles which would govern them in their respective Administrations. In following their venerated example my attention is naturally drawn to the great causes which have contributed in a principal degree to produce the present happy condition of the United States. They will best explain the nature of our duties and shed much light on the policy which ought to be pursued in future.</p>
 <p>From the commencement of our Revolution to the present day almost forty years have elapsed, and from the establishment of this Constitution twenty-eight. Through this whole term the Government has been what may emphatically be called self-government. And what has been the effect? To whatever object we turn our attention, whether it relates to our foreign or domestic concerns, we find abundant cause to felicitate ourselves in the excellence of our institutions. During a period fraught with difficulties and marked by very extraordinary events the United States have flourished beyond example. Their citizens individually have been happy and the nation prosperous.</p>
@@ -188,10 +189,10 @@ FROM GEORGE WASHINGTON TO GEORGE W. BUSH
 </address>
 
 <address n="09" name="JAMES MONROE" title="SECOND INAUGURAL ADDRESS" date="MONDAY, MARCH 5, 1821">
-<div class="editnote">
+<d class="editnote">
 <p>[Transcriber's note: In 1821, March 4 fell on a Sunday for the first time that presidential inaugurations had been observed. Although his previous term had expired on Saturday, the President waited until the following Monday upon the advice of Chief Justice Marshall, before going to the newly rebuilt Hall of the House of Representatives to take the oath of office. Because the weather was cold and wet, the ceremonies were conducted indoors. The change in the location caused some confusion and many visitors and dignitaries were unable to find a place to stand inside the building.]</p>
 
-</div>
+</d>
 <p>Fellow-Citizens:</p>
 <p>I shall not attempt to describe the grateful emotions which the new and very distinguished proof of the confidence of my fellow-citizens, evinced by my reelection to this high trust, has excited in my bosom. The approbation which it announces of my conduct in the preceding term affords me a consolation which I shall profoundly feel through life. The general accord with which it has been expressed adds to the great and never-ceasing obligations which it imposes. To merit the continuance of this good opinion, and to carry it with me into my retirement as the solace of advancing years, will be the object of my most zealous and unceasing efforts.</p>
 <p>Having no pretensions to the high and commanding claims of my predecessors, whose names are so much more conspicuously identified with our Revolution, and who contributed so preeminently to promote its success, I consider myself rather as the instrument than the cause of the union which has prevailed in the late election. In surmounting, in favor of my humble pretensions, the difficulties which so often produce division in like occurrences, it is obvious that other powerful causes, indicating the great strength and stability of our Union, have essentially contributed to draw you together. That these powerful causes exist, and that they are permanent, is my fixed opinion; that they may produce a like accord in all questions touching, however remotely, the liberty, prosperity and happiness of our country will always be the object of my most fervent prayers to the Supreme Author of All Good.</p>
@@ -224,10 +225,10 @@ FROM GEORGE WASHINGTON TO GEORGE W. BUSH
 </address>
 
 <address n="10" name="JOHN QUINCY ADAMS" title="INAUGURAL ADDRESS" date="FRIDAY, MARCH 4, 1825">
-<div class="editnote">
+<d class="editnote">
 <p>[Transcriber's note: The only son of a former President to be elected to the Nation's highest office, John Quincy Adams was chosen by the House of Representatives when the electoral college could not determine a clear winner of the 1824 election. The outcome was assured when Henry Clay, one of the front-runners, threw his support to Mr. Adams so that Andrew Jackson's candidacy would fail. General Jackson had polled more popular votes in the election, but he did not gain enough electoral votes to win outright. The oath of office was administered by Chief Justice John Marshall inside the Hall of the House of Representatives.]</p>
 
-</div>
+</d>
 <p>In compliance with an usage coeval with the existence of our Federal Constitution, and sanctioned by the example of my predecessors in the career upon which I am about to enter, I appear, my fellow-citizens, in your presence and in that of Heaven to bind myself by the solemnities of religious obligation to the faithful performance of the duties allotted to me in the station to which I have been called.</p>
 <p>In unfolding to my countrymen the principles by which I shall be governed in the fulfillment of those duties my first resort will be to that Constitution which I shall swear to the best of my ability to preserve, protect, and defend. That revered instrument enumerates the powers and prescribes the duties of the Executive Magistrate, and in its first words declares the purposes to which these and the whole action of the Government instituted by it should be invariably and sacredly devoted—to form a more perfect union, establish justice, insure domestic tranquillity, provide for the common defense, promote the general welfare, and secure the blessings of liberty to the people of this Union in their successive generations. Since the adoption of this social compact one of these generations has passed away. It is the work of our forefathers. Administered by some of the most eminent men who contributed to its formation, through a most eventful period in the annals of the world, and through all the vicissitudes of peace and war incidental to the condition of associated man, it has not disappointed the hopes and aspirations of those illustrious benefactors of their age and nation. It has promoted the lasting welfare of that country so dear to us all; it has to an extent far beyond the ordinary lot of humanity secured the freedom and happiness of this people. We now receive it as a precious inheritance from those to whom we are indebted for its establishment, doubly bound by the examples which they have left us and by the blessings which we have enjoyed as the fruits of their labors to transmit the same unimpaired to the succeeding generation.</p>
 <p>In the compass of thirty-six years since this great national covenant was instituted a body of laws enacted under its authority and in conformity with its provisions has unfolded its powers and carried into practical operation its effective energies. Subordinate departments have distributed the executive functions in their various relations to foreign affairs, to the revenue and expenditures, and to the military force of the Union by land and sea. A coordinate department of the judiciary has expounded the Constitution and the laws, settling in harmonious coincidence with the legislative will numerous weighty questions of construction which the imperfection of human language had rendered unavoidable. The year of jubilee since the first formation of our Union has just elapsed; that of the declaration of our independence is at hand. The consummation of both was effected by this Constitution.</p>
@@ -242,10 +243,10 @@ FROM GEORGE WASHINGTON TO GEORGE W. BUSH
 </address>
 
 <address n="11" name="ANDREW JACKSON" title="FIRST INAUGURAL ADDRESS" date="WEDNESDAY, MARCH 4, 1829">
-<div class="editnote">
+<d class="editnote">
 <p>[Transcriber's note: The election of Andrew Jackson was heralded as a new page in the history of the Republic. The first military leader elected President since George Washington, he was much admired by the electorate, who came to Washington to celebrate "Old Hickory's" inauguration. Outgoing President Adams did not join in the ceremony, which was held for the first time on the East Portico of the Capitol building. Chief Justice John Marshall administered the oath of office. After the proceedings at the Capitol, a large group of citizens walked with the new President along Pennsylvania Avenue to the White House, and many of them visited the executive mansion that day and evening. Such large numbers of people arrived that many of the furnishings were ruined. President Jackson left the building by a window to avoid the crush of people.]</p>
 
-</div>
+</d>
 <p>Fellow-Citizens:</p>
 <p>About to undertake the arduous duties that I have been appointed to perform by the choice of a free people, I avail myself of this customary and solemn occasion to express the gratitude which their confidence inspires and to acknowledge the accountability which my situation enjoins. While the magnitude of their interests convinces me that no thanks can be adequate to the honor they have conferred, it admonishes me that the best return I can make is the zealous dedication of my humble abilities to their service and their good.</p>
 <p>As the instrument of the Federal Constitution it will devolve on me for a stated period to execute the laws of the United States, to superintend their foreign and their confederate relations, to manage their revenue, to command their forces, and, by communications to the Legislature, to watch over and to promote their interests generally. And the principles of action by which I shall endeavor to accomplish this circle of duties it is now proper for me briefly to explain.</p>
@@ -263,10 +264,10 @@ FROM GEORGE WASHINGTON TO GEORGE W. BUSH
 </address>
 
 <address n="12" name="ANDREW JACKSON" title="SECOND INAUGURAL ADDRESS" date="MONDAY, MARCH 4, 1833">
-<div class="editnote">
+<d class="editnote">
 <p>[Transcriber's note: Cold weather and the President's poor health caused the second inauguration to be much quieter than the first. The President's speech was delivered to a large assembly inside the Hall of the House of Representatives. Chief Justice John Marshall administered the oath of office for the ninth, and last, time.]</p>
 
-</div>
+</d>
 <p>Fellow-Citizens:</p>
 <p>The will of the American people, expressed through their unsolicited suffrages, calls me before you to pass through the solemnities preparatory to taking upon myself the duties of President of the United States for another term. For their approbation of my public conduct through a period which has not been without its difficulties, and for this renewed expression of their confidence in my good intentions, I am at a loss for terms adequate to the expression of my gratitude. It shall be displayed to the extent of my humble abilities in continued efforts so to administer the Government as to preserve their liberty and promote their happiness.</p>
 <p>So many events have occurred within the last four years which have necessarily called forth—sometimes under circumstances the most delicate and painful—my views of the principles and policy which ought to be pursued by the General Government that I need on this occasion but allude to a few leading considerations connected with some of them.</p>
@@ -281,10 +282,10 @@ FROM GEORGE WASHINGTON TO GEORGE W. BUSH
 </address>
 
 <address n="13" name="MARTIN VAN BUREN" title="INAUGURAL ADDRESS" date="SATURDAY, MARCH 4, 1837">
-<div class="editnote">
+<d class="editnote">
 <p>[Transcriber's note: The ailing President Jackson and his Vice President Van Buren rode together to the Capitol from the White House in a carriage made of timbers from the U.S.S. Constitution. Chief Justice Roger Taney administered the oath of office on the East Portico of the Capitol. For the first and only time, the election for Vice President had been decided by the Senate, as provided by the Constitution, when the electoral college could not select a winner. The new Vice President, Richard M. Johnson, took his oath in the Senate Chamber.]</p>
 
-</div>
+</d>
 <p>Fellow-Citizens:</p>
 <p>The practice of all my predecessors imposes on me an obligation I cheerfully fulfill—to accompany the first and solemn act of my public trust with an avowal of the principles that will guide me in performing it and an expression of my feelings on assuming a charge so responsible and vast. In imitating their example I tread in the footsteps of illustrious men, whose superiors it is our happiness to believe are not found on the executive calendar of any country. Among them we recognize the earliest and firmest pillars of the Republic—those by whom our national independence was first declared, him who above all others contributed to establish it on the field of battle, and those whose expanded intellect and patriotism constructed, improved, and perfected the inestimable institutions under which we live. If such men in the position I now occupy felt themselves overwhelmed by a sense of gratitude for this the highest of all marks of their country's confidence, and by a consciousness of their inability adequately to discharge the duties of an office so difficult and exalted, how much more must these considerations affect one who can rely on no such claims for favor or forbearance! Unlike all who have preceded me, the Revolution that gave us existence as one people was achieved at the period of my birth; and whilst I contemplate with grateful reverence that memorable event, I feel that I belong to a later age and that I may not expect my countrymen to weigh my actions with the same kind and partial hand.</p>
 <p>So sensibly, fellow-citizens, do these circumstances press themselves upon me that I should not dare to enter upon my path of duty did I not look for the generous aid of those who will be associated with me in the various and coordinate branches of the Government; did I not repose with unwavering reliance on the patriotism, the intelligence, and the kindness of a people who never yet deserted a public servant honestly laboring their cause; and, above all, did I not permit myself humbly to hope for the sustaining support of an ever-watchful and beneficent Providence.</p>
@@ -309,10 +310,10 @@ FROM GEORGE WASHINGTON TO GEORGE W. BUSH
 </address>
 
 <address n="14" name="WILLIAM HENRY HARRISON" title="INAUGURAL ADDRESS" date="THURSDAY, MARCH 4, 1841">
-<div class="editnote">
+<d class="editnote">
 <p>[Transcriber's note: President Harrison has the dual distinction among all the Presidents of giving the longest inaugural speech and of serving the shortest term of office. Known to the public as "Old Tippecanoe," the former general of the Indian campaigns delivered an hour-and-forty-five-minute speech in a snowstorm. The oath of office was administered on the East Portico of the Capitol by Chief Justice Roger Taney. The 68-year-old President stood outside for the entire proceeding, greeted crowds of well-wishers at the White House later that day, and attended several celebrations that evening. One month later he died of pneumonia.]</p>
 
-</div>
+</d>
 <p>Called from a retirement which I had supposed was to continue for the residue of my life to fill the chief executive office of this great and free nation, I appear before you, fellow-citizens, to take the oaths which the Constitution prescribes as a necessary qualification for the performance of its duties; and in obedience to a custom coeval with our Government and what I believe to be your expectations I proceed to present to you a summary of the principles which will govern me in the discharge of the duties which I shall be called upon to perform.</p>
 <p>It was the remark of a Roman consul in an early period of that celebrated Republic that a most striking contrast was observable in the conduct of candidates for offices of power and trust before and after obtaining them, they seldom carrying out in the latter case the pledges and promises made in the former. However much the world may have improved in many respects in the lapse of upward of two thousand years since the remark was made by the virtuous and indignant Roman, I fear that a strict examination of the annals of some of the modern elective governments would develop similar instances of violated confidence.</p>
 <p>Although the fiat of the people has gone forth proclaiming me the Chief Magistrate of this glorious Union, nothing upon their part remaining to be done, it may be thought that a motive may exist to keep up the delusion under which they may be supposed to have acted in relation to my principles and opinions; and perhaps there may be some in this assembly who have come here either prepared to condemn those I shall now deliver, or, approving them, to doubt the sincerity with which they are now uttered. But the lapse of a few months will confirm or dispel their fears. The outline of principles to govern and measures to be adopted by an Administration not yet begun will soon be exchanged for immutable history, and I shall stand either exonerated by my countrymen or classed with the mass of those who promised that they might deceive and flattered with the intention to betray. However strong may be my present purpose to realize the expectations of a magnanimous and confiding people, I too well understand the dangerous temptations to which I shall be exposed from the magnitude of the power which it has been the pleasure of the people to commit to my hands not to place my chief confidence upon the aid of that Almighty Power which has hitherto protected me and enabled me to bring to favorable issues other important but still greatly inferior trusts heretofore confided to me by my country.</p>
@@ -342,10 +343,10 @@ FROM GEORGE WASHINGTON TO GEORGE W. BUSH
 </address>
 
 <address n="15" name="JAMES KNOX POLK" title="INAUGURAL ADDRESS" date="TUESDAY, MARCH 4, 1845">
-<div class="editnote">
+<d class="editnote">
 <p>[Transcriber's note: The inaugural ceremonies of former Tennessee Governor and Speaker of the House James Knox Polk were conducted before a large crowd that stood in the pouring rain. The popular politician had been nominated on the ninth ballot as his party's candidate. His name had not been in nomination until the third polling of the delegates at the national convention. The outgoing President Tyler, who had taken office upon the death of William Henry Harrison, rode to the Capitol with Mr. Polk. The oath of office was administered on the East Portico by Chief Justice Roger Taney. The events of the ceremony were telegraphed to Baltimore by Samuel Morse on his year-old invention.]</p>
 
-</div>
+</d>
 <p>Fellow-Citizens:</p>
 <p>Without solicitation on my part, I have been chosen by the free and voluntary suffrages of my countrymen to the most honorable and most responsible office on earth. I am deeply impressed with gratitude for the confidence reposed in me. Honored with this distinguished consideration at an earlier period of life than any of my predecessors, I can not disguise the diffidence with which I am about to enter on the discharge of my official duties.</p>
 <p>If the more aged and experienced men who have filled the office of President of the United States even in the infancy of the Republic distrusted their ability to discharge the duties of that exalted station, what ought not to be the apprehensions of one so much younger and less endowed now that our domain extends from ocean to ocean, that our people have so greatly increased in numbers, and at a time when so great diversity of opinion prevails in regard to the principles and policy which should characterize the administration of our Government? Well may the boldest fear and the wisest tremble when incurring responsibilities on which may depend our country's peace and prosperity, and in some degree the hopes and happiness of the whole human family.</p>
@@ -381,10 +382,10 @@ FROM GEORGE WASHINGTON TO GEORGE W. BUSH
 </address>
 
 <address n="16" name="ZACHARY TAYLOR" title="INAUGURAL ADDRESS" date="MONDAY, MARCH 5, 1849">
-<div class="editnote">
+<d class="editnote">
 <p>[Transcriber's note: For the second time in the history of the Republic, March 4 fell on a Sunday. The inaugural ceremony was postponed until the following Monday, raising the question as to whether the Nation was without a President for a day. General Taylor, popularly known as "Old Rough and Ready," was famous for his exploits in the Mexican War. He never had voted in a national election until his own contest for the Presidency. Outgoing President Polk accompanied the general to the ceremony at the Capitol. The oath of office was administered by Chief Justice Roger Taney on the East Portico. After the ceremony, the new President attended several inaugural celebrations, including a ball that evening in a specially built pavilion on Judiciary Square.]</p>
 
-</div>
+</d>
 <p>Elected by the American people to the highest office known to our laws, I appear here to take the oath prescribed by the Constitution, and, in compliance with a time-honored custom, to address those who are now assembled.</p>
 <p>The confidence and respect shown by my countrymen in calling me to be the Chief Magistrate of a Republic holding a high rank among the nations of the earth have inspired me with feelings of the most profound gratitude; but when I reflect that the acceptance of the office which their partiality has bestowed imposes the discharge of the most arduous duties and involves the weightiest obligations, I am conscious that the position which I have been called to fill, though sufficient to satisfy the loftiest ambition, is surrounded by fearful responsibilities. Happily, however, in the performance of my new duties I shall not be without able cooperation. The legislative and judicial branches of the Government present prominent examples of distinguished civil attainments and matured experience, and it shall be my endeavor to call to my assistance in the Executive Departments individuals whose talents, integrity, and purity of character will furnish ample guaranties for the faithful and honorable performance of the trusts to be committed to their charge. With such aids and an honest purpose to do whatever is right, I hope to execute diligently, impartially, and for the best interests of the country the manifold duties devolved upon me.</p>
 <p>In the discharge of these duties my guide will be the Constitution, which I this day swear to "preserve, protect, and defend." For the interpretation of that instrument I shall look to the decisions of the judicial tribunals established by its authority and to the practice of the Government under the earlier Presidents, who had so large a share in its formation. To the example of those illustrious patriots I shall always defer with reverence, and especially to his example who was by so many titles "the Father of his Country."</p>
@@ -399,10 +400,10 @@ FROM GEORGE WASHINGTON TO GEORGE W. BUSH
 </address>
 
 <address n="17" name="FRANKLIN PIERCE" title="INAUGURAL ADDRESS" date="FRIDAY, MARCH 4, 1853">
-<div class="editnote">
+<d class="editnote">
 <p>[Transcriber's note: On religious grounds, former Senator and Congressman Franklin Pierce chose "to affirm" rather than "to swear" the executive oath of office. He was the only President to use the choice offered by the Constitution. Famed as an officer of a volunteer brigade in the Mexican War, he was nominated as the Democratic candidate in the national convention on the 49th ballot. His name had not been placed in nomination until the 35th polling of the delegates. Chief Justice Roger Taney administered the oath of office on the East Portico of the Capitol. Several weeks before arriving in Washington, the Pierces' only surviving child had been killed in a train accident.]</p>
 
-</div>
+</d>
 <p>My Countrymen:</p>
 <p>It is a relief to feel that no heart but my own can know the personal regret and bitter sorrow over which I have been borne to a position so suitable for others rather than desirable for myself.</p>
 <p>The circumstances under which I have been called for a limited period to preside over the destinies of the Republic fill me with a profound sense of responsibility, but with nothing like shrinking apprehension. I repair to the post assigned me not as to one sought, but in obedience to the unsolicited expression of your will, answerable only for a fearless, faithful, and diligent exercise of my best powers. I ought to be, and am, truly grateful for the rare manifestation of the nation's confidence; but this, so far from lightening my obligations, only adds to their weight. You have summoned me in my weakness; you must sustain me by your strength. When looking for the fulfillment of reasonable requirements, you will not be unmindful of the great changes which have occurred, even within the last quarter of a century, and the consequent augmentation and complexity of duties imposed in the administration both of your home and foreign affairs.</p>
@@ -422,10 +423,10 @@ FROM GEORGE WASHINGTON TO GEORGE W. BUSH
 </address>
 
 <address n="18" name="JAMES BUCHANAN" title="INAUGURAL ADDRESS" date="WEDNESDAY, MARCH 4, 1857">
-<div class="editnote">
+<d class="editnote">
 <p>[Transcriber's note: The Democratic Party chose another candidate instead of their incumbent President when they nominated James Buchanan at the national convention. Since the Jackson Administration, he had a distinguished career as a Senator, Congressman, Cabinet officer, and ambassador. The oath of office was administered by Chief Justice Roger Taney on the East Portico of the Capitol. A parade had preceded the ceremony at the Capitol, and an inaugural ball was held that evening for 6,000 celebrants in a specially built hall on Judiciary Square.]</p>
 
-</div>
+</d>
 <p>Fellow-Citizens:</p>
 <p>I appear before you this day to take the solemn oath "that I will faithfully execute the office of President of the United States and will to the best of my ability preserve, protect, and defend the Constitution of the United States."</p>
 <p>In entering upon this great office I must humbly invoke the God of our fathers for wisdom and firmness to execute its high and responsible duties in such a manner as to restore harmony and ancient friendship among the people of the several States and to preserve our free institutions throughout many generations. Convinced that I owe my election to the inherent love for the Constitution and the Union which still animates the hearts of the American people, let me earnestly ask their powerful support in sustaining all just measures calculated to perpetuate these, the richest political blessings which Heaven has ever bestowed upon any nation. Having determined not to become a candidate for reelection, I shall have no motive to influence my conduct in administering the Government except the desire ably and faithfully to serve my country and to live in grateful memory of my countrymen.</p>
@@ -452,10 +453,10 @@ FROM GEORGE WASHINGTON TO GEORGE W. BUSH
 </address>
 
 <address n="19" name="ABRAHAM LINCOLN" title="FIRST INAUGURAL ADDRESS" date="MONDAY, MARCH 4, 1861">
-<div class="editnote">
+<d class="editnote">
 <p>[Transcriber's note: The national upheaval of secession was a grim reality at Abraham Lincoln's inauguration. Jefferson Davis had been inaugurated as the President of the Confederacy two weeks earlier. The former Illinois Congressman had arrived in Washington by a secret route to avoid danger, and his movements were guarded by General Winfield Scott's soldiers. Ignoring advice to the contrary, the President-elect rode with President Buchanan in an open carriage to the Capitol, where he took the oath of office on the East Portico. Chief Justice Roger Taney administered the executive oath for the seventh time. The Capitol itself was sheathed in scaffolding because the copper and wood "Bulfinch" dome was being replaced with a cast iron dome designed by Thomas U. Walter.]</p>
 
-</div>
+</d>
 <p>Fellow-Citizens of the United States:</p>
 <p>In compliance with a custom as old as the Government itself, I appear before you to address you briefly and to take in your presence the oath prescribed by the Constitution of the United States to be taken by the President "before he enters on the execution of this office."</p>
 <p>I do not consider it necessary at present for me to discuss those matters of administration about which there is no special anxiety or excitement.</p>
@@ -499,10 +500,10 @@ FROM GEORGE WASHINGTON TO GEORGE W. BUSH
 </address>
 
 <address n="20" name="ABRAHAM LINCOLN" title="SECOND INAUGURAL ADDRESS" date="SATURDAY, MARCH 4, 1865">
-<div class="editnote">
+<d class="editnote">
 <p>[Transcriber's note: Weeks of wet weather preceding Lincoln's second inauguration had caused Pennsylvania Avenue to become a sea of mud and standing water. Thousands of spectators stood in thick mud at the Capitol grounds to hear the President. As he stood on the East Portico to take the executive oath, the completed Capitol dome over the President's head was a physical reminder of the resolve of his Administration throughout the years of civil war. Chief Justice Salmon Chase administered the oath of office. In little more than a month, the President would be assassinated.]</p>
 
-</div>
+</d>
 <p>Fellow-Countrymen:</p>
 <p>At this second appearing to take the oath of the Presidential office there is less occasion for an extended address than there was at the first. Then a statement somewhat in detail of a course to be pursued seemed fitting and proper. Now, at the expiration of four years, during which public declarations have been constantly called forth on every point and phase of the great contest which still absorbs the attention and engrosses the energies of the nation, little that is new could be presented. The progress of our arms, upon which all else chiefly depends, is as well known to the public as to myself, and it is, I trust, reasonably satisfactory and encouraging to all. With high hope for the future, no prediction in regard to it is ventured.</p>
 <p>On the occasion corresponding to this four years ago all thoughts were anxiously directed to an impending civil war. All dreaded it, all sought to avert it. While the inaugural address was being delivered from this place, devoted altogether to saving the Union without war, urgent agents were in the city seeking to destroy it without war—seeking to dissolve the Union and divide effects by negotiation. Both parties deprecated war, but one of them would make war rather than let the nation survive, and the other would accept war rather than let it perish, and the war came.</p>
@@ -511,10 +512,10 @@ FROM GEORGE WASHINGTON TO GEORGE W. BUSH
 </address>
 
 <address n="21" name="ULYSSES S. GRANT" title="FIRST INAUGURAL ADDRESS" date="THURSDAY, MARCH 4, 1869">
-<div class="editnote">
+<d class="editnote">
 <p>[Transcriber's note: General Grant was the first of many Civil War officers to become President of the United States. He refused to ride in the carriage to the Capitol with President Johnson, who then decided not to attend the ceremony. The oath of office was administered by Chief Justice Salmon Chase on the East Portico. The inaugural parade boasted eight full divisions of the Army—the largest contingent yet to march on such an occasion. That evening, a ball was held in the Treasury Building.]</p>
 
-</div>
+</d>
 <p>Citizens of the United States:</p>
 <p>Your suffrages having elected me to the office of President of the United States, I have, in conformity to the Constitution of our country, taken the oath of office prescribed therein. I have taken this oath without mental reservation and with the determination to do to the best of my ability all that is required of me. The responsibilities of the position I feel, but accept them without fear. The office has come to me unsought; I commence its duties untrammeled. I bring to it a conscious desire and determination to fill it to the best of my ability to the satisfaction of the people.</p>
 <p>On all leading questions agitating the public mind I will always express my views to Congress and urge them according to my judgment, and when I think it advisable will exercise the constitutional privilege of interposing a veto to defeat measures which I oppose; but all laws will be faithfully executed, whether they meet my approval or not.</p>
@@ -534,10 +535,10 @@ FROM GEORGE WASHINGTON TO GEORGE W. BUSH
 </address>
 
 <address n="22" name="ULYSSES S. GRANT" title="SECOND INAUGURAL ADDRESS" date="TUESDAY, MARCH 4, 1873">
-<div class="editnote">
+<d class="editnote">
 <p>[Transcriber's note: Frigid temperatures caused many of the events planned for the second inauguration to be abandoned. The thermometer did not rise much above zero all day, persuading many to avoid the ceremony on the East Portico of the Capitol. The oath of office was administered by Chief Justice Salmon Chase. A parade and a display of fireworks were featured later that day, as well as a ball in a temporary wooden structure on Judiciary Square. The wind blew continuously through the ballroom and many of the guests at the ball never removed their coats.]</p>
 
-</div>
+</d>
 <p>Fellow-Citizens:</p>
 <p>Under Providence I have been called a second time to act as Executive over this great nation. It has been my endeavor in the past to maintain all the laws, and, so far as lay in my power, to act for the best interests of the whole people. My best efforts will be given in the same direction in the future, aided, I trust, by my four years' experience in the office.</p>
 <p>When my first term of the office of Chief Executive began, the country had not recovered from the effects of a great internal revolution, and three of the former States of the Union had not been restored to their Federal relations.</p>
@@ -559,10 +560,10 @@ FROM GEORGE WASHINGTON TO GEORGE W. BUSH
 </address>
 
 <address n="23" name="RUTHERFORD B. HAYES" title="INAUGURAL ADDRESS" date="MONDAY, MARCH 5, 1877">
-<div class="editnote">
+<d class="editnote">
 <p>[Transcriber's note: The outcome of the election of 1876 was not known until the week before the inauguration itself. Democrat Samuel Tilden had won the greater number of popular votes and lacked only one electoral vote to claim a majority in the electoral college. Twenty disputed electoral votes, however, kept hopes alive for Republican Governor Hayes of Ohio. A fifteen-member Electoral Commission was appointed by the Congress to deliberate the outcome of the election. By a majority vote of 8 to 7 the Commission gave all of the disputed votes to the Republican candidate, and Mr. Hayes was elected President on March 2. Since March 4 was a Sunday, he took the oath of office in the Red Room at the White House on March 3, and again on Monday on the East Portico of the Capitol. Chief Justice Morrison Waite administered both oaths.]</p>
 
-</div>
+</d>
 <p>Fellow-Citizens:</p>
 <p>We have assembled to repeat the public ceremonial, begun by Washington, observed by all my predecessors, and now a time-honored custom, which marks the commencement of a new term of the Presidential office. Called to the duties of this great trust, I proceed, in compliance with usage, to announce some of the leading principles, on the subjects that now chiefly engage the public attention, by which it is my desire to be guided in the discharge of those duties. I shall not undertake to lay down irrevocably principles or measures of administration, but rather to speak of the motives which should animate us, and to suggest certain important ends to be attained in accordance with our institutions and essential to the welfare of our country.</p>
 <p>At the outset of the discussions which preceded the recent Presidential election it seemed to me fitting that I should fully make known my sentiments in regard to several of the important questions which then appeared to demand the consideration of the country. Following the example, and in part adopting the language, of one of my predecessors, I wish now, when every motive for misrepresentation has passed away, to repeat what was said before the election, trusting that my countrymen will candidly weigh and understand it, and that they will feel assured that the sentiments declared in accepting the nomination for the Presidency will be the standard of my conduct in the path before me, charged, as I now am, with the grave and difficult task of carrying them out in the practical administration of the Government so far as depends, under the Constitution and laws on the Chief Executive of the nation.</p>
@@ -595,10 +596,10 @@ FROM GEORGE WASHINGTON TO GEORGE W. BUSH
 </address>
 
 <address n="24" name="JAMES A. GARFIELD" title="INAUGURAL ADDRESS" date="FRIDAY, MARCH 4, 1881">
-<div class="editnote">
+<d class="editnote">
 <p>[Transcriber's note: Snow on the ground discouraged many spectators from attending the ceremony at the Capitol. Congressman Garfield had been nominated on his party's 36th ballot at the convention; and he had won the popular vote by a slim margin. The former Civil War general was administered the oath of office by Chief Justice Morrison Waite on the snow-covered East Portico of the Capitol. In the parade and the inaugural ball later that day, John Philip Sousa led the Marine Corps band. The ball was held at the Smithsonian Institution's new National Museum (now the Arts and Industries Building).]</p>
 
-</div>
+</d>
 <p>Fellow-Citizens:</p>
 <p>We stand to-day upon an eminence which overlooks a hundred years of national life—a century crowded with perils, but crowned with the triumphs of liberty and law. Before continuing the onward march let us pause on this height for a moment to strengthen our faith and renew our hope by a glance at the pathway along which our people have traveled.</p>
 <p>It is now three days more than a hundred years since the adoption of the first written constitution of the United States—the Articles of Confederation and Perpetual Union. The new Republic was then beset with danger on every hand. It had not conquered a place in the family of nations. The decisive battle of the war for independence, whose centennial anniversary will soon be gratefully celebrated at Yorktown, had not yet been fought. The colonists were struggling not only against the armies of a great nation, but against the settled opinions of mankind; for the world did not then believe that the supreme authority of government could be safely intrusted to the guardianship of the people themselves.</p>
@@ -642,10 +643,10 @@ FROM GEORGE WASHINGTON TO GEORGE W. BUSH
 </address>
 
 <address n="25" name="GROVER CLEVELAND" title="FIRST INAUGURAL ADDRESS" date="WEDNESDAY, MARCH 4, 1885">
-<div class="editnote">
+<d class="editnote">
 <p>[Transcriber's note: On the East Portico of the Capitol, the former Governor of New York was administered the oath of office by Chief Justice Morrison Waite. A Democrat whose popularity, in part, was the result that he was not part of the Washington political establishment, Mr. Cleveland rode to the Capitol with President Arthur, who had taken office upon the assassination of President Garfield. After the ceremony, a fireworks display at the White House and a ball at the Pension Building on Judiciary Square were held for the public.]</p>
 
-</div>
+</d>
 <p>Fellow-Citizens:</p>
 <p>In the presence of this vast assemblage of my countrymen I am about to supplement and seal by the oath which I shall take the manifestation of the will of a great and free people. In the exercise of their power and right of self-government they have committed to one of their fellow-citizens a supreme and sacred trust, and he here consecrates himself to their service.</p>
 <p>This impressive ceremony adds little to the solemn sense of responsibility with which I contemplate the duty I owe to all the people of the land. Nothing can relieve me from anxiety lest by any act of mine their interests may suffer, and nothing is needed to strengthen my resolution to engage every faculty and effort in the promotion of their welfare.</p>
@@ -669,10 +670,10 @@ FROM GEORGE WASHINGTON TO GEORGE W. BUSH
 </address>
 
 <address n="26" name="BENJAMIN HARRISON" title="INAUGURAL ADDRESS" date="MONDAY, MARCH 4, 1889">
-<div class="editnote">
+<d class="editnote">
 <p>[Transcriber's note: Nominated on the 8th ballot of the Republican convention, the Civil War veteran, jurist, and Senator from Indiana was the only grandson of a President to be elected to the office, as well as the only incumbent to lose in the following election to the person he had defeated. In a rainstorm, the oath of office was administered by Chief Justice Melville Fuller on the East Portico of the Capitol. President Cleveland held an umbrella over his head as he took the oath. John Philip Sousa's Marine Corps band played for a large crowd at the inaugural ball in the Pension Building.]</p>
 
-</div>
+</d>
 <p>Fellow-Citizens:</p>
 <p>There is no constitutional or legal requirement that the President shall take the oath of office in the presence of the people, but there is so manifest an appropriateness in the public induction to office of the chief executive officer of the nation that from the beginning of the Government the people, to whose service the official oath consecrates the officer, have been called to witness the solemn ceremonial. The oath taken in the presence of the people becomes a mutual covenant. The officer covenants to serve the whole body of the people by a faithful execution of the laws, so that they may be the unfailing defense and security of those who respect and observe them, and that neither wealth, station, nor the power of combinations shall be able to evade their just penalties or to wrest them from a beneficent public purpose to serve the ends of cruelty or selfishness.</p>
 <p>My promise is spoken; yours unspoken, but not the less real and solemn. The people of every State have here their representatives. Surely I do not misinterpret the spirit of the occasion when I assume that the whole body of the people covenant with me and with each other to-day to support and defend the Constitution and the Union of the States, to yield willing obedience to all the laws and each to every other citizen his equal civil and political rights. Entering thus solemnly into covenant with each other, we may reverently invoke and confidently expect the favor and help of Almighty God—that He will give to me wisdom, strength, and fidelity, and to our people a spirit of fraternity and a love of righteousness and peace.</p>
@@ -713,10 +714,10 @@ FROM GEORGE WASHINGTON TO GEORGE W. BUSH
 </address>
 
 <address n="27" name="GROVER CLEVELAND" title="SECOND INAUGURAL ADDRESS" date="SATURDAY, MARCH 4, 1893">
-<div class="editnote">
+<d class="editnote">
 <p>[Transcriber's note: A light snowfall the night before the inauguration discouraged many spectators from attending President Cleveland's second inauguration. The Democrat had decisively defeated President Harrison in the election of 1892. Chief Justice Melville Fuller administered the oath of office on the East Portico of the Capitol. The inaugural ball at the Pension Building featured the new invention of electric lights.]</p>
 
-</div>
+</d>
 <p>My Fellow-Citizens:</p>
 <p>In obedience of the mandate of my countrymen I am about to dedicate myself to their service under the sanction of a solemn oath. Deeply moved by the expression of confidence and personal attachment which has called me to this service, I am sure my gratitude can make no better return than the pledge I now give before God and these witnesses of unreserved and complete devotion to the interests and welfare of those who have honored me.</p>
 <p>I deem it fitting on this occasion, while indicating the opinion I hold concerning public questions of present importance, to also briefly refer to the existence of certain conditions and tendencies among our people which seem to menace the integrity and usefulness of their Government.</p>
@@ -748,10 +749,10 @@ FROM GEORGE WASHINGTON TO GEORGE W. BUSH
 </address>
 
 <address n="28" name="WILLIAM MCKINLEY" title="FIRST INAUGURAL ADDRESS" date="THURSDAY, MARCH 4, 1897">
-<div class="editnote">
+<d class="editnote">
 <p>[Transcriber's note: A Civil War officer, and a Governor and Congressman from Ohio, Mr. McKinley took the oath on a platform erected on the north East Front steps at the Capitol. It was administered by Chief Justice Melville Fuller. The Republican had defeated Democrat William Jennings Bryan on the issue of the gold standard in the currency. Thomas Edison's new motion picture camera captured the events, and his gramophone recorded the address. The inaugural ball was held in the Pension Building.]</p>
 
-</div>
+</d>
 <p>Fellow-Citizens:</p>
 <p>In obedience to the will of the people, and in their presence, by the authority vested in me by this oath, I assume the arduous and responsible duties of President of the United States, relying upon the support of my countrymen and invoking the guidance of Almighty God. Our faith teaches that there is no safer reliance than upon the God of our fathers, who has so singularly favored the American people in every national trial, and who will not forsake us so long as we obey His commandments and walk humbly in His footsteps.</p>
 <p>The responsibilities of the high trust to which I have been called—always of grave importance—are augmented by the prevailing business conditions entailing idleness upon willing labor and loss to useful enterprises. The country is suffering from industrial disturbances from which speedy relief must be had. Our financial system needs some revision; our money is all good now, but its value must not further be threatened. It should all be put upon an enduring basis, not subject to easy attack, nor its stability to doubt or dispute. Our currency should continue under the supervision of the Government. The several forms of our paper money offer, in my judgment, a constant embarrassment to the Government and a safe balance in the Treasury. Therefore I believe it necessary to devise a system which, without diminishing the circulating medium or offering a premium for its contraction, will present a remedy for those arrangements which, temporary in their nature, might well in the years of our prosperity have been displaced by wiser provisions. With adequate revenue secured, but not until then, we can enter upon such changes in our fiscal laws as will, while insuring safety and volume to our money, no longer impose upon the Government the necessity of maintaining so large a gold reserve, with its attendant and inevitable temptations to speculation. Most of our financial laws are the outgrowth of experience and trial, and should not be amended without investigation and demonstration of the wisdom of the proposed changes. We must be both "sure we are right" and "make haste slowly." If, therefore, Congress, in its wisdom, shall deem it expedient to create a commission to take under early consideration the revision of our coinage, banking and currency laws, and give them that exhaustive, careful and dispassionate examination that their importance demands, I shall cordially concur in such action. If such power is vested in the President, it is my purpose to appoint a commission of prominent, well-informed citizens of different parties, who will command public confidence, both on account of their ability and special fitness for the work. Business experience and public training may thus be combined, and the patriotic zeal of the friends of the country be so directed that such a report will be made as to receive the support of all parties, and our finances cease to be the subject of mere partisan contention. The experiment is, at all events, worth a trial, and, in my opinion, it can but prove beneficial to the entire country.</p>
@@ -776,10 +777,10 @@ FROM GEORGE WASHINGTON TO GEORGE W. BUSH
 </address>
 
 <address n="29" name="WILLIAM MCKINLEY" title="SECOND INAUGURAL ADDRESS" date="MONDAY, MARCH 4, 1901">
-<div class="editnote">
+<d class="editnote">
 <p>[Transcriber's note: The second inauguration was a patriotic celebration of the successes of the recently concluded Spanish American War. The new Vice President, Theodore Roosevelt, was a popular figure from the War. President McKinley again had defeated William Jennings Bryan, but the campaign issue was American expansionism overseas. Chief Justice Melville Fuller administered the oath of office on a covered platform erected in front of the East Portico of the Capitol. The parade featured soldiers from the campaigns in Cuba, Puerto Rico, and the Philippines. An inaugural ball was held that evening in the Pension Building.]</p>
 
-</div>
+</d>
 <p>My Fellow-Citizens:</p>
 <p>When we assembled here on the 4th of March, 1897, there was great anxiety with regard to our currency and credit. None exists now. Then our Treasury receipts were inadequate to meet the current obligations of the Government. Now they are sufficient for all public needs, and we have a surplus instead of a deficit. Then I felt constrained to convene the Congress in extraordinary session to devise revenues to pay the ordinary expenses of the Government. Now I have the satisfaction to announce that the Congress just closed has reduced taxation in the sum of $41,000,000. Then there was deep solicitude because of the long depression in our manufacturing, mining, agricultural, and mercantile industries and the consequent distress of our laboring population. Now every avenue of production is crowded with activity, labor is well employed, and American products find good markets at home and abroad.</p>
 <p>Our diversified productions, however, are increasing in such unprecedented volume as to admonish us of the necessity of still further enlarging our foreign markets by broader commercial relations. For this purpose reciprocal trade arrangements with other nations should in liberal spirit be carefully cultivated and promoted.</p>
@@ -797,10 +798,10 @@ FROM GEORGE WASHINGTON TO GEORGE W. BUSH
 </address>
 
 <address n="30" name="THEODORE ROOSEVELT" title="INAUGURAL ADDRESS" date="SATURDAY, MARCH 4, 1905">
-<div class="editnote">
+<d class="editnote">
 <p>[Transcriber's note: The energetic Republican President had taken his first oath of office upon the death of President McKinley, who died of an assassin's gunshot wounds on September 14, 1901. Mr. Roosevelt had been President himself for three years at the election of 1904. The inaugural celebration was the largest and most diverse of any in memory—cowboys, Indians (including the Apache Chief Geronimo), coal miners, soldiers, and students were some of the groups represented. The oath of office was administered on the East Portico of the Capitol by Chief Justice Melville Fuller.]</p>
 
-</div>
+</d>
 <p>My fellow-citizens, no people on earth have more cause to be thankful than ours, and this is said reverently, in no spirit of boastfulness in our own strength, but with gratitude to the Giver of Good who has blessed us with the conditions which have enabled us to achieve so large a measure of well-being and of happiness. To us as a people it has been granted to lay the foundations of our national life in a new continent. We are the heirs of the ages, and yet we have had to pay few of the penalties which in old countries are exacted by the dead hand of a bygone civilization. We have not been obliged to fight for our existence against any alien race; and yet our life has called for the vigor and effort without which the manlier and hardier virtues wither away. Under such conditions it would be our own fault if we failed; and the success which we have had in the past, the success which we confidently believe the future will bring, should cause in us no feeling of vainglory, but rather a deep and abiding realization of all which life has offered us; a full acknowledgment of the responsibility which is ours; and a fixed determination to show that under a free government a mighty people can thrive best, alike as regards the things of the body and the things of the soul.</p>
 <p>Much has been given us, and much will rightfully be expected from us. We have duties to others and duties to ourselves; and we can shirk neither. We have become a great nation, forced by the fact of its greatness into relations with the other nations of the earth, and we must behave as beseems a people with such responsibilities. Toward all other nations, large and small, our attitude must be one of cordial and sincere friendship. We must show not only in our words, but in our deeds, that we are earnestly desirous of securing their good will by acting toward them in a spirit of just and generous recognition of all their rights. But justice and generosity in a nation, as in an individual, count most when shown not by the weak but by the strong. While ever careful to refrain from wrongdoing others, we must be no less insistent that we are not wronged ourselves. We wish peace, but we wish the peace of justice, the peace of righteousness. We wish it because we think it is right and not because we are afraid. No weak nation that acts manfully and justly should ever have cause to fear us, and no strong power should ever be able to single us out as a subject for insolent aggression.</p>
 <p>Our relations with the other powers of the world are important; but still more important are our relations among ourselves. Such growth in wealth, in population, and in power as this nation has seen during the century and a quarter of its national life is inevitably accompanied by a like growth in the problems which are ever before every nation that rises to greatness. Power invariably means both responsibility and danger. Our forefathers faced certain perils which we have outgrown. We now face other perils, the very existence of which it was impossible that they should foresee. Modern life is both complex and intense, and the tremendous changes wrought by the extraordinary industrial development of the last half century are felt in every fiber of our social and political being. Never before have men tried so vast and formidable an experiment as that of administering the affairs of a continent under the forms of a Democratic republic. The conditions which have told for our marvelous material well-being, which have developed to a very high degree our energy, self-reliance, and individual initiative, have also brought the care and anxiety inseparable from the accumulation of great wealth in industrial centers. Upon the success of our experiment much depends, not only as regards our own welfare, but as regards the welfare of mankind. If we fail, the cause of free self-government throughout the world will rock to its foundations, and therefore our responsibility is heavy, to ourselves, to the world as it is to-day, and to the generations yet unborn. There is no good reason why we should fear the future, but there is every reason why we should face it seriously, neither hiding from ourselves the gravity of the problems before us nor fearing to approach these problems with the unbending, unflinching purpose to solve them aright.</p>
@@ -809,10 +810,10 @@ FROM GEORGE WASHINGTON TO GEORGE W. BUSH
 </address>
 
 <address n="31" name="WILLIAM HOWARD TAFT" title="INAUGURAL ADDRESS" date="THURSDAY, MARCH 4, 1909">
-<div class="editnote">
+<d class="editnote">
 <p>[Transcriber's note: A blizzard the night before caused the ceremonies to be moved into the Senate Chamber in the Capitol. The oath of office was administered for the sixth time by Chief Justice Melville Fuller. The new President took his oath on the Supreme Court Bible, which he used again in 1921 to take his oaths as the Chief Justice of the Supreme Court. An inaugural ball that evening was held at the Pension Building.]</p>
 
-</div>
+</d>
 <p>My Fellow-Citizens:</p>
 <p>Anyone who has taken the oath I have just taken must feel a heavy weight of responsibility. If not, he has no conception of the powers and duties of the office upon which he is about to enter, or he is lacking in a proper sense of the obligation which the oath imposes.</p>
 <p>The office of an inaugural address is to give a summary outline of the main policies of the new administration, so far as they can be anticipated. I have had the honor to be one of the advisers of my distinguished predecessor, and, as such, to hold up his hands in the reforms he has initiated. I should be untrue to myself, to my promises, and to the declarations of the party platform upon which I was elected to office, if I did not make the maintenance and enforcement of those reforms a most important feature of my administration. They were directed to the suppression of the lawlessness and abuses of power of the great combinations of capital invested in railroads and in industrial enterprises carrying on interstate commerce. The steps which my predecessor took and the legislation passed on his recommendation have accomplished much, have caused a general halt in the vicious policies which created popular alarm, and have brought about in the business affected a much higher regard for existing law.</p>
@@ -861,10 +862,10 @@ FROM GEORGE WASHINGTON TO GEORGE W. BUSH
 </address>
 
 <address n="32" name="WOODROW WILSON" title="FIRST INAUGURAL ADDRESS" date="TUESDAY, MARCH 4, 1913">
-<div class="editnote">
+<d class="editnote">
 <p>[Transcriber's note: The election of 1912 produced a Democratic victory over the split vote for President Taft's Republican ticket and Theodore Roosevelt's Progressive Party. The Governor of New Jersey and former Princeton University president was accompanied by President Taft to the Capitol. The oath of office was administered on the East Portico by Chief Justice Edward White.]</p>
 
-</div>
+</d>
 <p>There has been a change of government. It began two years ago, when the House of Representatives became Democratic by a decisive majority. It has now been completed. The Senate about to assemble will also be Democratic. The offices of President and Vice-President have been put into the hands of Democrats. What does the change mean? That is the question that is uppermost in our minds to-day. That is the question I am going to try to answer, in order, if I may, to interpret the occasion.</p>
 <p>It means much more than the mere success of a party. The success of a party means little except when the Nation is using that party for a large and definite purpose. No one can mistake the purpose for which the Nation now seeks to use the Democratic Party. It seeks to use it to interpret a change in its own plans and point of view. Some old things with which we had grown familiar, and which had begun to creep into the very habit of our thought and of our lives, have altered their aspect as we have latterly looked critically upon them, with fresh, awakened eyes; have dropped their disguises and shown themselves alien and sinister. Some new things, as we look frankly upon them, willing to comprehend their real character, have come to assume the aspect of things long believed in and familiar, stuff of our own convictions. We have been refreshed by a new insight into our own life.</p>
 <p>We see that in many things that life is very great. It is incomparably great in its material aspects, in its body of wealth, in the diversity and sweep of its energy, in the industries which have been conceived and built up by the genius of individual men and the limitless enterprise of groups of men. It is great, also, very great, in its moral force. Nowhere else in the world have noble men and women exhibited in more striking forms the beauty and the energy of sympathy and helpfulness and counsel in their efforts to rectify wrong, alleviate suffering, and set the weak in the way of strength and hope. We have built up, moreover, a great system of government, which has stood through a long age as in many respects a model for those who seek to set liberty upon foundations that will endure against fortuitous change, against storm and accident. Our life contains every great thing, and contains it in rich abundance.</p>
@@ -880,10 +881,10 @@ FROM GEORGE WASHINGTON TO GEORGE W. BUSH
 </address>
 
 <address n="33" name="WOODROW WILSON" title="SECOND INAUGURAL ADDRESS" date="MONDAY, MARCH 5, 1917">
-<div class="editnote">
+<d class="editnote">
 <p>[Transcriber's note: March 4 was a Sunday, but the President took the oath of office at the Capitol in the President's Room that morning. The oath was taken again the next day, administered by Chief Justice Edward White on the East Portico of the Capitol. The specter of war with Germany hung over the events surrounding the inauguration. A Senate filibuster on arming American merchant vessels against submarine attacks had closed the last hours of the Sixty-fourth Congress without passage. Despite the campaign slogan "He kept us out of war," the President asked Congress on April 2 to declare war. It was declared on April 6.]</p>
 
-</div>
+</d>
 <p>My Fellow Citizens:</p>
 <p>The four years which have elapsed since last I stood in this place have been crowded with counsel and action of the most vital interest and consequence. Perhaps no equal period in our history has been so fruitful of important reforms in our economic and industrial life or so full of significant changes in the spirit and purpose of our political action. We have sought very thoughtfully to set our house in order, correct the grosser errors and abuses of our industrial life, liberate and quicken the processes of our national genius and energy, and lift our politics to a broader view of the people's essential interests.</p>
 <p>It is a record of singular variety and singular distinction. But I shall not attempt to review it. It speaks for itself and will be of increasing influence as the years go by. This is not the time for retrospect. It is time rather to speak our thoughts and purposes concerning the present and the immediate future.</p>
@@ -906,10 +907,10 @@ FROM GEORGE WASHINGTON TO GEORGE W. BUSH
 </address>
 
 <address n="34" name="WARREN G. HARDING" title="INAUGURAL ADDRESS" date="FRIDAY, MARCH 4, 1921">
-<div class="editnote">
+<d class="editnote">
 <p>[Transcriber's note: Senator Harding from Ohio was the first sitting Senator to be elected President. A former newspaper publisher and Governor of Ohio, the President-elect rode to the Capitol with President Wilson in the first automobile to be used in an inauguration. President Wilson had suffered a stroke in 1919, and his fragile health prevented his attendance at the ceremony on the East Portico of the Capitol. The oath of office was administered by Chief Justice Edward White, using the Bible from George Washington's first inauguration. The address to the crowd at the Capitol was broadcast on a loudspeaker. A simple parade followed.]</p>
 
-</div>
+</d>
 <p>My Countrymen:</p>
 <p>When one surveys the world about him after the great storm, noting the marks of destruction and yet rejoicing in the ruggedness of the things which withstood it, if he is an American he breathes the clarified atmosphere with a strange mingling of regret and new hope. We have seen a world passion spend its fury, but we contemplate our Republic unshaken, and hold our civilization secure. Liberty—liberty within the law—and civilization are inseparable, and though both were threatened we find them now secure; and there comes to Americans the profound assurance that our representative government is the highest expression and surest guaranty of both.</p>
 <p>Standing in this presence, mindful of the solemnity of this occasion, feeling the emotions which no one may know until he senses the great weight of responsibility for himself, I must utter my belief in the divine inspiration of the founding fathers. Surely there must have been God's intent in the making of this new-world Republic. Ours is an organic law which had but one ambiguity, and we saw that effaced in a baptism of sacrifice and blood, with union maintained, the Nation supreme, and its concord inspiring. We have seen the world rivet its hopeful gaze on the great truths on which the founders wrought. We have seen civil, human, and religious liberty verified and glorified. In the beginning the Old World scoffed at our experiment; today our foundations of political and social belief stand unshaken, a precious inheritance to ourselves, an inspiring example of freedom and civilization to all mankind. Let us express renewed and strengthened devotion, in grateful reverence for the immortal beginning, and utter our confidence in the supreme fulfillment.</p>
@@ -948,10 +949,10 @@ FROM GEORGE WASHINGTON TO GEORGE W. BUSH
 </address>
 
 <address n="35" name="CALVIN COOLIDGE" title="INAUGURAL ADDRESS" date="WEDNESDAY, MARCH 4, 1925">
-<div class="editnote">
+<d class="editnote">
 <p>[Transcriber's note: In 1923 President Coolidge first took the oath of office, administered by his father, a justice of the peace and a notary, in his family's sitting room in Plymouth, Vermont. President Harding had died while traveling in the western States. A year later, the President was elected on the slogan "Keep Cool with Coolidge." Chief Justice William Howard Taft administered the oath of office on the East Portico of the Capitol. The event was broadcast to the nation by radio.]</p>
 
-</div>
+</d>
 <p>My Countrymen:</p>
 <p>No one can contemplate current conditions without finding much that is satisfying and still more that is encouraging. Our own country is leading the world in the general readjustment to the results of the great conflict. Many of its burdens will bear heavily upon us for years, and the secondary and indirect effects we must expect to experience for some time. But we are beginning to comprehend more definitely what course should be pursued, what remedies ought to be applied, what actions should be taken for our deliverance, and are clearly manifesting a determined will faithfully and conscientiously to adopt these methods of relief. Already we have sufficiently rearranged our domestic affairs so that confidence has returned, business has revived, and we appear to be entering an era of prosperity which is gradually reaching into every part of the Nation. Realizing that we can not live unto ourselves alone, we have contributed of our resources and our counsel to the relief of the suffering and the settlement of the disputes among the European nations. Because of what America is and what America has done, a firmer courage, a higher hope, inspires the heart of all humanity.</p>
 <p>These results have not occurred by mere chance. They have been secured by a constant and enlightened effort marked by many sacrifices and extending over many generations. We can not continue these brilliant successes in the future, unless we continue to learn from the past. It is necessary to keep the former experiences of our country both at home and abroad continually before us, if we are to have any science of government. If we wish to erect new structures, we must have a definite knowledge of the old foundations. We must realize that human nature is about the most constant thing in the universe and that the essentials of human relationship do not change. We must frequently take our bearings from these fixed stars of our political firmament if we expect to hold a true course. If we examine carefully what we have done, we can determine the more accurately what we can do.</p>
@@ -980,10 +981,10 @@ FROM GEORGE WASHINGTON TO GEORGE W. BUSH
 </address>
 
 <address n="36" name="HERBERT HOOVER" title="INAUGURAL ADDRESS" date="MONDAY, MARCH 4, 1929">
-<div class="editnote">
+<d class="editnote">
 <p>[Transcriber's note: Popular opinion for the engineer, humanitarian, and Secretary of Commerce brought the President-elect to office with expectations of continued national growth and prosperity. Chief Justice William Howard Taft administered the oath of office on the East Portico of the Capitol. On taking his first elective office, the new President addressed a large crowd in the drizzling rain. Dirigibles and aircraft flew over the Capitol to mark the occasion.]</p>
 
-</div>
+</d>
 <p>My Countrymen:</p>
 <p>This occasion is not alone the administration of the most sacred oath which can be assumed by an American citizen. It is a dedication and consecration under God to the highest office in service of our people. I assume this trust in the humility of knowledge that only through the guidance of Almighty Providence can I hope to discharge its ever-increasing burdens.</p>
 <p>It is in keeping with tradition throughout our history that I should express simply and directly the opinions which I hold concerning some of the matters of present importance.</p>
@@ -1036,10 +1037,10 @@ FROM GEORGE WASHINGTON TO GEORGE W. BUSH
 </address>
 
 <!-- 37 missing number--><address n="38" name="FRANKLIN D. ROOSEVELT" title="FIRST INAUGURAL ADDRESS" date="SATURDAY, MARCH 4, 1933">
-<div class="editnote">
+<d class="editnote">
 <p>[Transcriber's note: The former Governor of New York rode to the Capitol with President Hoover. Pressures of the economy faced the President-elect as he took his oath of office from Chief Justice Charles Evans Hughes on the East Portico of the Capitol. He addressed the nation by radio and announced his plans for a New Deal. Throughout that day the President met with his Cabinet designees at the White House.]</p>
 
-</div>
+</d>
 <p>I am certain that my fellow Americans expect that on my induction into the Presidency I will address them with a candor and a decision which the present situation of our Nation impels. This is preeminently the time to speak the truth, the whole truth, frankly and boldly. Nor need we shrink from honestly facing conditions in our country today. This great Nation will endure as it has endured, will revive and will prosper. So, first of all, let me assert my firm belief that the only thing we have to fear is fear itself—nameless, unreasoning, unjustified terror which paralyzes needed efforts to convert retreat into advance. In every dark hour of our national life a leadership of frankness and vigor has met with that understanding and support of the people themselves which is essential to victory. I am convinced that you will again give that support to leadership in these critical days.</p>
 <p>In such a spirit on my part and on yours we face our common difficulties. They concern, thank God, only material things. Values have shrunken to fantastic levels; taxes have risen; our ability to pay has fallen; government of all kinds is faced by serious curtailment of income; the means of exchange are frozen in the currents of trade; the withered leaves of industrial enterprise lie on every side; farmers find no markets for their produce; the savings of many years in thousands of families are gone.</p>
 <p>More important, a host of unemployed citizens face the grim problem of existence, and an equally great number toil with little return. Only a foolish optimist can deny the dark realities of the moment.</p>
@@ -1070,10 +1071,10 @@ FROM GEORGE WASHINGTON TO GEORGE W. BUSH
 </address>
 
 <address n="39" name="FRANKLIN D. ROOSEVELT" title="SECOND INAUGURAL ADDRESS" date="WEDNESDAY, JANUARY 20, 1937">
-<div class="editnote">
+<d class="editnote">
 <p>[Transcriber's note: For the first time the inauguration of the President was held on January 20, pursuant to the provisions of the 20th amendment to the Constitution. Having won the election of 1936 by a wide margin, and looking forward to the advantage of Democratic gains in the House and Senate, the President confidently outlined the continuation of his programs. The oath of office was administered on the East Portico of the Capitol by Chief Justice Charles Evans Hughes.]</p>
 
-</div>
+</d>
 <p>When four years ago we met to inaugurate a President, the Republic, single-minded in anxiety, stood in spirit here. We dedicated ourselves to the fulfillment of a vision—to speed the time when there would be for all the people that security and peace essential to the pursuit of happiness. We of the Republic pledged ourselves to drive from the temple of our ancient faith those who had profaned it; to end by action, tireless and unafraid, the stagnation and despair of that day. We did those first things first.</p>
 <p>Our covenant with ourselves did not stop there. Instinctively we recognized a deeper need—the need to find through government the instrument of our united purpose to solve for the individual the ever-rising problems of a complex civilization. Repeated attempts at their solution without the aid of government had left us baffled and bewildered. For, without that aid, we had been unable to create those moral controls over the services of science which are necessary to make science a useful servant instead of a ruthless master of mankind. To do this we knew that we must find practical controls over blind economic forces and blindly selfish men.</p>
 <p>We of the Republic sensed the truth that democratic government has innate capacity to protect its people against disasters once considered inevitable, to solve problems once considered unsolvable. We would not admit that we could not find a way to master economic epidemics just as, after centuries of fatalistic suffering, we had found a way to master epidemics of disease. We refused to leave the problems of our common welfare to be solved by the winds of chance and the hurricanes of disaster.</p>
@@ -1115,10 +1116,10 @@ FROM GEORGE WASHINGTON TO GEORGE W. BUSH
 </address>
 
 <address n="40" name="FRANKLIN D. ROOSEVELT" title="THIRD INAUGURAL ADDRESS" date="MONDAY, JANUARY 20, 1941">
-<div class="editnote">
+<d class="editnote">
 <p>[Transcriber's note: The only chief executive to serve more than two terms, President Roosevelt took office for the third time as Europe and Asia engaged in war. The oath of office was administered by Chief Justice Charles Evans Hughes on the East Portico of the Capitol. The Roosevelts hosted a reception for several thousand visitors at the White House later that day.]</p>
 
-</div>
+</d>
 <p>On each national day of inauguration since 1789, the people have renewed their sense of dedication to the United States.</p>
 <p>In Washington's day the task of the people was to create and weld together a nation.</p>
 <p>In Lincoln's day the task of the people was to preserve that Nation from disruption from within.</p>
@@ -1160,10 +1161,10 @@ FROM GEORGE WASHINGTON TO GEORGE W. BUSH
 </address>
 
 <address n="41" name="FRANKLIN D. ROOSEVELT" title="FOURTH INAUGURAL ADDRESS" date="SATURDAY, JANUARY 20, 1945">
-<div class="editnote">
+<d class="editnote">
 <p>[Transcriber's note: The fourth inauguration was conducted without fanfare. Because of the expense and impropriety of festivity during the height of war, the oath of office was taken on the South Portico of the White House. It was administered by Chief Justice Harlan Stone. No formal celebrations followed the address. Instead of renominating Vice President Henry Wallace in the election of 1944, the Democratic convention chose the Senator from Missouri, Harry S. Truman.]</p>
 
-</div>
+</d>
 <p>Mr. Chief Justice, Mr. Vice President, my friends, you will understand and, I believe, agree with my wish that the form of this inauguration be simple and its words brief.</p>
 <p>We Americans of today, together with our allies, are passing through a period of supreme test. It is a test of our courage—of our resolve—of our wisdom—our essential democracy.</p>
 <p>If we meet that test—successfully and honorably—we shall perform a service of historic importance which men and women and children will honor throughout all time.</p>
@@ -1184,10 +1185,10 @@ FROM GEORGE WASHINGTON TO GEORGE W. BUSH
 </address>
 
 <address n="42" name="HARRY S. TRUMAN" title="INAUGURAL ADDRESS" date="THURSDAY, JANUARY 20, 1949">
-<div class="editnote">
+<d class="editnote">
 <p>[Transcriber's note: A former county judge, Senator and Vice President, Harry S. Truman had taken the oath of office first on April 12, 1945, upon the death of President Roosevelt. Mr. Truman's victory in the 1948 election was so unexpected that many newspapers had declared the Republican candidate, Governor Thomas E. Dewey of New York, the winner. The President went to the East Portico of the Capitol to take the oath of office on two Bibles—the personal one he had used for the first oath, and a Gutenberg Bible donated by the citizens of Independence, Missouri. The ceremony was televised as well as broadcast on the radio.]</p>
 
-</div>
+</d>
 <p>Mr. Vice President, Mr. Chief Justice, and fellow citizens, I accept with humility the honor which the American people have conferred upon me. I accept it with a deep resolve to do all that I can for the welfare of this Nation and for the peace of the world.</p>
 <p>In performing the duties of my office, I need the help and prayers of every one of you. I ask for your encouragement and your support. The tasks we face are difficult, and we can accomplish them only if we work together.</p>
 <p>Each period of our national history has had its special challenges. Those that confront us now are as momentous as any in the past. Today marks the beginning not only of a new administration, but of a period that will be eventful, perhaps decisive, for us and for the world.</p>
@@ -1263,10 +1264,10 @@ FROM GEORGE WASHINGTON TO GEORGE W. BUSH
 </address>
 
 <address n="43" name="DWIGHT D. EISENHOWER" title="FIRST INAUGURAL ADDRESS" date="TUESDAY, JANUARY 20, 1953">
-<div class="editnote">
+<d class="editnote">
 <p>[Transcriber's note: The Republican Party successfully promoted the candidacy of the popular General of the Army in the 1952 election over the Democratic candidate, Adlai Stevenson. The oath of office was administered by Chief Justice Frederick Vinson on two Bibles—the one used by George Washington at the first inauguration, and the one General Eisenhower received from his mother upon his graduation from the Military Academy at West Point. A large parade followed the ceremony, and inaugural balls were held at the National Armory and Georgetown University's McDonough Hall.]</p>
 
-</div>
+</d>
 <p>My friends, before I begin the expression of those thoughts that I deem appropriate to this moment, would you permit me the privilege of uttering a little private prayer of my own. And I ask that you bow your heads:</p>
 <p>Almighty God, as we stand here at this moment my future associates in the executive branch of government join me in beseeching that Thou will make full and complete our dedication to the service of the people in this throng, and their fellow citizens everywhere.</p>
 <p>Give us, we pray, the power to discern clearly right from wrong, and allow all our words and actions to be governed thereby, and by the laws of this land. Especially we pray that our concern shall be for all the people regardless of station, race, or calling.</p>
@@ -1324,10 +1325,10 @@ FROM GEORGE WASHINGTON TO GEORGE W. BUSH
 </address>
 
 <address n="44" name="DWIGHT D. EISENHOWER" title="SECOND INAUGURAL ADDRESS" date="MONDAY, JANUARY 21, 1957">
-<div class="editnote">
+<d class="editnote">
 <p>[Transcriber's note: January 20 occurred on a Sunday, so the President took the oath in the East Room at the White House that morning. The next day he repeated the oath of office on the East Portico of the Capitol. Chief Justice Earl Warren administered the oath of office on the President's personal Bible from West Point. Marian Anderson sang at the ceremony at the Capitol. A large parade and four inaugural balls followed the ceremony.]</p>
 
-</div>
+</d>
 <p>THE PRICE OF PEACE</p>
 <p>Mr. Chairman, Mr. Vice President, Mr. Chief Justice, Mr. Speaker, members of my family and friends, my countrymen, and the friends of my country, wherever they may be, we meet again, as upon a like moment four years ago, and again you have witnessed my solemn oath of service to you.</p>
 <p>I, too, am a witness, today testifying in your name to the principles and purposes to which we, as a people, are pledged.</p>
@@ -1373,10 +1374,10 @@ FROM GEORGE WASHINGTON TO GEORGE W. BUSH
 </address>
 
 <address n="45" name="JOHN F. KENNEDY" title="INAUGURAL ADDRESS" date="FRIDAY, JANUARY 20, 1961">
-<div class="editnote">
+<d class="editnote">
 <p>[Transcriber's note: Heavy snow fell the night before the inauguration, but thoughts about cancelling the plans were overruled. The election of 1960 had been close, and the Democratic Senator from Massachusetts was eager to gather support for his agenda. He attended Holy Trinity Catholic Church in Georgetown that morning before joining President Eisenhower to travel to the Capitol. The Congress had extended the East Front, and the inaugural platform spanned the new addition. The oath of office was administered by Chief Justice Earl Warren. Robert Frost read one of his poems at the ceremony.]</p>
 
-</div>
+</d>
 <p>Vice President Johnson, Mr. Speaker, Mr. Chief Justice, President Eisenhower, Vice President Nixon, President Truman, reverend clergy, fellow citizens, we observe today not a victory of party, but a celebration of freedom—symbolizing an end, as well as a beginning—signifying renewal, as well as change. For I have sworn before you and Almighty God the same solemn oath our forebears prescribed nearly a century and three quarters ago.</p>
 <p>The world is very different now. For man holds in his mortal hands the power to abolish all forms of human poverty and all forms of human life. And yet the same revolutionary beliefs for which our forebears fought are still at issue around the globe—the belief that the rights of man come not from the generosity of the state, but from the hand of God.</p>
 <p>We dare not forget today that we are the heirs of that first revolution. Let the word go forth from this time and place, to friend and foe alike, that the torch has been passed to a new generation of Americans—born in this century, tempered by war, disciplined by a hard and bitter peace, proud of our ancient heritage—and unwilling to witness or permit the slow undoing of those human rights to which this Nation has always been committed, and to which we are committed today at home and around the world.</p>
@@ -1408,10 +1409,10 @@ FROM GEORGE WASHINGTON TO GEORGE W. BUSH
 </address>
 
 <address n="46" name="LYNDON BAINES JOHNSON" title="INAUGURAL ADDRESS" date="WEDNESDAY, JANUARY 20, 1965">
-<div class="editnote">
+<d class="editnote">
 <p>[Transcriber's note: President Johnson had first taken the oath of office on board Air Force One on November 22, 1963, the day President Kennedy was assassinated in Dallas. The election of 1964 was a landslide victory for the Democratic Party. Mrs. Johnson joined the President on the platform on the East Front of the Capitol; she was the first wife to stand with her husband as he took the oath of office. The oath was administered by Chief Justice Earl Warren. Leontyne Price sang at the ceremony.]</p>
 
-</div>
+</d>
 <p>My fellow countrymen, on this occasion, the oath I have taken before you and before God is not mine alone, but ours together. We are one nation and one people. Our fate as a nation and our future as a people rest not upon one citizen, but upon all citizens.</p>
 <p>This is the majesty and the meaning of this moment.</p>
 <p>For every generation, there is a destiny. For some, history decides. For this generation, the choice must be our own.</p>
@@ -1455,10 +1456,10 @@ FROM GEORGE WASHINGTON TO GEORGE W. BUSH
 </address>
 
 <address n="47" name="RICHARD MILHOUS NIXON" title="FIRST INAUGURAL ADDRESS" date="MONDAY, JANUARY 20, 1969">
-<div class="editnote">
+<d class="editnote">
 <p>[Transcriber's note: An almost-winner of the 1960 election, and a close winner of the 1968 election, the former Vice President and California Senator and Congressman had defeated the Democratic Vice President, Hubert Humphrey, and the American Independent Party candidate, George Wallace. Chief Justice Earl Warren administered the oath of office for the fifth time. The President addressed the large crowd from a pavilion on the East Front of the Capitol. The address was televised by satellite around the world.]</p>
 
-</div>
+</d>
 <p>Senator Dirksen, Mr. Chief Justice, Mr. Vice President, President Johnson, Vice President Humphrey, my fellow Americans—and my fellow citizens of the world community:</p>
 <p>I ask you to share with me today the majesty of this moment. In the orderly transfer of power, we celebrate the unity that keeps us free.</p>
 <p>Each moment in history is a fleeting time, precious and unique. But some stand out as moments of beginning, in which courses are set that shape decades or centuries.</p>
@@ -1540,10 +1541,10 @@ FROM GEORGE WASHINGTON TO GEORGE W. BUSH
 </address>
 
 <address n="48" name="RICHARD MILHOUS NIXON" title="SECOND INAUGURAL ADDRESS" date="SATURDAY, JANUARY 20, 1973">
-<div class="editnote">
+<d class="editnote">
 <p>[Transcriber's note: The election of 1972 consolidated the gains that the President had made with the electorate in 1968. Although the Democratic Party maintained majorities in the Congress, the presidential ambitions of South Dakota Senator George McGovern were unsuccessful. The oath of office was administered by Chief Justice Warren Burger on a pavilion erected on the East Front of the Capitol.]</p>
 
-</div>
+</d>
 <p>Mr. Vice President, Mr. Speaker, Mr. Chief Justice, Senator Cook, Mrs. Eisenhower, and my fellow citizens of this great and good country we share together:</p>
 <p>When we met here four years ago, America was bleak in spirit, depressed by the prospect of seemingly endless war abroad and of destructive conflict at home.</p>
 <p>As we meet here today, we stand on the threshold of a new era of peace in the world.</p>
@@ -1599,10 +1600,10 @@ FROM GEORGE WASHINGTON TO GEORGE W. BUSH
 </address>
 
 <address n="49" name="JIMMY CARTER" title="INAUGURAL ADDRESS" date="THURSDAY, JANUARY 20, 1977">
-<div class="editnote">
+<d class="editnote">
 <p>[Transcriber's note: The Democrats reclaimed the White House in the 1976 election. The Governor from Georgia defeated Gerald Ford, who had become President on August 9, 1974, upon the resignation of President Nixon. The oath of office was taken on the Bible used in the first inauguration by George | Washington; it was administered by Chief Justice Warren Burger on the East Front of the Capitol. The new President and his family surprised the spectators by walking from the Capitol to the White House after the ceremony.]</p>
 
-</div>
+</d>
 <p>For myself and for our Nation, I want to thank my predecessor for all he has done to heal our land.</p>
 <p>In this outward and physical ceremony we attest once again to the inner and spiritual strength of our Nation. As my high school teacher, Miss Julia Coleman, used to say: "We must adjust to changing times and still hold to unchanging principles."</p>
 <p>Here before me is the Bible used in the inauguration of our first President, in 1789, and I have just taken the oath of office on the Bible my mother gave me a few years ago, opened to a timeless admonition from the ancient prophet Micah:</p>
@@ -1639,10 +1640,10 @@ FROM GEORGE WASHINGTON TO GEORGE W. BUSH
 </address>
 
 <address n="50" name="RONALD REAGAN" title="FIRST INAUGURAL ADDRESS" date="TUESDAY, JANUARY 20, 1981">
-<div class="editnote">
+<d class="editnote">
 <p>[Transcriber's note: For the first time, an inauguration ceremony was held on the terrace of the West Front of the Capitol. Chief Justice Warren Burger administered the oath of office to the former broadcaster, screen actor, and Governor of California. In the election of 1980, the Republicans won the White House and a majority in the Senate. On inauguration day, American hostages held by the revolutionary government of Iran were released.]</p>
 
-</div>
+</d>
 <p>Senator Hatfield, Mr. Chief Justice, Mr. President, Vice President Bush, Vice President Mondale, Senator Baker, Speaker O'Neill, Reverend Moomaw, and my fellow citizens: To a few of us here today, this is a solemn and most momentous occasion; and yet, in the history of our Nation, it is a commonplace occurrence. The orderly transfer of authority as called for in the Constitution routinely takes place as it has for almost two centuries and few of us stop to think how unique we really are. In the eyes of many in the world, this every-4-year ceremony we accept as normal is nothing less than a miracle.</p>
 <p>Mr. President, I want our fellow citizens to know how much you did to carry on this tradition. By your gracious cooperation in the transition process, you have shown a watching world that we are a united people pledged to maintaining a political system which guarantees individual liberty to a greater degree than any other, and I thank you and your people for all your help in maintaining the continuity which is the bulwark of our Republic.</p>
 <p>The business of our nation goes forward. These United States are confronted with an economic affliction of great proportions. We suffer from the longest and one of the worst sustained inflations in our national history. It distorts our economic decisions, penalizes thrift, and crushes the struggling young and the fixed-income elderly alike. It threatens to shatter the lives of millions of our people.</p>
@@ -1686,10 +1687,10 @@ FROM GEORGE WASHINGTON TO GEORGE W. BUSH
 </address>
 
 <address n="51" name="RONALD REAGAN" title="SECOND INAUGURAL ADDRESS" date="MONDAY, JANUARY 21, 1985">
-<div class="editnote">
+<d class="editnote">
 <p>[Transcriber's note: January 20 was a Sunday, and the President took the oath of office, administered by Chief Justice Warren Burger, in the Grand Foyer of the White House. Weather that hovered near zero that night and on Monday forced the planners to cancel many of the outdoor events for the second inauguration. For the first time a President took the oath of office in the Capitol Rotunda. The oath was again administered by Chief Justice Burger. Jessye Norman sang at the ceremony.]</p>
 
-</div>
+</d>
 <p>Senator Mathias, Chief Justice Burger, Vice President Bush, Speaker O'Neill, Senator Dole, Reverend Clergy, members of my family and friends, and my fellow citizens:</p>
 <p>This day has been made brighter with the presence here of one who, for a time, has been absent—Senator John Stennis.</p>
 <p>God bless you and welcome back.</p>
@@ -1737,10 +1738,10 @@ FROM GEORGE WASHINGTON TO GEORGE W. BUSH
 </address>
 
 <address n="52" name="GEORGE BUSH" title="INAUGURAL ADDRESS" date="FRIDAY, JANUARY 20, 1989">
-<div class="editnote">
+<d class="editnote">
 <p>[Transcriber's note: The 200th anniversary of the Presidency was observed as George Bush took the executive oath on the same Bible George Washington used in 1789. The ceremony occurred on a platform on the terrace of the West Front of the Capitol. The oath of office was administered by Chief Justice William Rehnquist. After the ceremony the President and Mrs. Bush led the inaugural parade from the Capitol to the White House, walking along several blocks of Pennsylvania Avenue to greet the spectators.]</p>
 
-</div>
+</d>
 <p>Mr. Chief Justice, Mr. President, Vice President Quayle, Senator Mitchell, Speaker Wright, Senator Dole, Congressman Michel, and fellow citizens, neighbors, and friends:</p>
 <p>There is a man here who has earned a lasting place in our hearts and in our history. President Reagan, on behalf of our Nation, I thank you for the wonderful things that you have done for America.</p>
 <p>I have just repeated word for word the oath taken by George Washington 200 years ago, and the Bible on which I placed my hand is the Bible on which he placed his. It is right that the memory of Washington be with us today, not only because this is our Bicentennial Inauguration, but because Washington remains the Father of our Country. And he would, I think, be gladdened by this day; for today is the concrete expression of a stunning fact: our continuity these 200 years since our government began.</p>
@@ -1774,10 +1775,10 @@ FROM GEORGE WASHINGTON TO GEORGE W. BUSH
 </address>
 
 <address n="53" name="WILLIAM JEFFERSON CLINTON" title="FIRST INAUGURAL ADDRESS" date="JANUARY 20, 1993">
-<div class="editnote">
+<d class="editnote">
 <p>[As presented on the Internet by Project Gutenberg on January 20th, 1993]</p>
 
-</div>
+</d>
 <p>My fellow citizens:</p>
 <p>Today we celebrate the mystery of American renewal.</p>
 <p>This ceremony is held in the depth of winter, but by the words we speak and the faces we show the world, we force the spring. A spring reborn in the world's oldest democracy, that brings forth the vision and courage to reinvent America. When our founders boldly declared America's independence to the world, and our purposes to the Almighty, they knew that America, to endure, would have to change. Not change for change sake, but change to preserve America's ideals: life, liberty, the pursuit of happiness.</p>

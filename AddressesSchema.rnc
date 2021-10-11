@@ -1,0 +1,13 @@
+datatypes xsd = "http://www.w3.org/2001/XMLSchema-datatypes"
+
+start = addresses
+addresses = element addresses {source, address+}
+source = element source {text}
+address = element address {n, name, title, date, d?, p+}
+n = attribute n {xsd:int}
+name = attribute name {text}
+title = attribute title {text}
+date = attribute date {text}
+d = element d {class, p*}
+class = attribute class {text}
+p = element p {text}
