@@ -8758,21 +8758,21 @@
                             convention chose the Senator from Missouri, Harry S. Truman.]</p>
 
               </d>
-              <p>Mr. Chief Justice, Mr. Vice President, my friends, you will understand and, I
+              <p><salutation>Mr. Chief Justice, Mr. Vice President, my friends, you will understand and, I
                      believe, agree with my wish that the form of this inauguration be simple and
-                     its words brief.</p>
-              <p>We Americans of today, together with our allies, are passing through a period of
+                     its words brief.</salutation></p>
+              <p><ref type = "diplomacy">We Americans of today, together with our allies, are passing through a period of
                      supreme test. It is a test of our courage—of our resolve—of our wisdom—our
-                     essential democracy.</p>
+                     essential democracy.</ref></p>
               <p>If we meet that test—successfully and honorably—we shall perform a service of
                      historic importance which men and women and children will honor throughout all
                      time.</p>
-              <p>As I stand here today, having taken the solemn oath of office in the presence of my
-                     fellow countrymen—in the presence of our God—I know that it is America's
+              <p>As I stand here today, <ref type = "religion">having taken the solemn oath of office in the presence of my
+                     fellow countrymen—in the presence of our God</ref>—I know that it is America's
                      purpose that we shall not fail.</p>
-              <p>In the days and in the years that are to come we shall work for a just and
-                     honorable peace, a durable peace, as today we work and fight for total victory
-                     in war.</p>
+              <p><ref type = "diplomacy">In the days and in the years that are to come we shall work for a just and
+                     honorable peace, a durable peace,</ref> <ref type = "war">as today we work and fight for total victory
+                     in war.</ref></p>
               <p>We can and we will achieve such a peace.</p>
               <p>We shall strive for perfection. We shall not achieve it immediately—but we still
                      shall strive. We may make mistakes—but they must never be mistakes which result
@@ -8784,12 +8784,12 @@
                      civilization itself is forever upward; that a line drawn through the middle of
                      the peaks and the valleys of the centuries always has an upward trend."</p>
               <p>Our Constitution of 1787 was not a perfect instrument; it is not perfect yet. But
-                     it provided a firm base upon which all manner of men, of all races and colors
-                     and creeds, could build our solid structure of democracy.</p>
-              <p>And so today, in this year of war, 1945, we have learned lessons—at a fearful
+                     <ref type = "social">it provided a firm base upon which all manner of men, of all races and colors
+                     and creeds, could build our solid structure of democracy.</ref></p>
+              <p><ref type = "war">And so today, in this year of war, 1945,</ref> we have learned lessons—at a fearful
                      cost—and we shall profit by them.</p>
-              <p>We have learned that we cannot live alone, at peace; that our own well-being is
-                     dependent on the well-being of other nations far away. We have learned that we
+              <p><ref type = "war">We have learned that we cannot live alone, at peace; that our own well-being is
+                     dependent on the well-being of other nations far away.</ref> We have learned that we
                      must live as men, not as ostriches, nor as dogs in the manger.</p>
               <p>We have learned to be citizens of the world, members of the human community.</p>
               <p>We have learned the simple truth, as Emerson said, that "The only way to have a
@@ -8797,13 +8797,13 @@
               <p>We can gain no lasting peace if we approach it with suspicion and mistrust or with
                      fear. We can gain it only if we proceed with the understanding, the confidence,
                      and the courage which flow from conviction.</p>
-              <p>The Almighty God has blessed our land in many ways. He has given our people stout
+              <p><ref type = "religion">The Almighty God has blessed our land in many ways. He has given our people stout
                      hearts and strong arms with which to strike mighty blows for freedom and truth.
                      He has given to our country a faith which has become the hope of all peoples in
-                     an anguished world.</p>
-              <p>So we pray to Him now for the vision to see our way clearly—to see the way that
+                     an anguished world.</ref></p>
+              <p><ref type = "religion">So we pray to Him now for the vision to see our way clearly—to see the way that
                      leads to a better life for ourselves and for all our fellow men—to the
-                     achievement of His will to peace on earth.</p>
+                     achievement of His will to peace on earth.</ref></p>
 
        </address>
 
@@ -9051,43 +9051,43 @@
                             University's McDonough Hall.]</p>
 
               </d>
-              <p>My friends, before I begin the expression of those thoughts that I deem appropriate
-                     to this moment, would you permit me the privilege of uttering a little private
-                     prayer of my own. And I ask that you bow your heads:</p>
-              <p>Almighty God, as we stand here at this moment my future associates in the executive
+              <p><salutation>My friends, before I begin the expression of those thoughts that I deem appropriate
+                     to this moment, <ref type = "religion">would you permit me the privilege of uttering a little private
+                     prayer of my own. And I ask that you bow your heads:</ref></salutation></p>
+              <p><ref type = "religion">Almighty God, as we stand here at this moment my future associates in the executive
                      branch of government join me in beseeching that Thou will make full and
                      complete our dedication to the service of the people in this throng, and their
-                     fellow citizens everywhere.</p>
-              <p>Give us, we pray, the power to discern clearly right from wrong, and allow all our
+                     fellow citizens everywhere.</ref></p>
+              <p><ref type = "religion">Give us, we pray, the power to discern clearly right from wrong, and allow all our
                      words and actions to be governed thereby, and by the laws of this land.
                      Especially we pray that our concern shall be for all the people regardless of
-                     station, race, or calling.</p>
-              <p>May cooperation be permitted and be the mutual aim of those who, under the concepts
+                     station, race, or calling.</ref></p>
+              <p><ref type = "religion">May cooperation be permitted and be the mutual aim of those who, under the concepts
                      of our Constitution, hold to differing political faiths; so that all may work
-                     for the good of our beloved country and Thy glory. Amen.</p>
+                     for the good of our beloved country and Thy glory. Amen.</ref></p>
               <p>My fellow citizens:</p>
               <p>The world and we have passed the midway point of a century of continuing challenge.
-                     We sense with all our faculties that forces of good and evil are massed and
-                     armed and opposed as rarely before in history.</p>
+                     <ref type = "diplomacy">We sense with all our faculties that forces of good and evil are massed and
+                     armed and opposed as rarely before in history.</ref></p>
               <p>This fact defines the meaning of this day. We are summoned by this honored and
                      historic ceremony to witness more than the act of one citizen swearing his oath
-                     of service, in the presence of God. We are called as a people to give testimony
+                     of service, <ref type = "religion">in the presence of God. We are called as a people to give testimony
                      in the sight of the world to our faith that the future shall belong to the
-                     free.</p>
+                     free.</ref></p>
               <p>Since this century's beginning, a time of tempest has seemed to come upon the
-                     continents of the earth. Masses of Asia have awakened to strike off shackles of
-                     the past. Great nations of Europe have fought their bloodiest wars. Thrones
+                     continents of the earth. <ref type = "war">Masses of Asia have awakened to strike off shackles of
+                     the past. Great nations of Europe have fought their bloodiest wars.</ref> ,<ref type = "diplomacy">Thrones
                      have toppled and their vast empires have disappeared. New nations have been
-                     born.</p>
+                     born.</ref></p>
               <p>For our own country, it has been a time of recurring trial. We have grown in power
-                     and in responsibility. We have passed through the anxieties of depression and
+                     and in responsibility. <ref type = "war">We have passed through the anxieties of depression and
                      of war to a summit unmatched in man's history. Seeking to secure peace in the
                      world, we have had to fight through the forests of the Argonne, to the shores
-                     of Iwo Jima, and to the cold mountains of Korea.</p>
+                     of Iwo Jima, and to the cold mountains of Korea.</ref></p>
               <p>In the swift rush of great events, we find ourselves groping to know the full sense
                      and meaning of these times in which we live. In our quest of understanding, we
-                     beseech God's guidance. We summon all our knowledge of the past and we scan all
-                     signs of the future. We bring all our wit and all our will to meet the
+                     beseech God's guidance. <ref type = "religion">We summon all our knowledge of the past and we scan all
+                     signs of the future.</ref> We bring all our wit and all our will to meet the
                      question:</p>
               <p>How far have we come in man's long pilgrimage from darkness toward light? Are we
                      nearing the light—a day of freedom and of peace for all mankind? Or are the
@@ -9098,40 +9098,40 @@
                      question that involves all humankind.</p>
               <p>This trial comes at a moment when man's power to achieve good or to inflict evil
                      surpasses the brightest hopes and the sharpest fears of all ages. We can turn
-                     rivers in their courses, level mountains to the plains. Oceans and land and sky
-                     are avenues for our colossal commerce. Disease diminishes and life
+                     rivers in their courses, level mountains to the plains. <ref type = "war">Oceans and land and sky
+                     are avenues for our colossal commerce.</ref> Disease diminishes and life
                      lengthens.</p>
               <p>Yet the promise of this life is imperiled by the very genius that has made it
-                     possible. Nations amass wealth. Labor sweats to create—and turns out devices to
+                     possible. <ref type = "diplomacy">Nations amass wealth. Labor sweats to create—and turns out devices to
                      level not only mountains but also cities. Science seems ready to confer upon
-                     us, as its final gift, the power to erase human life from this planet.</p>
-              <p>At such a time in history, we who are free must proclaim anew our faith. This faith
+                     us, as its final gift, the power to erase human life from this planet.</ref></p>
+              <p>At such a time in history, <ref type = "religion">we who are free must proclaim anew our faith. This faith
                      is the abiding creed of our fathers. It is our faith in the deathless dignity
-                     of man, governed by eternal moral and natural laws.</p>
-              <p>This faith defines our full view of life. It establishes, beyond debate, those
+                     of man, governed by eternal moral and natural laws.</ref></p>
+              <p><ref type = "religion">This faith defines our full view of life. It establishes, beyond debate, those
                      gifts of the Creator that are man's inalienable rights, and that make all men
-                     equal in His sight.</p>
-              <p>In the light of this equality, we know that the virtues most cherished by free
+                     equal in His sight.</ref></p>
+              <p><ref type = "economy">In the light of this equality, we know that the virtues most cherished by free
                      people—love of truth, pride of work, devotion to country—all are treasures
                      equally precious in the lives of the most humble and of the most exalted. The
                      men who mine coal and fire furnaces and balance ledgers and turn lathes and
                      pick cotton and heal the sick and plant corn—all serve as proudly, and as
                      profitably, for America as the statesmen who draft treaties and the legislators
-                     who enact laws.</p>
+                     who enact laws.</ref></p>
               <p>This faith rules our whole way of life. It decrees that we, the people, elect
                      leaders not to rule but to serve. It asserts that we have the right to choice
                      of our own work and to the reward of our own toil. It inspires the initiative
-                     that makes our productivity the wonder of the world. And it warns that any man
+                     that makes our productivity the wonder of the world. <ref type = "social">And it warns that any man
                      who seeks to deny equality among all his brothers betrays the spirit of the
-                     free and invites the mockery of the tyrant.</p>
+                     free and invites the mockery of the tyrant.</ref></p>
               <p>It is because we, all of us, hold to these principles that the political changes
                      accomplished this day do not imply turbulence, upheaval or disorder. Rather
                      this change expresses a purpose of strengthening our dedication and devotion to
                      the precepts of our founding documents, a conscious renewal of faith in our
                      country and in the watchfulness of a Divine Providence.</p>
-              <p>The enemies of this faith know no god but force, no devotion but its use. They
+              <p><ref type = "religion">The enemies of this faith know no god but force, no devotion but its use.</ref> <ref type = "diplomacy">They
                      tutor men in treason. They feed upon the hunger of others. Whatever defies
-                     them, they torture, especially the truth.</p>
+                     them, they torture, especially the truth.</ref></p>
               <p>Here, then, is joined no argument between slightly differing philosophies. This
                      conflict strikes directly at the faith of our fathers and the lives of our
                      sons. No principle or treasure that we hold, from the spiritual knowledge of
@@ -9140,89 +9140,89 @@
               <p>Freedom is pitted against slavery; lightness against the dark.</p>
               <p>The faith we hold belongs not to us alone but to the free of all the world. This
                      common bond binds the grower of rice in Burma and the planter of wheat in Iowa,
-                     the shepherd in southern Italy and the mountaineer in the Andes. It confers a
+                     the shepherd in southern Italy and the mountaineer in the Andes. <ref type = "war">It confers a
                      common dignity upon the French soldier who dies in Indo-China, the British
-                     soldier killed in Malaya, the American life given in Korea.</p>
+                     soldier killed in Malaya, the American life given in Korea.</ref></p>
               <p>We know, beyond this, that we are linked to all free peoples not merely by a noble
                      idea but by a simple need. No free people can for long cling to any privilege
-                     or enjoy any safety in economic solitude. For all our own material might, even
+                     or <ref type = "economy">enjoy any safety in economic solitude. For all our own material might, even
                      we need markets in the world for the surpluses of our farms and our factories.
                      Equally, we need for these same farms and factories vital materials and
                      products of distant lands. This basic law of interdependence, so manifest in
                      the commerce of peace, applies with thousand-fold intensity in the event of
-                     war.</p>
+                     war.</ref></p>
               <p>So we are persuaded by necessity and by belief that the strength of all free
                      peoples lies in unity; their danger, in discord.</p>
-              <p>To produce this unity, to meet the challenge of our time, destiny has laid upon our
-                     country the responsibility of the free world's leadership.</p>
-              <p>So it is proper that we assure our friends once again that, in the discharge of
+              <p>To produce this unity, to meet the challenge of our time, <ref type = "diplomacy">destiny has laid upon our
+                     country the responsibility of the free world's leadership.</ref></p>
+              <p><ref type = "diplomacy">So it is proper that we assure our friends once again that, in the discharge of
                      this responsibility, we Americans know and we observe the difference between
                      world leadership and imperialism; between firmness and truculence; between a
                      thoughtfully calculated goal and spasmodic reaction to the stimulus of
-                     emergencies.</p>
-              <p>We wish our friends the world over to know this above all: we face the threat—not
-                     with dread and confusion—but with confidence and conviction.</p>
+                     emergencies.</ref></p>
+              <p><ref type = "diplomacy">We wish our friends the world over to know this above all: we face the threat—not
+                     with dread and confusion—but with confidence and conviction.</ref></p>
               <p>We feel this moral strength because we know that we are not helpless prisoners of
                      history. We are free men. We shall remain free, never to be proven guilty of
                      the one capital offense against freedom, a lack of stanch faith.</p>
-              <p>In pleading our just cause before the bar of history and in pressing our labor for
-                     world peace, we shall be guided by certain fixed principles.</p>
+              <p>In pleading our just cause before the bar of history and in <ref type = "diplomacy">pressing our labor for
+                     world peace, we shall be guided by certain fixed principles.</ref></p>
               <p>These principles are:</p>
-              <p>(1) Abhorring war as a chosen way to balk the purposes of those who threaten us, we
+              <p><ref type = "diplomacy">(1) Abhorring war as a chosen way to balk the purposes of those who threaten us, we
                      hold it to be the first task of statesmanship to develop the strength that will
                      deter the forces of aggression and promote the conditions of peace. For, as it
                      must be the supreme purpose of all free men, so it must be the dedication of
-                     their leaders, to save humanity from preying upon itself.</p>
-              <p>In the light of this principle, we stand ready to engage with any and all others in
+                     their leaders, to save humanity from preying upon itself.</ref></p>
+              <p><ref type = "diplomacy">In the light of this principle, we stand ready to engage with any and all others in
                      joint effort to remove the causes of mutual fear and distrust among nations, so
                      as to make possible drastic reduction of armaments. The sole requisites for
                      undertaking such effort are that—in their purpose—they be aimed logically and
                      honestly toward secure peace for all; and that—in their result—they provide
                      methods by which every participating nation will prove good faith in carrying
-                     out its pledge.</p>
-              <p>(2) Realizing that common sense and common decency alike dictate the futility of
+                     out its pledge.</ref></p>
+              <p><ref type = "diplomacy">(2) Realizing that common sense and common decency alike dictate the futility of
                      appeasement, we shall never try to placate an aggressor by the false and wicked
                      bargain of trading honor for security. Americans, indeed all free men, remember
                      that in the final choice a soldier's pack is not so heavy a burden as a
-                     prisoner's chains.</p>
-              <p>(3) Knowing that only a United States that is strong and immensely productive can
+                     prisoner's chains.</ref></p>
+              <p><ref type = "diplomacy">(3) Knowing that only a United States that is strong and immensely productive can
                      help defend freedom in our world, we view our Nation's strength and security as
                      a trust upon which rests the hope of free men everywhere. It is the firm duty
                      of each of our free citizens and of every free citizen everywhere to place the
-                     cause of his country before the comfort, the convenience of himself.</p>
-              <p>(4) Honoring the identity and the special heritage of each nation in the world, we
+                     cause of his country before the comfort, the convenience of himself.</ref></p>
+              <p><ref type = "diplomacy">(4) Honoring the identity and the special heritage of each nation in the world, we
                      shall never use our strength to try to impress upon another people our own
-                     cherished political and economic institutions.</p>
-              <p>(5) Assessing realistically the needs and capacities of proven friends of freedom,
+                     cherished political and economic institutions.</ref></p>
+              <p><ref type = "diplomacy">(5) Assessing realistically the needs and capacities of proven friends of freedom,
                      we shall strive to help them to achieve their own security and well-being.
                      Likewise, we shall count upon them to assume, within the limits of their
-                     resources, their full and just burdens in the common defense of freedom.</p>
-              <p>(6) Recognizing economic health as an indispensable basis of military strength and
+                     resources, their full and just burdens in the common defense of freedom.</ref></p>
+              <p><ref type = "diplomacy">(6) Recognizing economic health as an indispensable basis of military strength and
                      the free world's peace, we shall strive to foster everywhere, and to practice
                      ourselves, policies that encourage productivity and profitable trade. For the
                      impoverishment of any single people in the world means danger to the well-being
-                     of all other peoples.</p>
-              <p>(7) Appreciating that economic need, military security and political wisdom combine
+                     of all other peoples.</ref></p>
+              <p><ref type = "diplomacy">(7) Appreciating that economic need, military security and political wisdom combine
                      to suggest regional groupings of free peoples, we hope, within the framework of
                      the United Nations, to help strengthen such special bonds the world over. The
                      nature of these ties must vary with the different problems of different
-                     areas.</p>
-              <p>In the Western Hemisphere, we enthusiastically join with all our neighbors in the
-                     work of perfecting a community of fraternal trust and common purpose.</p>
-              <p>In Europe, we ask that enlightened and inspired leaders of the Western nations
+                     areas.</ref></p>
+              <p><ref type = "diplomacy">In the Western Hemisphere, we enthusiastically join with all our neighbors in the
+                     work of perfecting a community of fraternal trust and common purpose.</ref></p>
+              <p><ref type = "diplomacy:">In Europe, we ask that enlightened and inspired leaders of the Western nations
                      strive with renewed vigor to make the unity of their peoples a reality. Only as
                      free Europe unitedly marshals its strength can it effectively safeguard, even
-                     with our help, its spiritual and cultural heritage.</p>
-              <p>(8) Conceiving the defense of freedom, like freedom itself, to be one and
+                     with our help, its spiritual and cultural heritage.</ref></p>
+              <p><ref type = "diplomacy">(8) Conceiving the defense of freedom, like freedom itself, to be one and
                      indivisible, we hold all continents and peoples in equal regard and honor. We
                      reject any insinuation that one race or another, one people or another, is in
-                     any sense inferior or expendable.</p>
-              <p>(9) Respecting the United Nations as the living sign of all people's hope for
+                     any sense inferior or expendable.</ref></p>
+              <p><ref type = "diplomacy">(9) Respecting the United Nations as the living sign of all people's hope for
                      peace, we shall strive to make it not merely an eloquent symbol but an
                      effective force. And in our quest for an honorable peace, we shall neither
-                     compromise, nor tire, nor ever cease.</p>
+                     compromise, nor tire, nor ever cease.</ref></p>
               <p>By these rules of conduct, we hope to be known to all peoples.</p>
-              <p>By their observance, an earth of peace may become not a vision but a fact.</p>
+              <p>By their observance, <ref type = "diplomacy">an earth of peace may become not a vision but a fact.</ref></p>
               <p>This hope—this supreme aspiration—must rule the way we live.</p>
               <p>We must be ready to dare all for our country. For history does not long entrust the
                      care of freedom to the weak or the timid. We must acquire proficiency in
@@ -9252,8 +9252,8 @@
                      death, it is a way of life. More than a haven for the weary, it is a hope for
                      the brave.</p>
               <p>This is the hope that beckons us onward in this century of trial. This is the work
-                     that awaits us all, to be done with bravery, with charity, and with prayer to
-                     Almighty God.</p>
+                     that awaits us all, to be done with bravery, with charity, and <ref type = "religion">with prayer to
+                     Almighty God.</ref></p>
 
        </address>
 
@@ -9422,21 +9422,21 @@
                             poems at the ceremony.]</p>
 
               </d>
-              <p>Vice President Johnson, Mr. Speaker, Mr. Chief Justice, President Eisenhower, Vice
+              <p><salutation>Vice President Johnson, Mr. Speaker, Mr. Chief Justice, President Eisenhower, Vice
                      President Nixon, President Truman, reverend clergy, fellow citizens, we observe
                      today not a victory of party, but a celebration of freedom—symbolizing an end,
-                     as well as a beginning—signifying renewal, as well as change. For I have sworn
+                     as well as a beginning—signifying renewal, as well as change. <ref type = "religion">For I have sworn
                      before you and Almighty God the same solemn oath our forebears prescribed
-                     nearly a century and three quarters ago.</p>
+                     nearly a century and three quarters ago.</ref></salutation></p>
               <p>The world is very different now. For man holds in his mortal hands the power to
                      abolish all forms of human poverty and all forms of human life. And yet the
                      same revolutionary beliefs for which our forebears fought are still at issue
-                     around the globe—the belief that the rights of man come not from the generosity
-                     of the state, but from the hand of God.</p>
+                     around the globe—the belief that <ref type = "religion">the rights of man come not from the generosity
+                     of the state, but from the hand of God.</ref></p>
               <p>We dare not forget today that we are the heirs of that first revolution. Let the
                      word go forth from this time and place, to friend and foe alike, that the torch
-                     has been passed to a new generation of Americans—born in this century, tempered
-                     by war, disciplined by a hard and bitter peace, proud of our ancient
+                     has been passed to a new generation of Americans—born in this century, <ref type = "war">tempered
+                     by war</ref>, <ref type = "diplomacy">disciplined by a hard and bitter peace</ref>, proud of our ancient
                      heritage—and unwilling to witness or permit the slow undoing of those human
                      rights to which this Nation has always been committed, and to which we are
                      committed today at home and around the world.</p>
@@ -9444,61 +9444,61 @@
                      price, bear any burden, meet any hardship, support any friend, oppose any foe,
                      in order to assure the survival and the success of liberty.</p>
               <p>This much we pledge—and more.</p>
-              <p>To those old allies whose cultural and spiritual origins we share, we pledge the
+              <p><ref type = "diplomacy">To those old allies whose cultural and spiritual origins we share, we pledge the
                      loyalty of faithful friends. United, there is little we cannot do in a host of
                      cooperative ventures. Divided, there is little we can do—for we dare not meet a
-                     powerful challenge at odds and split asunder.</p>
+                     powerful challenge at odds and split asunder.</ref></p>
               <p>To those new States whom we welcome to the ranks of the free, we pledge our word
                      that one form of colonial control shall not have passed away merely to be
                      replaced by a far more iron tyranny. We shall not always expect to find them
                      supporting our view. But we shall always hope to find them strongly supporting
                      their own freedom—and to remember that, in the past, those who foolishly sought
                      power by riding the back of the tiger ended up inside.</p>
-              <p>To those peoples in the huts and villages across the globe struggling to break the
+              <p><ref type = "diplomacy">To those peoples in the huts and villages across the globe struggling to break the
                      bonds of mass misery, we pledge our best efforts to help them help themselves,
                      for whatever period is required—not because the Communists may be doing it, not
-                     because we seek their votes, but because it is right. If a free society cannot
+                     because we seek their votes, but because it is right</ref>. If a free society cannot
                      help the many who are poor, it cannot save the few who are rich.</p>
-              <p>To our sister republics south of our border, we offer a special pledge—to convert
+              <p><ref type = "diplomacy">To our sister republics south of our border, we offer a special pledge—to convert
                      our good words into good deeds—in a new alliance for progress—to assist free
                      men and free governments in casting off the chains of poverty. But this
                      peaceful revolution of hope cannot become the prey of hostile powers. Let all
                      our neighbors know that we shall join with them to oppose aggression or
                      subversion anywhere in the Americas. And let every other power know that this
-                     Hemisphere intends to remain the master of its own house.</p>
-              <p>To that world assembly of sovereign states, the United Nations, our last best hope
+                     Hemisphere intends to remain the master of its own house.</ref></p>
+              <p><ref type = "diplomacy">To that world assembly of sovereign states, the United Nations, our last best hope
                      in an age where the instruments of war have far outpaced the instruments of
                      peace, we renew our pledge of support—to prevent it from becoming merely a
                      forum for invective—to strengthen its shield of the new and the weak—and to
-                     enlarge the area in which its writ may run.</p>
-              <p>Finally, to those nations who would make themselves our adversary, we offer not a
+                     enlarge the area in which its writ may run.</ref></p>
+              <p><ref type = "diplomacy">Finally, to those nations who would make themselves our adversary, we offer not a
                      pledge but a request: that both sides begin anew the quest for peace, before
                      the dark powers of destruction unleashed by science engulf all humanity in
-                     planned or accidental self-destruction.</p>
+                     planned or accidental self-destruction.</ref></p>
               <p>We dare not tempt them with weakness. For only when our arms are sufficient beyond
                      doubt can we be certain beyond doubt that they will never be employed.</p>
-              <p>But neither can two great and powerful groups of nations take comfort from our
+              <p><ref type = "diplomacy">But neither can two great and powerful groups of nations take comfort from our
                      present course—both sides overburdened by the cost of modern weapons, both
                      rightly alarmed by the steady spread of the deadly atom, yet both racing to
                      alter that uncertain balance of terror that stays the hand of mankind's final
-                     war.</p>
-              <p>So let us begin anew—remembering on both sides that civility is not a sign of
+                     war</ref>.</p>
+              <p><ref type = "diplomacy">So let us begin anew—remembering on both sides that civility is not a sign of
                      weakness, and sincerity is always subject to proof. Let us never negotiate out
-                     of fear. But let us never fear to negotiate.</p>
-              <p>Let both sides explore what problems unite us instead of belaboring those problems
-                     which divide us.</p>
-              <p>Let both sides, for the first time, formulate serious and precise proposals for the
+                     of fear. But let us never fear to negotiate.</ref></p>
+              <p><ref type = "diplomacy">Let both sides explore what problems unite us instead of belaboring those problems
+                     which divide us.</ref></p>
+              <p><ref type = "diplomacy">Let both sides, for the first time, formulate serious and precise proposals for the
                      inspection and control of arms—and bring the absolute power to destroy other
-                     nations under the absolute control of all nations.</p>
-              <p>Let both sides seek to invoke the wonders of science instead of its terrors.
+                     nations under the absolute control of all nations.</ref></p>
+              <p><ref type = "diplomacy">Let both sides seek to invoke the wonders of science instead of its terrors.
                      Together let us explore the stars, conquer the deserts, eradicate disease, tap
-                     the ocean depths, and encourage the arts and commerce.</p>
-              <p>Let both sides unite to heed in all corners of the earth the command of Isaiah—to
-                     "undo the heavy burdens...and to let the oppressed go free."</p>
-              <p>And if a beachhead of cooperation may push back the jungle of suspicion, let both
+                     the ocean depths, and encourage the arts and commerce.</ref></p>
+              <p><ref type = "diplomacy">Let both sides unite to heed in all corners of the earth the command of Isaiah—to
+                     "undo the heavy burdens...and to let the oppressed go free."</ref></p>
+              <p><ref type = "diplomacy">And if a beachhead of cooperation may push back the jungle of suspicion, let both
                      sides join in creating a new endeavor, not a new balance of power, but a new
                      world of law, where the strong are just and the weak secure and the peace
-                     preserved.</p>
+                     preserved.</ref></p>
               <p>All this will not be finished in the first 100 days. Nor will it be finished in the
                      first 1,000 days, nor in the life of this Administration, nor even perhaps in
                      our lifetime on this planet. But let us begin.</p>
@@ -9507,14 +9507,14 @@
                      Americans has been summoned to give testimony to its national loyalty. The
                      graves of young Americans who answered the call to service surround the
                      globe.</p>
-              <p>Now the trumpet summons us again—not as a call to bear arms, though arms we need;
+              <p><ref type ="diplomacy">Now the trumpet summons us again—not as a call to bear arms, though arms we need;
                      not as a call to battle, though embattled we are—but a call to bear the burden
                      of a long twilight struggle, year in and year out, "rejoicing in hope, patient
                      in tribulation"—a struggle against the common enemies of man: tyranny, poverty,
-                     disease, and war itself.</p>
-              <p>Can we forge against these enemies a grand and global alliance, North and South,
+                     disease, and war itself.</ref></p>
+              <p><ref type = "diplomacy">Can we forge against these enemies a grand and global alliance, North and South,
                      East and West, that can assure a more fruitful life for all mankind? Will you
-                     join in that historic effort?</p>
+                     join in that historic effort?</ref></p>
               <p>In the long history of the world, only a few generations have been granted the role
                      of defending freedom in its hour of maximum danger. I do not shrink from this
                      responsibility—I welcome it. I do not believe that any of us would exchange
@@ -9528,8 +9528,8 @@
               <p>Finally, whether you are citizens of America or citizens of the world, ask of us
                      the same high standards of strength and sacrifice which we ask of you. With a
                      good conscience our only sure reward, with history the final judge of our
-                     deeds, let us go forth to lead the land we love, asking His blessing and His
-                     help, but knowing that here on earth God's work must truly be our own.</p>
+                     deeds, let us go forth to lead the land we love, <ref type = "religion">asking His blessing and His
+                     help, but knowing that here on earth God's work must truly be our own.</ref></p>
 
        </address>
 
@@ -9685,9 +9685,9 @@
                             around the world.]</p>
 
               </d>
-              <p>Senator Dirksen, Mr. Chief Justice, Mr. Vice President, President Johnson, Vice
+              <p><salutation>Senator Dirksen, Mr. Chief Justice, Mr. Vice President, President Johnson, Vice
                      President Humphrey, my fellow Americans—and my fellow citizens of the world
-                     community:</p>
+                     community:</salutation></p>
               <p>I ask you to share with me today the majesty of this moment. In the orderly
                      transfer of power, we celebrate the unity that keeps us free.</p>
               <p>Each moment in history is a fleeting time, precious and unique. But some stand out
@@ -9700,8 +9700,8 @@
                      would have taken centuries.</p>
               <p>In throwing wide the horizons of space, we have discovered new horizons on
                      earth.</p>
-              <p>For the first time, because the people of the world want peace, and the leaders of
-                     the world are afraid of war, the times are on the side of peace.</p>
+              <p>For the first time, because the people of the world want peace, and <ref type = "war">the leaders of
+                     the world are afraid of war, the times are on the side of peace.</ref></p>
               <p>Eight years from now America will celebrate its 200th anniversary as a nation.
                      Within the lifetime of most people now living, mankind will celebrate that
                      great new year which comes only once in a thousand years—the beginning of the
@@ -9709,20 +9709,20 @@
               <p>What kind of nation we will be, what kind of world we will live in, whether we
                      shape the future in the image of our hopes, is ours to determine by our actions
                      and our choices.</p>
-              <p>The greatest honor history can bestow is the title of peacemaker. This honor now
+              <p>The greatest honor history can bestow is the title of peacemaker. <ref type = "diplomacy">This honor now
                      beckons America—the chance to help lead the world at last out of the valley of
                      turmoil, and onto that high ground of peace that man has dreamed of since the
-                     dawn of civilization.</p>
+                     dawn of civilization.</ref></p>
               <p>If we succeed, generations to come will say of us now living that we mastered our
                      moment, that we helped make the world safe for mankind.</p>
               <p>This is our summons to greatness.</p>
               <p>I believe the American people are ready to answer this call.</p>
               <p>The second third of this century has been a time of proud achievement. We have made
-                     enormous strides in science and industry and agriculture. We have shared our
-                     wealth more broadly than ever. We have learned at last to manage a modern
-                     economy to assure its continued growth.</p>
-              <p>We have given freedom new reach, and we have begun to make its promise real for
-                     black as well as for white.</p>
+                     enormous strides in science and industry and agriculture. <ref type = "diplomacy">We have shared our
+                     wealth more broadly than ever</ref>. <ref type = "economy">We have learned at last to manage a modern
+                     economy to assure its continued growth.</ref></p>
+              <p><ref type = "social">We have given freedom new reach, and we have begun to make its promise real for
+                     black as well as for white.</ref></p>
               <p>We see the hope of tomorrow in the youth of today. I know America's youth. I
                      believe in them. We can be proud that they are better educated, more committed,
                      more passionately driven by conscience than any generation in our history.</p>
@@ -9738,12 +9738,12 @@
               <p>We have found ourselves rich in goods, but ragged in spirit; reaching with
                      magnificent precision for the moon, but falling into raucous discord on
                      earth.</p>
-              <p>We are caught in war, wanting peace. We are torn by division, wanting unity. We see
+              <p><ref type = "war">We are caught in war, wanting peace.</ref> <ref type = "social">We are torn by division, wanting unity.</ref> We see
                      around us empty lives, wanting fulfillment. We see tasks that need doing,
                      waiting for hands to do them.</p>
               <p>To a crisis of the spirit, we need an answer of the spirit.</p>
               <p>To find that answer, we need only look within ourselves.</p>
-              <p>When we listen to "the better angels of our nature," we find that they celebrate
+              <p><ref type = "religion">When we listen to "the better angels of our nature,"</ref> we find that they celebrate
                      the simple things, the basic things—such as goodness, decency, love,
                      kindness.</p>
               <p>Greatness comes in simple trappings.</p>
@@ -9768,12 +9768,12 @@
                      turning away from the old, but turning toward the new.</p>
               <p>In this past third of a century, government has passed more laws, spent more money,
                      initiated more programs, than in all our previous history.</p>
-              <p>In pursuing our goals of full employment, better housing, excellence in education;
+              <p><ref type = "economy">In pursuing our goals of full employment, better housing, excellence in education;
                      in rebuilding our cities and improving our rural areas; in protecting our
-                     environment and enhancing the quality of life—in all these and more, we will
+                     environment and enhancing the quality of life—in all these and more</ref>, we will
                      and must press urgently forward.</p>
-              <p>We shall plan now for the day when our wealth can be transferred from the
-                     destruction of war abroad to the urgent needs of our people at home.</p>
+              <p><ref type = "economy">We shall plan now for the day when our wealth can be transferred from the
+                     destruction of war abroad to the urgent needs of our people at home.</ref></p>
               <p>The American dream does not come to those who fall asleep.</p>
               <p>But we are approaching the limits of what government alone can do.</p>
               <p>Our greatest need now is to reach beyond government, and to enlist the legions of
@@ -9799,9 +9799,9 @@
                      but as we chart our goals we shall be lifted by our dreams.</p>
               <p>No man can be fully free while his neighbor is not. To go forward at all is to go
                      forward together.</p>
-              <p>This means black and white together, as one nation, not two. The laws have caught
-                     up with our conscience. What remains is to give life to what is in the law: to
-                     ensure at last that as all are born equal in dignity before God, all are born
+              <p><ref type = "social">This means black and white together, as one nation, not two.</ref> The laws have caught
+                     up with our conscience. What remains is to give life to what is in the law: <ref type = "religion">to
+                     ensure at last that as all are born equal in dignity before God</ref>, all are born
                      equal in dignity before man.</p>
               <p>As we learn to go forward together at home, let us also seek to go forward together
                      with all mankind.</p>
@@ -9810,23 +9810,23 @@
               <p>After a period of confrontation, we are entering an era of negotiation.</p>
               <p>Let all nations know that during this administration our lines of communication
                      will be open.</p>
-              <p>We seek an open world—open to ideas, open to the exchange of goods and people—a
-                     world in which no people, great or small, will live in angry isolation.</p>
+              <p><ref type = "diplomacy">We seek an open world—open to ideas, open to the exchange of goods and people—a
+                     world in which no people, great or small, will live in angry isolation.</ref></p>
               <p>We cannot expect to make everyone our friend, but we can try to make no one our
                      enemy.</p>
-              <p>Those who would be our adversaries, we invite to a peaceful competition—not in
+              <p><ref type = "diplomacy">Those who would be our adversaries, we invite to a peaceful competition—not in
                      conquering territory or extending dominion, but in enriching the life of
-                     man.</p>
+                     man.</ref></p>
               <p>As we explore the reaches of space, let us go to the new worlds together—not as new
                      worlds to be conquered, but as a new adventure to be shared.</p>
-              <p>With those who are willing to join, let us cooperate to reduce the burden of arms,
-                     to strengthen the structure of peace, to lift up the poor and the hungry.</p>
+              <p><ref type = "diplomacy">With those who are willing to join, let us cooperate to reduce the burden of arms,
+                     to strengthen the structure of peace, to lift up the poor and the hungry.</ref></p>
               <p>But to all those who would be tempted by weakness, let us leave no doubt that we
                      will be as strong as we need to be for as long as we need to be.</p>
               <p>Over the past twenty years, since I first came to this Capital as a freshman
                      Congressman, I have visited most of the nations of the world.</p>
-              <p>I have come to know the leaders of the world, and the great forces, the hatreds,
-                     the fears that divide the world.</p>
+              <p><ref type = "diplomacy">I have come to know the leaders of the world, and the great forces, the hatreds,
+                     the fears that divide the world.</ref></p>
               <p>I know that peace does not come through wishing for it—that there is no substitute
                      for days and even years of patient and prolonged diplomacy.</p>
               <p>I also know the people of the world.</p>
@@ -9836,20 +9836,20 @@
               <p>I know America. I know the heart of America is good.</p>
               <p>I speak from my own heart, and the heart of my country, the deep concern we have
                      for those who suffer, and those who sorrow.</p>
-              <p>I have taken an oath today in the presence of God and my countrymen to uphold and
-                     defend the Constitution of the United States. To that oath I now add this
-                     sacred commitment: I shall consecrate my office, my energies, and all the
-                     wisdom I can summon, to the cause of peace among nations.</p>
+              <p><ref type = "religion">I have taken an oath today in the presence of God and my countrymen to uphold and
+                     defend the Constitution of the United States.</ref> To that oath I now add this
+                     sacred commitment: <ref type = "diplomacy">I shall consecrate my office, my energies, and all the
+                     wisdom I can summon, to the cause of peace among nations.</ref></p>
               <p>Let this message be heard by strong and weak alike:</p>
               <p>The peace we seek to win is not victory over any other people, but the peace that
                      comes "with healing in its wings"; with compassion for those who have suffered;
                      with understanding for those who have opposed us; with the opportunity for all
                      the peoples of this earth to choose their own destiny.</p>
-              <p>Only a few short weeks ago, we shared the glory of man's first sight of the world
-                     as God sees it, as a single sphere reflecting light in the darkness.</p>
+              <p>Only a few short weeks ago, <ref type = "religion">we shared the glory of man's first sight of the world
+                     as God sees it</ref>, as a single sphere reflecting light in the darkness.</p>
               <p>As the Apollo astronauts flew over the moon's gray surface on Christmas Eve, they
                      spoke to us of the beauty of earth—and in that voice so clear across the lunar
-                     distance, we heard them invoke God's blessing on its goodness.</p>
+                     distance, <ref type = "religion">we heard them invoke God's blessing on its goodness.</ref></p>
               <p>In that moment, their view from the moon moved poet Archibald MacLeish to
                      write:</p>
               <p>"To see the earth as it truly is, small and blue and beautiful in that eternal
@@ -9867,8 +9867,8 @@
               <p>Our destiny offers, not the cup of despair, but the chalice of opportunity. So let
                      us seize it, not in fear, but in gladness—and, "riders on the earth together,"
                      let us go forward, firm in our faith, steadfast in our purpose, cautious of the
-                     dangers; but sustained by our confidence in the will of God and the promise of
-                     man.</p>
+                     dangers; <ref type = "religion">but sustained by our confidence in the will of God and the promise of
+                     man.</ref></p>
 
        </address>
 
@@ -10080,8 +10080,8 @@
                      and to exemplify what you are. Let us create together a new national spirit of
                      unity and trust. Your strength can compensate for my weakness, and your wisdom
                      can help to minimize my mistakes.</p>
-              <p>Let us learn together and laugh together and work together and pray together,
-                     confident that in the end we will triumph together in the right.</p>
+              <p><ref type = "religion">Let us learn together and laugh together and work together and pray together,
+                     confident that in the end we will triumph together in the right.</ref></p>
               <p>The American dream endures. We must once again have full faith in our country—and
                      in one another. I believe America can be better. We can be even stronger than
                      before.</p>
@@ -10093,21 +10093,21 @@
                      prospect of failure or mediocrity or an inferior quality of life for any
                      person. Our Government must at the same time be both competent and
                      compassionate.</p>
-              <p>We have already found a high degree of personal liberty, and we are now struggling
+              <p>We have already found a high degree of personal liberty, and <ref type = "social">we are now struggling
                      to enhance equality of opportunity. Our commitment to human rights must be
                      absolute, our laws fair, our natural beauty preserved; the powerful must not
-                     persecute the weak, and human dignity must be enhanced.</p>
+                     persecute the weak, and human dignity must be enhanced.</ref></p>
               <p>We have learned that "more" is not necessarily "better," that even our great Nation
                      has its recognized limits, and that we can neither answer all questions nor
                      solve all problems. We cannot afford to do everything, nor can we afford to
                      lack boldness as we meet the future. So, together, in a spirit of individual
                      sacrifice for the common good, we must simply do our best.</p>
-              <p>Our Nation can be strong abroad only if it is strong at home. And we know that the
+              <p><ref type = "diplomacy">Our Nation can be strong abroad only if it is strong at home. And we know that the
                      best way to enhance freedom in other lands is to demonstrate here that our
-                     democratic system is worthy of emulation.</p>
-              <p>To be true to ourselves, we must be true to others. We will not behave in foreign
+                     democratic system is worthy of emulation.</ref></p>
+              <p>To be true to ourselves, we must be true to others. <ref type = "diplomacy">We will not behave in foreign
                      places so as to violate our rules and standards here at home, for we know that
-                     the trust which our Nation earns is essential to our strength.</p>
+                     the trust which our Nation earns is essential to our strength.</ref></p>
               <p>The world itself is now dominated by a new spirit. Peoples more numerous and more
                      politically aware are craving and now demanding their place in the sun—not just
                      for the benefit of their own physical condition, but for basic human
@@ -10119,9 +10119,9 @@
               <p>We are a strong nation, and we will maintain strength so sufficient that it need
                      not be proven in combat—a quiet strength based not merely on the size of an
                      arsenal, but on the nobility of ideas.</p>
-              <p>We will be ever vigilant and never vulnerable, and we will fight our wars against
+              <p>We will be ever vigilant and never vulnerable, and <ref type = "social">we will fight our wars against
                      poverty, ignorance, and injustice—for those are the enemies against which our
-                     forces can be honorably marshaled.</p>
+                     forces can be honorably marshaled.</ref></p>
               <p>We are a purely idealistic Nation, but let no one confuse our idealism with
                      weakness.</p>
               <p>Because we are free we can never be indifferent to the fate of freedom elsewhere.
@@ -10150,8 +10150,8 @@
                             it;</ref></p>
               <p>—that we had strengthened the American family, which is the basis of our
                      society;</p>
-              <p>—that we had ensured respect for the law, and equal treatment under the law, for
-                     the weak and the powerful, for the rich and the poor;</p>
+              <p><ref type = "social">—that we had ensured respect for the law, and equal treatment under the law, for
+                     the weak and the powerful, for the rich and the poor;</ref></p>
               <p>—and that we had enabled our people to be proud of their own Government once
                      again.</p>
               <p>I would hope that the nations of the world might say that we had built a lasting
@@ -10406,15 +10406,15 @@
                      placed his hand upon the <ref type="religion">Bible</ref>, he stood less than a
                      single day's journey by horseback from raw, untamed wilderness. There were 4
                      million Americans in a union of 13 States. Today we are 60 times as many in a
-                     union of 50 States. We have lighted the world with our inventions, gone to the
-                     aid of mankind wherever in the world there was a cry for help, journeyed to the
+                     union of 50 States. <ref type = "diplomacy">We have lighted the world with our inventions, gone to the
+                     aid of mankind wherever in the world there was a cry for help</ref>, journeyed to the
                      Moon and safely returned. So much has changed. And yet we stand together as we
                      did two centuries ago.</p>
               <p>When I took this oath four years ago, I did so in a time of <ref type="economy"
                             >economic stress</ref>. Voices were raised saying we had to look to our
                      past for the greatness and glory. But we, the present-day Americans, are not
-                     given to looking backward. In this blessed land, there is always a better
-                     tomorrow.</p>
+                     given to looking backward. <ref type = "religion">In this blessed land, there is always a better
+                     tomorrow.</ref></p>
               <p>Four years ago, I spoke to you of a new beginning and we have accomplished that.
                      But in another sense, our new beginning is a continuation of that beginning
                      created two centuries ago when, for the first time in history, government, the
@@ -10436,8 +10436,8 @@
                             inflation cut dramatically, and more people are employed than ever
                             before in our history.</ref></p>
               <p>We are creating a nation once again vibrant, robust, and alive. But there are many
-                     mountains yet to climb. We will not rest until every American enjoys the
-                     fullness of freedom, dignity, and opportunity as our birthright. It is our
+                     mountains yet to climb. <ref type = "social">We will not rest until every American enjoys the
+                     fullness of freedom, dignity, and opportunity as our birthright</ref>. It is our
                      birthright as citizens of this great Republic, and we'll meet this
                      challenge.</p>
               <p>These will be years when Americans have restored their confidence and tradition of
@@ -10483,11 +10483,11 @@
                             spiraling demands of a bloated Federal Establishment</ref>. You elected
                      us in 1980 to end this prescription for disaster, and I don't believe you
                      reelected us in 1984 to reverse course.</p>
-              <p>At the heart of our efforts is one idea vindicated by 25 straight months of
+              <p><ref type = "economy">At the heart of our efforts is one idea vindicated by 25 straight months of
                      economic growth: Freedom and incentives unleash the drive and entrepreneurial
                      genius that are the core of human progress. We have begun to increase the
                      rewards for work, savings, and investment; reduce the increase in the cost and
-                     size of government and its interference in people's lives.</p>
+                     size of government and its interference in people's lives.</ref></p>
               <p><ref type="economy">We must simplify our tax system, make it more fair, and bring
                             the rates down for all who work and earn</ref>. We must think anew and
                      move with a new boldness, so every American who seeks work can find work; so
@@ -10530,16 +10530,16 @@
                      the unborn protected, and the unfortunate looked after and made
                      self-sufficient.</p>
               <p>And there is another area where the Federal Government can play a part. As an older
-                     American, I remember a time when people of different race, creed, or ethnic
+                     American, <ref type = "social">I remember a time when people of different race, creed, or ethnic
                      origin in our land found hatred and prejudice installed in social custom and,
-                     yes, in law. There is no story more heartening in our history than the progress
+                     yes, in law</ref>. There is no story more heartening in our history than the progress
                      that we have made toward the "brotherhood of man" that <ref type="religion>"
                             >God intended for us</ref>. Let us resolve there will be no turning back
                      or hesitation on the road to an America rich in dignity and abundant with
                      opportunity for all our citizens.</p>
-              <p>Let us resolve that we the people will build an American opportunity society in
+              <p><ref type = "social">Let us resolve that we the people will build an American opportunity society in
                      which all of us—white and black, rich and poor, young and old—will go forward
-                     together arm in arm. Again, let us remember that though our heritage is one of
+                     together arm in arm</ref>. Again, let us remember that though our heritage is one of
                      blood lines from every corner of the Earth, we are all Americans pledged to
                      carry on this last, best hope of man on Earth.</p>
               <p>I have spoken of our domestic goals and the limitations which we should put on our
@@ -10561,18 +10561,18 @@
                             discussing limits on a further increase of nuclear weapons. We seek,
                             instead, to reduce their number. We seek the total elimination one day
                             of nuclear weapons from the face of the Earth.</ref></p>
-              <p>Now, for decades, we and the Soviets have lived under the threat of mutual assured
+              <p><ref type = "diplomacy">Now, for decades, we and the Soviets have lived under the threat of mutual assured
                      destruction; if either resorted to the use of nuclear weapons, the other could
-                     retaliate and destroy the one who had started it. Is there either logic or
+                     retaliate and destroy the one who had started it</ref>. Is there either logic or
                      morality in believing that if one side threatens to kill tens of millions of
                      our people, our only recourse is to threaten killing tens of millions of
                      theirs?</p>
-              <p>I have approved a research program to find, if we can, a security shield that would
+              <p><ref type = "diplomacy">I have approved a research program to find, if we can, a security shield that would
                      destroy nuclear missiles before they reach their target. It wouldn't kill
                      people, it would destroy weapons. It wouldn't militarize space, it would help
                      demilitarize the arsenals of Earth. It would render nuclear weapons obsolete.
                      We will meet with the Soviets, hoping that we can agree on a way to rid the
-                     world of the threat of nuclear destruction.</p>
+                     world of the threat of nuclear destruction.</ref></p>
               <p>We strive for peace and security, heartened by the changes all around us. Since the
                      turn of the century, the number of democracies in the world has grown fourfold.
                      Human freedom is on the march, and nowhere more so than our own hemisphere.
@@ -10846,9 +10846,9 @@
                      compete and win in it. But when most people are working harder for less, when
                      others cannot work at all, <ref type="economy">when the cost of health care
                             devastates families and threatens to bankrupt our enterprises, great and
-                            small</ref>; when the fear of crime robs law abiding citizens of their
-                     freedom; and when millions of poor children cannot even imagine the lives we
-                     are calling them to lead, we have not made change our friend.</p>
+                            small</ref>; <ref type = "social">when the fear of crime robs law abiding citizens of their
+                     freedom</ref>; and <ref type = "economy">when millions of poor children cannot even imagine the lives we
+                     are calling them to lead</ref>, we have not made change our friend.</p>
               <p>We know we have to face hard truths and take strong steps, but we have not done so.
                      Instead we have drifted, and that drifting has eroded our resources, <ref
                             type="economy">fractured our economy</ref>, and shaken our confidence.
@@ -10856,7 +10856,7 @@
                      been a restless, questing, hopeful people, and we must bring to our task today
                      the vision and will of those who came before us. From our <ref type="war"
                             >Revolution to the Civil War</ref>, to the <ref type="economy">Great
-                            Depression</ref>, to the Civil Rights movement, our people have always
+                            Depression</ref>, to <ref type = "social">the Civil Rights movement</ref>, our people have always
                      mustered the determination to construct from these crises the pillars of our
                      history. Thomas Jefferson believed that to preserve the very foundations of our
                      nation we would need dramatic change from time to time. Well, my fellow
@@ -10907,12 +10907,12 @@
                      work together to shape change, lest it engulf us. <ref type="diplomacy">When
                             our vital interests are challenged, or the will and conscience of the
                             international community is defied, we will act; with peaceful diplomacy
-                            whenever possible</ref>, with force when necessary. The brave Americans
+                            whenever possible</ref>, <ref type = "war">with force when necessary. The brave Americans
                      serving our nation today in the Persian Gulf, in Somalia, and wherever else
-                     they stand, are testament to our resolve, but our greatest strength is the
+                     they stand, are testament to our resolve</ref>, but our greatest strength is the
                      power of our ideas, which are still new in many lands. Across the world, we see
-                     them embraced and we rejoice. Our hopes, our hearts, our hands, are with those
-                     on every continent, who are building democracy and freedom. Their cause is
+                     them embraced and we rejoice. <ref type = "diplomacy">Our hopes, our hearts, our hands, are with those
+                     on every continent, who are building democracy and freedom</ref>. Their cause is
                      America's cause. The American people have summoned the change we celebrate
                      today. You have raised your voices in an unmistakable chorus, you have cast
                      your votes in historic numbers, you have changed the face of congress, the
@@ -11145,9 +11145,9 @@
                      possess, to defend but not to conquer.</p>
               <p>It is the American story—a story of flawed and fallible people, united across the
                      generations by grand and enduring ideals.</p>
-              <p>The grandest of these ideals is an unfolding American promise that everyone
+              <p><ref type  = "social">The grandest of these ideals is an unfolding American promise that everyone
                      belongs, that everyone deserves a chance, that no insignificant person was ever
-                     born.</p>
+                     born.</ref></p>
               <p>Americans are called to enact this promise in our lives and in our laws. And though
                      our nation has sometimes halted, and sometimes delayed, we must follow no other
                      course.</p>
@@ -11158,8 +11158,8 @@
                      of our humanity, an ideal we carry but do not own, a trust we bear and pass
                      along. And even after nearly 225 years, we have a long way yet to travel.</p>
               <p>While many of our citizens prosper, others doubt the promise, even the justice, of
-                     our own country. The ambitions of some Americans are limited by failing schools
-                     and hidden prejudice and the circumstances of their birth. And sometimes our
+                     our own country. <ref type = "social">The ambitions of some Americans are limited by failing schools
+                     and hidden prejudice and the circumstances of their birth</ref>. And sometimes our
                      differences run so deep, it seems we share a continent, but not a country.</p>
               <p>We do not accept this, and we will not allow it. Our unity, our union, is the
                      serious work of leaders and citizens in every generation. And this is my solemn
@@ -11220,8 +11220,8 @@
               <p>Where there is suffering, there is duty. Americans in need are not strangers, they
                      are citizens, not problems, but priorities. And all of us are diminished when
                      any are hopeless.</p>
-              <p>Government has great responsibilities for public safety and public health, for
-                     civil rights and common schools. Yet compassion is the work of a nation, not
+              <p><ref type = "social">Government has great responsibilities for public safety and public health, for
+                     civil rights and common schools</ref>. Yet compassion is the work of a nation, not
                      just a government.</p>
               <p>And some needs and hurts are so deep they will only respond to a mentor's touch or
                      a <ref type="religion">pastor's prayer. Church and charity, synagogue and
@@ -11229,19 +11229,19 @@
                      honored place in our plans and in our laws.</p>
               <p>Many in our country do not know the <ref type="economy">pain of poverty</ref>, but
                      we can listen to those who do.</p>
-              <p>And I can pledge our nation to a goal: When we see that wounded traveler on the
-                     road to Jericho, we will not pass to the other side.</p>
+              <p>And I can pledge our nation to a goal: <ref type = "religion">When we see that wounded traveler on the
+                     road to Jericho, we will not pass to the other side.</ref></p>
               <p>America, at its best, is a place where personal responsibility is valued and
                      expected.</p>
               <p>Encouraging responsibility is not a search for scapegoats, it is a call to
                      conscience. And though it requires sacrifice, it brings a deeper fulfillment.
                      We find the fullness of life not only in options, but in commitments. And we
                      find that children and community are the commitments that set us free.</p>
-              <p>Our public interest depends on private character, on civic duty and family bonds
+              <p><ref type = "social">Our public interest depends on private character, on civic duty and family bonds
                      and basic fairness, on uncounted, unhonored acts of decency which give
-                     direction to our freedom.</p>
-              <p>Sometimes in life we are called to do great things. But as a saint of our times has
-                     said, every day we are called to do small things with great love. The most
+                     direction to our freedom.</ref></p>
+              <p>Sometimes in life we are called to do great things. <ref type = "religion">But as a saint of our times has
+                     said, every day we are called to do small things with great love</ref>. The most
                      important tasks of a democracy are done by everyone.</p>
               <p>I will live and lead by these principles: to advance my convictions with civility,
                      to pursue the public interest with courage, to speak for greater justice and

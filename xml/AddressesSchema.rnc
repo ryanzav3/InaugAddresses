@@ -11,6 +11,6 @@ date = attribute date {text}
 d = element d {class, p*}
 class = attribute class {text}
 p = element p {(ref | salutation | text)*}
-salutation = element salutation{text}
+salutation = element salutation{(ref | text)*}
 ref = element ref{type, (p | text)+}
 type = attribute type{text}
