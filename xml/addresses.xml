@@ -545,7 +545,7 @@
                             Senate Chamber at the Capitol.]</p>
 
               </d>
-              <p>Proceeding, fellow-citizens, to that qualification which the Constitution requires
+              <p><salutation>Proceeding, fellow-citizens</salutation>, to that qualification which the Constitution requires
                      before my entrance on the charge again conferred on me, it is my duty to
                      express the deep sense I entertain of this new proof of confidence from my
                      fellow-citizens at large, and the zeal with which it inspires me so to conduct
@@ -555,7 +555,7 @@
                      conscience tells me I have on every occasion acted up to that declaration
                      according to its obvious import and to the understanding of every candid
                      mind.</p>
-              <p>In the transaction of your foreign affairs we have endeavored to cultivate the
+              <p><ref type="diplomacy">In the transaction of your foreign affairs we have endeavored to cultivate the
                      friendship of all nations, and especially of those with which we have the most
                      important relations. We have done them justice on all occasions, favored where
                      favor was lawful, and cherished mutual interests and intercourse on fair and
@@ -563,7 +563,7 @@
                      nations as with individuals our interests soundly calculated will ever be found
                      inseparable from our moral duties, and history bears witness to the fact that a
                      just nation is trusted on its word when recourse is had to armaments and wars
-                     to bridle others.</p>
+                     to bridle others.</ref></p>
               <p>At home, fellow-citizens, you best know whether we have done well or ill. The
                      suppression of unnecessary offices, of useless establishments and expenses,
                      enabled us to discontinue our internal taxes. These, covering our land with
@@ -574,7 +574,7 @@
                      because their amount would not have paid the officers who collected them, and
                      because, if they had any merit, the State authorities might adopt them instead
                      of others less approved.</p>
-              <p>The remaining revenue on the consumption of foreign articles is paid chiefly by
+              <p><ref type="economy">The remaining revenue on the consumption of foreign articles is paid chiefly by
                      those who can afford to add foreign luxuries to domestic comforts, being
                      collected on our seaboard and frontiers only, and incorporated with the
                      transactions of our mercantile citizens, it may be the pleasure and the pride
@@ -583,7 +583,7 @@
                      current expenses of the Government, to fulfill contracts with foreign nations,
                      to extinguish the native right of soil within our limits, to extend those
                      limits, and to apply such a surplus to our public debts as places at a short
-                     day their final redemption, and that redemption once effected the revenue
+                     day their final redemption</ref>, and that redemption once effected the revenue
                      thereby liberated may, by a just repartition of it among the States and a
                      corresponding amendment of the Constitution, be applied in time of peace to
                      rivers, canals, roads, arts, manufactures, education, and other great objects
@@ -592,8 +592,8 @@
                      population and consumption, and aided by other resources reserved for that
                      crisis, it may meet within the year all the expenses of the year without
                      encroaching on the rights of future generations by burthening them with the
-                     debts of the past. War will then be but a suspension of useful works, and a
-                     return to a state of peace, a return to the progress of improvement.</p>
+                     debts of the past. <ref type="war">War will then be but a suspension of useful works, and a
+                     return to a state of peace, a return to the progress of improvement.</ref></p>
               <p>I have said, fellow-citizens, that the income reserved had enabled us to extend our
                      limits, but that extension may possibly pay for itself before we are called on,
                      and in the meantime may keep down the accruing interest; in all events, it will
@@ -605,12 +605,12 @@
                      is it not better that the opposite bank of the Mississippi should be settled by
                      our own brethren and children than by strangers of another family? With which
                      should we be most likely to live in harmony and friendly intercourse?</p>
-              <p>In matters of religion I have considered that its free exercise is placed by the
+              <p><ref type="religion">In matters of religion I have considered that its free exercise is placed by the
                      Constitution independent of the powers of the General Government. I have
                      therefore undertaken on no occasion to prescribe the religious exercises suited
                      to it, but have left them, as the Constitution found them, under the direction
                      and discipline of the church or state authorities acknowledged by the several
-                     religious societies.</p>
+                     religious societies.</ref></p>
               <p>The aboriginal inhabitants of these countries I have regarded with the
                      commiseration their history inspires. Endowed with the faculties and the rights
                      of men, breathing an ardent love of liberty and independence, and occupying a
