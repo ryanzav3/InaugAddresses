@@ -5406,7 +5406,7 @@
                             inaugural ball in the Pension Building.]</p>
 
               </d>
-              <p>Fellow-Citizens:</p>
+              <p><salutation>Fellow-Citizens:</salutation></p>
               <p>There is no constitutional or legal requirement that the President shall take the
                      oath of office in the presence of the people, but there is so manifest an
                      appropriateness in the public induction to office of the chief executive
@@ -5968,17 +5968,17 @@
                             Building.]</p>
 
               </d>
-              <p>Fellow-Citizens:</p>
+              <p><salutation>Fellow-Citizens:</salutation></p>
               <p>In obedience to the will of the people, and in their presence, by the authority
                      vested in me by this oath, I assume the arduous and responsible duties of
                      President of the United States, relying upon the support of my countrymen and
-                     invoking the guidance of Almighty God. Our faith teaches that there is no safer
+                     invoking the guidance of Almighty God. <ref type = "religion">Our faith teaches that there is no safer
                      reliance than upon the God of our fathers, who has so singularly favored the
                      American people in every national trial, and who will not forsake us so long as
-                     we obey His commandments and walk humbly in His footsteps.</p>
+                     we obey His commandments and walk humbly in His footsteps.</ref></p>
               <p>The responsibilities of the high trust to which I have been called—always of grave
                      importance—are augmented by the prevailing business conditions entailing
-                     idleness upon willing labor and loss to useful enterprises. The country is
+                     idleness upon willing labor and loss to useful enterprises. <ref type = "economy">The country is
                      suffering from industrial disturbances from which speedy relief must be had.
                      Our financial system needs some revision; our money is all good now, but its
                      value must not further be threatened. It should all be put upon an enduring
@@ -6007,19 +6007,19 @@
                      Business experience and public training may thus be combined, and the patriotic
                      zeal of the friends of the country be so directed that such a report will be
                      made as to receive the support of all parties, and our finances cease to be the
-                     subject of mere partisan contention. The experiment is, at all events, worth a
+                     subject of mere partisan contention.</ref> The experiment is, at all events, worth a
                      trial, and, in my opinion, it can but prove beneficial to the entire
                      country.</p>
-              <p>The question of international bimetallism will have early and earnest attention. It
+              <p><ref type = "diplomacy">The question of international bimetallism will have early and earnest attention. It
                      will be my constant endeavor to secure it by co-operation with the other great
-                     commercial powers of the world. Until that condition is realized when the
+                     commercial powers of the world.</ref> <ref type = "economy">Until that condition is realized when the
                      parity between our gold and silver money springs from and is supported by the
                      relative value of the two metals, the value of the silver already coined and of
                      that which may hereafter be coined, must be kept constantly at par with gold by
                      every resource at our command. The credit of the Government, the integrity of
-                     its currency, and the inviolability of its obligations must be preserved. This
+                     its currency,</ref> and the inviolability of its obligations must be preserved. This
                      was the commanding verdict of the people, and it will not be unheeded.</p>
-              <p>Economy is demanded in every branch of the Government at all times, but especially
+              <p><ref type = "economy">Economy is demanded in every branch of the Government at all times, but especially
                      in periods, like the present, of depression in business and distress among the
                      people. The severest economy must be observed in all public expenditures, and
                      extravagance stopped wherever it is found, and prevented wherever in the future
@@ -6030,9 +6030,9 @@
                      resumed and vigorously enforced. Our revenues should always be large enough to
                      meet with ease and promptness not only our current needs and the principal and
                      interest of the public debt, but to make proper and liberal provision for that
-                     most deserving body of public creditors, the soldiers and sailors and the
+                     most deserving body of public creditors,</ref> the soldiers and sailors and the
                      widows and orphans who are the pensioners of the United States.</p>
-              <p>The Government should not be permitted to run behind or increase its debt in times
+              <p><ref type = "economy">The Government should not be permitted to run behind or increase its debt in times
                      like the present. Suitably to provide against this is the mandate of duty—the
                      certain and easy remedy for most of our financial difficulties. A deficiency is
                      inevitable so long as the expenditures of the Government exceed its receipts.
@@ -6050,15 +6050,15 @@
                      its ability to pay is not strengthened, but weakened by a continued deficit.
                      Loans are imperative in great emergencies to preserve the Government or its
                      credit, but a failure to supply needed revenue in time of peace for the
-                     maintenance of either has no justification.</p>
-              <p>The best way for the Government to maintain its credit is to pay as it goes—not by
+                     maintenance of either has no justification.</ref></p>
+              <p><ref type = "economy">The best way for the Government to maintain its credit is to pay as it goes—not by
                      resorting to loans, but by keeping out of debt—through an adequate income
                      secured by a system of taxation, external or internal, or both. It is the
                      settled policy of the Government, pursued from the beginning and practiced by
                      all parties and Administrations, to raise the bulk of our revenue from taxes
                      upon foreign productions entering the United States for sale and consumption,
-                     and avoiding, for the most part, every form of direct taxation, except in time
-                     of war. The country is clearly opposed to any needless additions to the subject
+                     and avoiding, for the most part, every form of direct taxation,</ref> <ref type = "war">except in time
+                     of war.</ref> <ref type = "economy">The country is clearly opposed to any needless additions to the subject
                      of internal taxation, and is committed by its latest popular utterance to the
                      system of tariff taxation. There can be no misunderstanding, either, about the
                      principle upon which this tariff taxation shall be levied. Nothing has ever
@@ -6078,8 +6078,8 @@
                      prop of the Treasury. The passage of such a law or laws would strengthen the
                      credit of the Government both at home and abroad, and go far toward stopping
                      the drain upon the gold reserve held for the redemption of our currency, which
-                     has been heavy and well-nigh constant for several years.</p>
-              <p>In the revision of the tariff especial attention should be given to the
+                     has been heavy and well-nigh constant for several years.</ref></p>
+              <p><ref type = "diplomacy">In the revision of the tariff especial attention should be given to the
                      re-enactment and extension of the reciprocity principle of the law of 1890,
                      under which so great a stimulus was given to our foreign trade in new and
                      advantageous markets for our surplus agricultural and manufactured products.
@@ -6088,8 +6088,8 @@
                      view always to be the opening up of new markets for the products of our
                      country, by granting concessions to the products of other lands that we need
                      and cannot produce ourselves, and which do not involve any loss of labor to our
-                     own people, but tend to increase their employment.</p>
-              <p>The depression of the past four years has fallen with especial severity upon the
+                     own people, but tend to increase their employment.</ref></p>
+              <p><ref type = "economy">The depression of the past four years has fallen with especial severity upon the
                      great body of toilers of the country, and upon none more than the holders of
                      small farms. Agriculture has languished and labor suffered. The revival of
                      manufacturing will be a relief to both. No portion of our population is more
@@ -6104,7 +6104,7 @@
                      be taken to decrease, rather than increase, our public expenditures. Business
                      conditions are not the most promising. It will take time to restore the
                      prosperity of former years. If we cannot promptly attain it, we can resolutely
-                     turn our faces in that direction and aid its return by friendly legislation.
+                     turn our faces in that direction and aid its return by friendly legislation.</ref>
                      However troublesome the situation may appear, Congress will not, I am sure, be
                      found lacking in disposition or ability to relieve it as far as legislation can
                      do so. The restoration of confidence and the revival of business, which men of
@@ -6120,7 +6120,7 @@
                      institutions which we enjoy. The people love and will sustain these
                      institutions. The great essential to our happiness and prosperity is that we
                      adhere to the principles upon which the Government was established and insist
-                     upon their faithful observance. Equality of rights must prevail, and our laws
+                     upon their faithful observance. <ref type = "social">Equality of rights must prevail, and our laws
                      be always and everywhere respected and obeyed. We may have failed in the
                      discharge of our full duty as citizens of the great Republic, but it is
                      consoling and encouraging to realize that free speech, a free press, free
@@ -6132,26 +6132,26 @@
                      the United States; courts, not mobs, must execute the penalties of the law. The
                      preservation of public order, the right of discussion, the integrity of courts,
                      and the orderly administration of justice must continue forever the rock of
-                     safety upon which our Government securely rests.</p>
+                     safety upon which our Government securely rests.</ref></p>
               <p>One of the lessons taught by the late election, which all can rejoice in, is that
                      the citizens of the United States are both law-respecting and law-abiding
                      people, not easily swerved from the path of patriotism and honor. This is in
                      entire accord with the genius of our institutions, and but emphasizes the
                      advantages of inculcating even a greater love for law and order in the future.
-                     Immunity should be granted to none who violate the laws, whether individuals,
+                     <ref type = "social">Immunity should be granted to none who violate the laws, whether individuals,
                      corporations, or communities; and as the Constitution imposes upon the
                      President the duty of both its own execution, and of the statutes enacted in
                      pursuance of its provisions, I shall endeavor carefully to carry them into
-                     effect. The declaration of the party now restored to power has been in the past
+                     effect.</ref> The declaration of the party now restored to power has been in the past
                      that of "opposition to all combinations of capital organized in trusts, or
                      otherwise, to control arbitrarily the condition of trade among our citizens,"
-                     and it has supported "such legislation as will prevent the execution of all
+                     and <ref type = "social">it has supported "such legislation as will prevent the execution of all
                      schemes to oppress the people by undue charges on their supplies, or by unjust
                      rates for the transportation of their products to the market." This purpose
                      will be steadily pursued, both by the enforcement of the laws now in existence
                      and the recommendation and support of such new statutes as may be necessary to
-                     carry it into effect.</p>
-              <p>Our naturalization and immigration laws should be further improved to the constant
+                     carry it into effect.</ref></p>
+              <p><ref type = "social">Our naturalization and immigration laws should be further improved to the constant
                      promotion of a safer, a better, and a higher citizenship. A grave peril to the
                      Republic would be a citizenship too ignorant to understand or too vicious to
                      appreciate the great value and beneficence of our institutions and laws, and
@@ -6160,7 +6160,7 @@
                      own citizens, but with the zeal of our forefathers encourage the spread of
                      knowledge and free education. Illiteracy must be banished from the land if we
                      shall attain that high destiny as the foremost of the enlightened nations of
-                     the world which, under Providence, we ought to achieve.</p>
+                     the world which, under Providence, we ought to achieve.</ref></p>
               <p>Reforms in the civil service must go on; but the changes should be real and
                      genuine, not perfunctory, or prompted by a zeal in behalf of any party simply
                      because it happens to be in power. As a member of Congress I voted and spoke in
@@ -6175,18 +6175,18 @@
               <p>Congress should give prompt attention to the restoration of our American merchant
                      marine, once the pride of the seas in all the great ocean highways of commerce.
                      To my mind, few more important subjects so imperatively demand its intelligent
-                     consideration. The United States has progressed with marvelous rapidity in
+                     consideration. <ref type = "economy">The United States has progressed with marvelous rapidity in
                      every field of enterprise and endeavor until we have become foremost in nearly
                      all the great lines of inland trade, commerce, and industry. Yet, while this is
                      true, our American merchant marine has been steadily declining until it is now
-                     lower, both in the percentage of tonnage and the number of vessels employed,
-                     than it was prior to the Civil War. Commendable progress has been made of late
-                     years in the upbuilding of the American Navy, but we must supplement these
+                     lower, both in the percentage of tonnage and the number of vessels employed,</ref>
+                     than it was prior to the <ref type = "war">Civil War.</ref> Commendable progress has been made of late
+                     years in the upbuilding of the American Navy, <ref type = "diplomacy">but we must supplement these
                      efforts by providing as a proper consort for it a merchant marine amply
                      sufficient for our own carrying trade to foreign countries. The question is one
                      that appeals both to our business necessities and the patriotic aspirations of
-                     a great people.</p>
-              <p>It has been the policy of the United States since the foundation of the Government
+                     a great people.</ref></p>
+              <p><ref type = "diplomacy">It has been the policy of the United States since the foundation of the Government
                      to cultivate relations of peace and amity with all the nations of the world,
                      and this accords with my conception of our duty now. We have cherished the
                      policy of non-interference with affairs of foreign governments wisely
@@ -6220,13 +6220,13 @@
                      be overestimated in the cause of advancing civilization. It may well engage the
                      best thought of the statesmen and people of every country, and I cannot but
                      consider it fortunate that it was reserved to the United States to have the
-                     leadership in so grand a work.</p>
+                     leadership in so grand a work.</ref></p>
               <p>It has been the uniform practice of each President to avoid, as far as possible,
                      the convening of Congress in extraordinary session. It is an example which,
                      under ordinary circumstances and in the absence of a public necessity, is to be
                      commended. But a failure to convene the representatives of the people in
                      Congress in extra session when it involves neglect of a public duty places the
-                     responsibility of such neglect upon the Executive himself. The condition of the
+                     responsibility of such neglect upon the Executive himself. <ref type = "economy">The condition of the
                      public Treasury, as has been indicated, demands the immediate consideration of
                      Congress. It alone has the power to provide revenues for the Government. Not to
                      convene it under such circumstances I can view in no other sense than the
@@ -6240,11 +6240,11 @@
                      obligation of immediate action. It has always seemed to me that the
                      postponement of the meeting of Congress until more than a year after it has
                      been chosen deprived Congress too often of the inspiration of the popular will
-                     and the country of the corresponding benefits. It is evident, therefore, that
+                     and the country of the corresponding benefits.</ref> It is evident, therefore, that
                      to postpone action in the presence of so great a necessity would be unwise on
                      the part of the Executive because unjust to the interests of the people. Our
-                     action now will be freer from mere partisan consideration than if the question
-                     of tariff revision was postponed until the regular session of Congress. We are
+                     action now will be freer from mere partisan consideration than <ref type = "economy">if the question
+                     of tariff revision was postponed until the regular session of Congress.</ref> We are
                      nearly two years from a Congressional election, and politics cannot so greatly
                      distract us as if such contest was immediately pending. We can approach the
                      problem calmly and patriotically, without fearing its effect upon an early
@@ -6252,8 +6252,8 @@
               <p>Our fellow-citizens who may disagree with us upon the character of this legislation
                      prefer to have the question settled now, even against their preconceived views,
                      and perhaps settled so reasonably, as I trust and believe it will be, as to
-                     insure great permanence, than to have further uncertainty menacing the vast and
-                     varied business interests of the United States. Again, whatever action Congress
+                     insure great permanence, <ref type = "economy">than to have further uncertainty menacing the vast and
+                     varied business interests of the United States.</ref> Again, whatever action Congress
                      may take will be given a fair opportunity for trial before the people are
                      called to pass judgment upon it, and this I consider a great essential to the
                      rightful and lasting settlement of the question. In view of these
@@ -6266,9 +6266,9 @@
                      distracted our councils and marred our true greatness as a nation. The triumph
                      of the people, whose verdict is carried into effect today, is not the triumph
                      of one section, nor wholly of one party, but of all sections and all the
-                     people. The North and the South no longer divide on the old lines, but upon
+                     people. <ref type = "social">The North and the South no longer divide on the old lines, but upon
                      principles and policies; and in this fact surely every lover of the country can
-                     find cause for true felicitation.</p>
+                     find cause for true felicitation.</ref></p>
               <p>Let us rejoice in and cultivate this spirit; it is ennobling and will be both a
                      gain and a blessing to our beloved country. It will be my constant aim to do
                      nothing, and permit nothing to be done, that will arrest or disturb this
@@ -6280,9 +6280,9 @@
                      in their respective spheres, so far as applicable, I would have all my
                      countrymen observe: "I will faithfully execute the office of President of the
                      United States, and will, to the best of my ability, preserve, protect, and
-                     defend the Constitution of the United States." This is the obligation I have
+                     defend the Constitution of the United States." <ref type = "religion">This is the obligation I have
                      reverently taken before the Lord Most High. To keep it will be my single
-                     purpose, my constant prayer; and I shall confidently rely upon the forbearance
+                     purpose, my constant prayer;</ref> and I shall confidently rely upon the forbearance
                      and assistance of all the people in the discharge of my solemn
                      responsibilities.</p>
 
@@ -6499,11 +6499,11 @@
                             Melville Fuller.]</p>
 
               </d>
-              <p>My fellow-citizens, no people on earth have more cause to be thankful than ours,
-                     and this is said reverently, in no spirit of boastfulness in our own strength,
+              <p><salutation>My fellow-citizens,</salutation> no people on earth have more cause to be thankful than ours,
+                     and this is said reverently, <ref type = "religion">in no spirit of boastfulness in our own strength,
                      but with gratitude to the Giver of Good who has blessed us with the conditions
                      which have enabled us to achieve so large a measure of well-being and of
-                     happiness. To us as a people it has been granted to lay the foundations of our
+                     happiness.</ref> To us as a people it has been granted to lay the foundations of our
                      national life in a new continent. We are the heirs of the ages, and yet we have
                      had to pay few of the penalties which in old countries are exacted by the dead
                      hand of a bygone civilization. We have not been obliged to fight for our
@@ -6517,7 +6517,7 @@
                      a free government a mighty people can thrive best, alike as regards the things
                      of the body and the things of the soul.</p>
               <p>Much has been given us, and much will rightfully be expected from us. We have
-                     duties to others and duties to ourselves; and we can shirk neither. We have
+                     duties to others and duties to ourselves; and we can shirk neither. <ref type = "diplomacy">We have
                      become a great nation, forced by the fact of its greatness into relations with
                      the other nations of the earth, and we must behave as beseems a people with
                      such responsibilities. Toward all other nations, large and small, our attitude
@@ -6531,24 +6531,24 @@
                      of righteousness. We wish it because we think it is right and not because we
                      are afraid. No weak nation that acts manfully and justly should ever have cause
                      to fear us, and no strong power should ever be able to single us out as a
-                     subject for insolent aggression.</p>
-              <p>Our relations with the other powers of the world are important; but still more
-                     important are our relations among ourselves. Such growth in wealth, in
+                     subject for insolent aggression.</ref></p>
+              <p><ref type = "diplomacy">Our relations with the other powers of the world are important;</ref> but still more
+                     important are our relations among ourselves. <ref type = "economy">Such growth in wealth,</ref> in
                      population, and in power as this nation has seen during the century and a
                      quarter of its national life is inevitably accompanied by a like growth in the
                      problems which are ever before every nation that rises to greatness. Power
                      invariably means both responsibility and danger. Our forefathers faced certain
                      perils which we have outgrown. We now face other perils, the very existence of
                      which it was impossible that they should foresee. Modern life is both complex
-                     and intense, and the tremendous changes wrought by the extraordinary industrial
+                     and intense, and <ref type = "economy">the tremendous changes wrought by the extraordinary industrial
                      development of the last half century are felt in every fiber of our social and
-                     political being. Never before have men tried so vast and formidable an
+                     political being.</ref> Never before have men tried so vast and formidable an
                      experiment as that of administering the affairs of a continent under the forms
                      of a Democratic republic. The conditions which have told for our marvelous
                      material well-being, which have developed to a very high degree our energy,
-                     self-reliance, and individual initiative, have also brought the care and
+                     self-reliance, and individual initiative, <ref type = "economy">have also brought the care and
                      anxiety inseparable from the accumulation of great wealth in industrial
-                     centers. Upon the success of our experiment much depends, not only as regards
+                     centers.</ref> Upon the success of our experiment much depends, not only as regards
                      our own welfare, but as regards the welfare of mankind. If we fail, the cause
                      of free self-government throughout the world will rock to its foundations, and
                      therefore our responsibility is heavy, to ourselves, to the world as it is
@@ -7041,13 +7041,13 @@
                             Chief Justice Edward White.]</p>
 
               </d>
-              <p>There has been a change of government. It began two years ago, when the House of
+              <p><salutation>There has been a change of government. It began two years ago, when the House of
                      Representatives became Democratic by a decisive majority. It has now been
                      completed. The Senate about to assemble will also be Democratic. The offices of
                      President and Vice-President have been put into the hands of Democrats. What
                      does the change mean? That is the question that is uppermost in our minds
                      to-day. That is the question I am going to try to answer, in order, if I may,
-                     to interpret the occasion.</p>
+                     to interpret the occasion.</salutation></p>
               <p>It means much more than the mere success of a party. The success of a party means
                      little except when the Nation is using that party for a large and definite
                      purpose. No one can mistake the purpose for which the Nation now seeks to use
@@ -7078,14 +7078,14 @@
                      might have used, and have not stopped to conserve the exceeding bounty of
                      nature, without which our genius for enterprise would have been worthless and
                      impotent, scorning to be careful, shamefully prodigal as well as admirably
-                     efficient. We have been proud of our industrial achievements, but we have not
+                     efficient. <ref type = "economy">We have been proud of our industrial achievements, but we have not
                      hitherto stopped thoughtfully enough to count the human cost, the cost of lives
                      snuffed out, of energies overtaxed and broken, the fearful physical and
                      spiritual cost to the men and women and children upon whom the dead weight and
                      burden of it all has fallen pitilessly the years through. The groans and agony
                      of it all had not yet reached our ears, the solemn, moving undertone of our
                      life, coming up out of the mines and factories, and out of every home where the
-                     struggle had its intimate and familiar seat. With the great Government went
+                     struggle had its intimate and familiar seat.</ref> With the great Government went
                      many deep secret things which we too long delayed to look into and scrutinize
                      with candid, fearless eyes. The great Government we loved has too often been
                      made use of for private and selfish purposes, and those who used it had
@@ -7094,7 +7094,7 @@
                      the good, the debased and decadent with the sound and vital. With this vision
                      we approach new affairs. Our duty is to cleanse, to reconsider, to restore, to
                      correct the evil without impairing the good, to purify and humanize every
-                     process of our common life without weakening or sentimentalizing it. There has
+                     process of our common life without weakening or sentimentalizing it. <ref type = "social">There has
                      been something crude and heartless and unfeeling in our haste to succeed and be
                      great. Our thought has been "Let every man look out for himself, let every
                      generation look out for itself," while we reared giant machinery which made it
@@ -7102,14 +7102,14 @@
                      chance to look out for themselves. We had not forgotten our morals. We
                      remembered well enough that we had set up a policy which was meant to serve the
                      humblest as well as the most powerful, with an eye single to the standards of
-                     justice and fair play, and remembered it with pride. But we were very heedless
+                     justice and fair play, and remembered it with pride.</ref> But we were very heedless
                      and in a hurry to be great.</p>
               <p>We have come now to the sober second thought. The scales of heedlessness have
                      fallen from our eyes. We have made up our minds to square every process of our
                      national life again with the standards we so proudly set up at the beginning
                      and have always carried at our hearts. Our work is a work of restoration.</p>
               <p>We have itemized with some degree of particularity the things that ought to be
-                     altered and here are some of the chief items: A tariff which cuts us off from
+                     altered and here are some of the chief items: <ref type = "economy">A tariff which cuts us off from
                      our proper part in the commerce of the world, violates the just principles of
                      taxation, and makes the Government a facile instrument in the hand of private
                      interests; a banking and currency system based upon the necessity of the
@@ -7126,8 +7126,8 @@
                      renewal, unregarded waste heaps at every mine. We have studied as perhaps no
                      other nation has the most effective means of production, but we have not
                      studied cost or economy as we should either as organizers of industry, as
-                     statesmen, or as individuals.</p>
-              <p>Nor have we studied and perfected the means by which government may be put at the
+                     statesmen, or as individuals.</ref></p>
+              <p><ref type = "social">Nor have we studied and perfected the means by which government may be put at the
                      service of humanity, in safeguarding the health of the Nation, the health of
                      its men and its women and its children, as well as their rights in the struggle
                      for existence. This is no sentimental duty. The firm basis of government is
@@ -7140,7 +7140,7 @@
                      law is to keep sound the society it serves. Sanitary laws, pure food laws, and
                      laws determining conditions of labor which individuals are powerless to
                      determine for themselves are intimate parts of the very business of justice and
-                     legal efficiency.</p>
+                     legal efficiency.</ref></p>
               <p>These are some of the things we ought to do, and not leave the others undone, the
                      old-fashioned, never-to-be-neglected, fundamental safeguarding of property and
                      of individual right. This is the high enterprise of the new day: To lift
@@ -7148,8 +7148,8 @@
                      hearthfire of every man's conscience and vision of the right. It is
                      inconceivable that we should do this as partisans; it is inconceivable we
                      should do it in ignorance of the facts as they are or in blind haste. We shall
-                     restore, not destroy. We shall deal with our economic system as it is and as it
-                     may be modified, not as it might be if we had a clean sheet of paper to write
+                     restore, not destroy. <ref type = "economy">We shall deal with our economic system as it is and as it
+                     may be modified,</ref> not as it might be if we had a clean sheet of paper to write
                      upon; and step by step we shall make it what it should be, in the spirit of
                      those who question their own wisdom and seek counsel and knowledge, not shallow
                      self-satisfaction or the excitement of excursions whither they can not tell.
@@ -7157,8 +7157,8 @@
               <p>And yet it will be no cool process of mere science. The Nation has been deeply
                      stirred, stirred by a solemn passion, stirred by the knowledge of wrong, of
                      ideals lost, of government too often debauched and made an instrument of evil.
-                     The feelings with which we face this new age of right and opportunity sweep
-                     across our heartstrings like some air out of God's own presence, where justice
+                     <ref type = "religion">The feelings with which we face this new age of right and opportunity sweep
+                     across our heartstrings like some air out of God's own presence,</ref> where justice
                      and mercy are reconciled and the judge and the brother are one. We know our
                      task to be no mere task of politics but a task which shall search us through
                      and through, whether we be able to understand our time and the need of our
@@ -7169,8 +7169,8 @@
                      forces of party, but the forces of humanity. Men's hearts wait upon us; men's
                      lives hang in the balance; men's hopes call upon us to say what we will do. Who
                      shall live up to the great trust? Who dares fail to try? I summon all honest
-                     men, all patriotic, all forward-looking men, to my side. God helping me, I will
-                     not fail them, if they will but counsel and sustain me!</p>
+                     men, all patriotic, all forward-looking men, to my side. <ref type = "religion">God helping me, I will
+                     not fail them, if they will but counsel and sustain me!</ref></p>
 
        </address>
 
@@ -7476,16 +7476,16 @@
                      stable ways. Discouraging indebtedness confronts us like all the war-torn
                      nations, and these obligations must be provided for. No civilization can
                      survive repudiation.</ref></p>
-              <p>We can reduce the abnormal expenditures, and we will. We can strike at war
-                     taxation, and we must. We must face the grim necessity, with full knowledge
+              <p><ref type = "war">We can reduce the abnormal expenditures, and we will. We can strike at war
+                     taxation, and we must.</ref> We must face the grim necessity, with full knowledge
                      that the task is to be solved, and we must proceed with a full realization that
                      no statute enacted by man can repeal the inexorable laws of nature. Our most
                      dangerous tendency is to expect too much of government, and at the same time do
                      for it too little. We contemplate the immediate task of putting our public
-                     household in order. We need a rigid and yet sane economy, combined with fiscal
+                     household in order. <ref type = "economy">We need a rigid and yet sane economy, combined with fiscal
                      justice, and it must be attended by individual prudence and thrift, which are
-                     so essential to this trying hour and reassuring for the future.</p>
-              <p>The business world reflects the disturbance of war's reaction. Herein flows the
+                     so essential to this trying hour and reassuring for the future.</ref></p>
+              <p><ref type = "economy">The business world reflects the disturbance of war's reaction. Herein flows the
                      lifeblood of material existence. The economic mechanism is intricate and its
                      parts interdependent, and has suffered the shocks and jars incident to abnormal
                      demands, credit inflations, and price upheavals. The normal balances have been
@@ -7495,7 +7495,7 @@
                      receding fever of war activities. Perhaps we never shall know the old levels of
                      wages again, because war invariably readjusts compensations, and the
                      necessaries of life will show their inseparable relationship, but we must
-                     strive for normalcy to reach stability. All the penalties will not be light,
+                     strive for normalcy to reach stability.</ref> All the penalties will not be light,
                      nor evenly distributed. There is no way of making them so. There is no instant
                      step from disorder to order. We must face a condition of grim reality, charge
                      off our losses and start afresh. It is the oldest lesson of civilization. I
@@ -7504,40 +7504,40 @@
                      solved. No altered system will work a miracle. Any wild experiment will only
                      add to the confusion. Our best assurance lies in efficient administration of
                      our proven system.</p>
-              <p>The forward course of the business cycle is unmistakable. Peoples are turning from
+              <p><ref type = "economy">The forward course of the business cycle is unmistakable. Peoples are turning from
                      destruction to production. Industry has sensed the changed order and our own
                      people are turning to resume their normal, onward way. The call is for
                      productive America to go on. I know that Congress and the Administration will
                      favor every wise Government policy to aid the resumption and encourage
-                     continued progress.</p>
-              <p>I speak for administrative efficiency, for lightened tax burdens, for sound
+                     continued progress.</ref></p>
+              <p><ref type = "economy">I speak for administrative efficiency, for lightened tax burdens, for sound
                      commercial practices, for adequate credit facilities, for sympathetic concern
                      for all agricultural problems, for the omission of unnecessary interference of
                      Government with business, for an end to Government's experiment in business,
-                     and for more efficient business in Government administration. With all of this
+                     and for more efficient business in Government administration.</ref> <ref type = "social">With all of this
                      must attend a mindfulness of the human side of all activities, so that social,
                      industrial, and economic justice will be squared with the purposes of a
-                     righteous people.</p>
+                     righteous people.</ref></p>
               <p>With the nation-wide induction of womanhood into our political life, we may count
                      upon her intuitions, her refinements, her intelligence, and her influence to
                      exalt the social order. We count upon her exercise of the full privileges and
                      the performance of the duties of citizenship to speed the attainment of the
                      highest state.</p>
               <p>I wish for an America no less alert in guarding against dangers from within than it
-                     is watchful against enemies from without. Our fundamental law recognizes no
+                     is watchful against enemies from without. <ref type = "social">Our fundamental law recognizes no
                      class, no group, no section; there must be none in legislation or
-                     administration. The supreme inspiration is the common weal. Humanity hungers
-                     for international peace, and we crave it with all mankind. My most reverent
-                     prayer for America is for industrial peace, with its rewards, widely and
-                     generally distributed, amid the inspirations of equal opportunity. No one
+                     administration.</ref> The supreme inspiration is the common weal. <ref type = "diplomacy">Humanity hungers
+                     for international peace, and we crave it with all mankind.</ref> <ref type = "religion">My most reverent
+                     prayer for America is for industrial peace,</ref> with its rewards, widely and
+                     generally distributed, <ref type = "social">amid the inspirations of equal opportunity. No one
                      justly may deny the equality of opportunity which made us what we are. We have
                      mistaken unpreparedness to embrace it to be a challenge of the reality, and due
                      concern for making all citizens fit for participation will give added strength
-                     of citizenship and magnify our achievement.</p>
+                     of citizenship and magnify our achievement.</ref></p>
               <p>If revolution insists upon overturning established order, let other peoples make
-                     the tragic experiment. There is no place for it in America. When World War
+                     the tragic experiment. There is no place for it in America. <ref type = "war">When World War
                      threatened civilization we pledged our resources and our lives to its
-                     preservation, and when revolution threatens we unfurl the flag of law and order
+                     preservation,</ref> and when revolution threatens we unfurl the flag of law and order
                      and renew our consecration. Ours is a constitutional freedom where the popular
                      will is the law supreme and minorities are sacredly protected. Our revisions,
                      reformations, and evolutions reflect a deliberate judgment and an orderly
@@ -7550,44 +7550,44 @@
                      which attend.</p>
               <p>It has been proved again and again that we cannot, while throwing our markets open
                      to the world, maintain American standards of living and opportunity, and hold
-                     our industrial eminence in such unequal competition. There is a luring fallacy
+                     our industrial eminence in such unequal competition. <ref type = "economy">There is a luring fallacy
                      in the theory of banished barriers of trade, but preserved American standards
                      require our higher production costs to be reflected in our tariffs on imports.
                      Today, as never before, when peoples are seeking trade restoration and
-                     expansion, we must adjust our tariffs to the new order. We seek participation
+                     expansion, we must adjust our tariffs to the new order.</ref> <ref type = "diplomacy">We seek participation
                      in the world's exchanges, because therein lies our way to widened influence and
-                     the triumphs of peace. We know full well we cannot sell where we do not buy,
+                     the triumphs of peace.</ref> <ref type = "economy">We know full well we cannot sell where we do not buy,
                      and we cannot sell successfully where we do not carry. Opportunity is calling
                      not alone for the restoration, but for a new era in production, transportation
                      and trade. We shall answer it best by meeting the demand of a surpassing home
                      market, by promoting self-reliance in production, and by bidding enterprise,
                      genius, and efficiency to carry our cargoes in American bottoms to the marts of
-                     the world.</p>
+                     the world.</ref></p>
               <p>We would not have an America living within and for herself alone, but we would have
                      her self-reliant, independent, and ever nobler, stronger, and richer. Believing
                      in our higher standards, reared through constitutional liberty and maintained
                      opportunity, we invite the world to the same heights. But pride in things
-                     wrought is no reflex of a completed task. Common welfare is the goal of our
+                     wrought is no reflex of a completed task. <ref type = "economy">Common welfare is the goal of our
                      national endeavor. Wealth is not inimical to welfare; it ought to be its
-                     friendliest agency. There never can be equality of rewards or possessions so
+                     friendliest agency.</ref> <ref type = "social">There never can be equality of rewards or possessions so
                      long as the human plan contains varied talents and differing degrees of
                      industry and thrift, but ours ought to be a country free from the great
-                     blotches of distressed poverty. We ought to find a way to guard against the
-                     perils and penalties of unemployment. We want an America of homes, illumined
+                     blotches of distressed poverty.</ref> <ref type = "economy">We ought to find a way to guard against the
+                     perils and penalties of unemployment.</ref> <ref type = "social">We want an America of homes, illumined
                      with hope and happiness, where mothers, freed from the necessity for long hours
                      of toil beyond their own doors, may preside as befits the hearthstone of
                      American citizenship. We want the cradle of American childhood rocked under
                      conditions so wholesome and so hopeful that no blight may touch it in its
                      development, and we want to provide that no selfish interest, no material
                      necessity, no lack of opportunity shall prevent the gaining of that education
-                     so essential to best citizenship.</p>
-              <p>There is no short cut to the making of these ideals into glad realities. The world
+                     so essential to best citizenship.</ref></p>
+              <p>There is no short cut to the making of these ideals into glad realities. <ref type = "diplomacy">The world
                      has witnessed again and again the futility and the mischief of ill-considered
                      remedies for social and economic disorders. But we are mindful today as never
                      before of the friction of modern industrialism, and we must learn its causes
                      and reduce its evil consequences by sober and tested methods. Where genius has
                      made for great possibilities, justice and happiness must be reflected in a
-                     greater common welfare.</p>
+                     greater common welfare.</ref></p>
               <p>Service is the supreme commitment of life. I would rejoice to acclaim the era of
                      the Golden Rule and crown it with the autocracy of service. I pledge an
                      administration wherein all the agencies of Government are called to serve, and
@@ -7595,18 +7595,18 @@
                      popular will.</p>
               <p>One cannot stand in this presence and be unmindful of the tremendous
                      responsibility. The world upheaval has added heavily to our tasks. But with the
-                     realization comes the surge of high resolve, and there is reassurance in belief
-                     in the God-given destiny of our Republic. If I felt that there is to be sole
+                     realization comes the surge of high resolve, and <ref type = "religion">there is reassurance in belief
+                     in the God-given destiny of our Republic.</ref> If I felt that there is to be sole
                      responsibility in the Executive for the America of tomorrow I should shrink
                      from the burden. But here are a hundred millions, with common concern and
-                     shared responsibility, answerable to God and country. The Republic summons them
+                     shared responsibility, <ref type = "religion">answerable to God and country.</ref> The Republic summons them
                      to their duty, and I invite co-operation.</p>
               <p>I accept my part with single-mindedness of purpose and humility of spirit, and
-                     implore the favor and guidance of God in His Heaven. With these I am unafraid,
+                     <ref type = "religion">implore the favor and guidance of God in His Heaven.</ref> With these I am unafraid,
                      and confidently face the future.</p>
-              <p>I have taken the solemn oath of office on that passage of Holy Writ wherein it is
+              <p><ref type = "religion">I have taken the solemn oath of office on that passage of Holy Writ wherein it is
                      asked: "What doth the Lord require of thee but to do justly, and to love mercy,
-                     and to walk humbly with thy God?" This I plight to God and country.</p>
+                     and to walk humbly with thy God?" This I plight to God and country.</ref></p>
 
        </address>
 
