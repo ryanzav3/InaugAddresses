@@ -20,7 +20,7 @@
             <body>
                 <h1>United States Presidents' Inaugural Speeches</h1>
                 <h2>Table of Contents</h2>
-                <ul><xsl:apply-templates select = "descendant::address" mode ="toc"/></ul>
+                <ol><xsl:apply-templates select = "descendant::address" mode ="toc"/></ol>
                 <hr/>
                 
                 <xsl:apply-templates select="descendant::address"/>
@@ -34,12 +34,12 @@
     </xsl:template>
     
     <xsl:template match = "address" mode = "toc">
-        <li><strong><xsl:apply-templates select = "@n , @name, @date"/>
+        <li><strong><xsl:apply-templates select = "@name, ' ', @date"/>
         <xsl:apply-templates select="descendant::address"/></strong></li>    
     </xsl:template>
     
     <xsl:template match = "address">
-        <h2><xsl:apply-templates select = "@n , @name, @date"/></h2>
+        <h2><xsl:apply-templates select = "@n , ' ', @name, ' ', @date"/></h2>
         <xsl:apply-templates select="descendant::p"/>
     </xsl:template>
     
