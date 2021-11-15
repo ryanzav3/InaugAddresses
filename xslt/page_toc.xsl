@@ -24,6 +24,13 @@
                 <hr/>
                 
                 <xsl:apply-templates select="descendant::address"/>
+                
+                <xsl:apply-templates select = "ref[@type = 'social']"/>
+                <xsl:apply-templates select = "ref[@type = 'economy']"/>
+                <xsl:apply-templates select = "ref[@type = 'diplomacy']"/>
+                <xsl:apply-templates select = "ref[@type = 'religion']"/>
+                <xsl:apply-templates select = "ref[@type = 'war']"/>
+                
             </body>
             
         </html>
@@ -41,6 +48,26 @@
     <xsl:template match = "address">
         <h2><xsl:apply-templates select = "@n , ' ', @name, ' ', @date"/></h2>
         <xsl:apply-templates select="descendant::p"/>
+    </xsl:template>
+    
+    <xsl:template match = "ref[@type = 'social']">
+        <span class = "social"><xsl:apply-templates/></span>
+    </xsl:template>
+    
+    <xsl:template match = "ref[@type = 'economy']">
+        <span class = "economy"><xsl:apply-templates/></span>
+    </xsl:template>
+    
+    <xsl:template match = "ref[@type = 'diplomacy']">
+        <span class = "diplomacy"><xsl:apply-templates/></span>
+    </xsl:template>
+    
+    <xsl:template match = "ref[@type = 'religion']">
+        <span class = "religion"><xsl:apply-templates/></span>
+    </xsl:template>
+    
+    <xsl:template match = "ref[@type = 'war']">
+        <span class = "war"><xsl:apply-templates/></span>
     </xsl:template>
     
 </xsl:stylesheet>
