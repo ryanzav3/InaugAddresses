@@ -20,7 +20,9 @@
             <body>
                 <h1>United States Presidents' Inaugural Speeches</h1>
                 <h2>Table of Contents</h2>
-                <ol><xsl:apply-templates select = "descendant::address" mode ="toc"/></ol>
+                <ol><xsl:apply-templates select = "descendant::address" mode ="toc">
+                    <xsl:sort select = "count(descendant::ref)" order = "descending"/>
+                </xsl:apply-templates></ol>
                 <hr/>
                 
                 <xsl:apply-templates select="descendant::address"/>
@@ -41,12 +43,13 @@
     </xsl:template>
     
     <xsl:template match = "address" mode = "toc">
-        <li><strong><xsl:apply-templates select = "@name, ' ', @date"/>
-        <xsl:apply-templates select="descendant::address"/></strong></li>    
+        <li><a href="#id{@n}"><strong><xsl:apply-templates select = "@name, ' ', @date"/>
+        <xsl:apply-templates select="descendant::address"/></strong></a>
+        <xsl:text>[Refs: </xsl:text><xsl:value-of select = "count(descendant::ref)"/></li>    
     </xsl:template>
     
     <xsl:template match = "address">
-        <h2><xsl:apply-templates select = "@n , ' ', @name, ' ', @date"/></h2>
+        <h2 id = "id{@n}"><xsl:apply-templates select = "@n , ' ', @name, ' ', @date"/></h2>
         <xsl:apply-templates select="descendant::p"/>
     </xsl:template>
     

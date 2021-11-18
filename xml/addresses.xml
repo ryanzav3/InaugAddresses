@@ -11846,10 +11846,10 @@
        </address>
 
        <address n="56" name="BARACK OBAMA" title="INAUGURAL ADDRESS" date="JANUARY 20, 2009">
-              <p>My fellow citizens, I stand here today humbled by the task before us, grateful for
+              <p><salutation>My fellow citizens, I stand here today humbled by the task before us, grateful for
                      the trust you have bestowed, mindful of the sacrifices borne by our ancestors.
                      I thank President Bush for his service to our Nation, as well as the generosity
-                     and cooperation he has shown throughout this transition.</p>
+                     and cooperation he has shown throughout this transition.</salutation></p>
               <p>Forty-four Americans have now taken the Presidential oath. The words have been
                      spoken during rising tides of prosperity and the still waters of peace. Yet
                      every so often, the oath is taken amidst gathering clouds and raging storms. At
@@ -11857,9 +11857,9 @@
                      of those in high office, but because we the people have remained faithful to
                      the ideals of our forebears and true to our founding documents.</p>
               <p>So it has been; so it must be with this generation of Americans.</p>
-              <p>That we are in the midst of crisis is now well understood. Our Nation is at war
-                     against a far-reaching network of violence and hatred. Our economy is badly
-                     weakened, a consequence of greed and irresponsibility on the part of some, but
+              <p>That we are in the midst of crisis is now well understood. <ref type ="diplomacy">Our Nation is at war
+                     against a far-reaching network of violence and hatred.</ref> <ref type ="economy">Our economy is badly
+                     weakened,</ref> a consequence of greed and irresponsibility on the part of some, but
                      also our collective failure to make hard choices and prepare the Nation for a
                      new age. Homes have been lost, jobs shed, businesses shuttered. Our health care
                      is too costly. Our schools fail too many. And each day brings further evidence
@@ -11875,11 +11875,11 @@
                      conflict and discord. On this day, we come to proclaim an end to the petty
                      grievances and false promises, the recriminations and worn-out dogmas that for
                      far too long have strangled our politics.</p>
-              <p>We remain a young nation, but in the words of Scripture, the time has come to set
+              <p>We remain a young nation, <ref type = "religion">but in the words of Scripture,</ref> the time has come to set
                      aside childish things. The time has come to reaffirm our enduring spirit, to
                      choose our better history, to carry forward that precious gift, that noble idea
-                     passed on from generation to generation: the God-given promise that all are
-                     equal, all are free, and all deserve a chance to pursue their full measure of
+                     passed on from generation to generation: <ref type = "religion">the God-given promise that all are
+                     equal,</ref> all are free, and all deserve a chance to pursue their full measure of
                      happiness.</p>
               <p>In reaffirming the greatness of our Nation, we understand that greatness is never a
                      given. It must be earned. Our journey has never been one of shortcuts or
@@ -11890,21 +11890,21 @@
                      long, rugged path toward prosperity and freedom.</p>
               <p>For us, they packed up their few worldly possessions and traveled across oceans in
                      search of a new life. For us, they toiled in sweatshops and settled the West,
-                     endured the lash of the whip, and plowed the hard Earth. For us, they fought
-                     and died in places like Concord and Gettysburg, Normandy and Khe Sanh.</p>
+                     endured the lash of the whip, and plowed the hard Earth. <ref type ="war">For us, they fought
+                     and died in places like Concord and Gettysburg, Normandy and Khe Sanh.</ref></p>
               <p>Time and again, these men and women struggled and sacrificed and worked 'til their
                      hands were raw so that we might live a better life. They saw America as bigger
                      than the sum of our individual ambitions, greater than all the differences of
                      birth or wealth or faction.</p>
               <p>This is the journey we continue today. We remain the most prosperous, powerful
-                     nation on Earth. Our workers are no less productive than when this crisis
+                     nation on Earth. <ref type ="economy">Our workers are no less productive than when this crisis
                      began. Our minds are no less inventive. Our goods and services no less needed
-                     than they were last week or last month or last year. Our capacity remains
+                     than they were last week or last month or last year.</ref> Our capacity remains
                      undiminished. But our time of standing pat, of protecting narrow interests and
                      putting off unpleasant decisions, that time has surely passed. Starting today,
                      we must pick ourselves up, dust ourselves off, and begin again the work of
                      remaking America.</p>
-              <p>For everywhere we look, there is work to be done. The state of the economy calls
+              <p>For everywhere we look, there is work to be done. <ref type ="economy">The state of the economy calls
                      for action, bold and swift, and we will act not only to create new jobs but to
                      lay a new foundation for growth. We will build the roads and bridges, the
                      electric grids and digital lines that feed our commerce and bind us together.
@@ -11912,7 +11912,7 @@
                      raise health care's quality and lower its cost. We will harness the sun and the
                      winds and the soil to fuel our cars and run our factories. And we will
                      transform our schools and colleges and universities to meet the demands of a
-                     new age. All this we can do. All this we will do.</p>
+                     new age.</ref> All this we can do. All this we will do.</p>
               <p>Now, there are some who question the scale of our ambitions, who suggest that our
                      system cannot tolerate too many big plans. Their memories are short, for they
                      have forgotten what this country has already done, what free men and women can
@@ -11920,22 +11920,22 @@
                      courage.</p>
               <p>What the cynics fail to understand is that the ground has shifted beneath them,
                      that the stale political arguments that have consumed us for so long no longer
-                     apply. The question we ask today is not whether our Government is too big or
+                     apply. <ref type = "social">The question we ask today is not whether our Government is too big or
                      too small, but whether it works; whether it helps families find jobs at a
-                     decent wage, care they can afford, a retirement that is dignified. Where the
+                     decent wage, care they can afford, a retirement that is dignified.</ref> Where the
                      answer is yes, we intend to move forward. Where the answer is no, programs will
-                     end. And those of us who manage the public's dollars will be held to account to
+                     end. <ref type = "economy">And those of us who manage the public's dollars will be held to account to
                      spend wisely, reform bad habits, and do our business in the light of day,
                      because only then can we restore the vital trust between a people and their
-                     government.</p>
+                     government.</ref></p>
               <p>Nor is the question before us whether the market is a force for good or ill. Its
                      power to generate wealth and expand freedom is unmatched. But this crisis has
                      reminded us that without a watchful eye, the market can spin out of control.
-                     The Nation cannot prosper long when it favors only the prosperous. The success
+                     The Nation cannot prosper long when it favors only the prosperous. <ref type = "economy">The success
                      of our economy has always depended not just on the size of our gross domestic
                      product, but on the reach of our prosperity, on our ability to extend
                      opportunity to every willing heart, not out of charity, but because it is the
-                     surest route to our common good.</p>
+                     surest route to our common good.</ref></p>
               <p>As for our common defense, we reject as false the choice between our safety and our
                      ideals. Our Founding Fathers, faced with perils that we can scarcely imagine,
                      drafted a charter to assure the rule of law and the rights of man, a charter
@@ -11945,13 +11945,13 @@
                      village where my father was born, know that America is a friend of each nation
                      and every man, woman, and child who seeks a future of peace and dignity, and we
                      are ready to lead once more.</p>
-              <p>Recall that earlier generations faced down fascism and communism not just with
+              <p><ref type = "diplomacy">Recall that earlier generations faced down fascism and communism not just with
                      missiles and tanks but with sturdy alliances and enduring convictions. They
                      understood that our power alone cannot protect us, nor does it entitle us to do
                      as we please. Instead, they knew that our power grows through its prudent use.
                      Our security emanates from the justness of our cause, the force of our example,
-                     the tempering qualities of humility and restraint.</p>
-              <p>We are the keepers of this legacy. Guided by these principles once more, we can
+                     the tempering qualities of humility and restraint.</ref></p>
+              <p>We are the keepers of this legacy. <ref type ="diplomacy">Guided by these principles once more, we can
                      meet those new threats that demand even greater effort, even greater
                      cooperation and understanding between nations. We will begin to responsibly
                      leave Iraq to its people and forge a hard-earned peace in Afghanistan. With old
@@ -11960,33 +11960,33 @@
                      way of life, nor will we waver in its defense. And for those who seek to
                      advance their aims by inducing terror and slaughtering innocents, we say to you
                      now that our spirit is stronger and cannot be broken. You cannot outlast us,
-                     and we will defeat you.</p>
-              <p>For we know that our patchwork heritage is a strength, not a weakness. We are a
+                     and we will defeat you.</ref></p>
+              <p>For we know that our patchwork heritage is a strength, not a weakness. <ref type = "religion">We are a
                      nation of Christians and Muslims, Jews and Hindus and nonbelievers. We are
-                     shaped by every language and culture, drawn from every end of this Earth. And
+                     shaped by every language and culture, drawn from every end of this Earth.</ref> <ref type = "social">And
                      because we have tasted the bitter swill of civil war and segregation and
                      emerged from that dark chapter stronger and more united, we cannot help but
                      believe that the old hatreds shall someday pass, that the lines of tribe shall
                      soon dissolve; that as the world grows smaller, our common humanity shall
                      reveal itself, and that America must play its role in ushering in a new era of
-                     peace.</p>
-              <p>To the Muslim world, we seek a new way forward based on mutual interest and mutual
+                     peace.</ref></p>
+              <p><ref type = "diplomacy">To the Muslim world, we seek a new way forward based on mutual interest and mutual
                      respect. To those leaders around the globe who seek to sow conflict or blame
                      their society's ills on the West, know that your people will judge you on what
                      you can build, not what you destroy. To those who cling to power through
                      corruption and deceit and the silencing of dissent, know that you are on the
                      wrong side of history, but that we will extend a hand if you are willing to
-                     unclench your fist.</p>
-              <p>To the people of poor nations, we pledge to work alongside you to make your farms
+                     unclench your fist.</ref></p>
+              <p><ref type = "diplomacy">To the people of poor nations, we pledge to work alongside you to make your farms
                      flourish and let clean waters flow, to nourish starved bodies and feed hungry
                      minds. And to those nations like ours that enjoy relative plenty, we say we can
                      no longer afford indifference to suffering outside our borders, nor can we
                      consume the world's resources without regard to effect, for the world has
-                     changed, and we must change with it.</p>
+                     changed, and we must change with it.</ref></p>
               <p>As we consider the road that unfolds before us, we remember with humble gratitude
                      those brave Americans who, at this very hour, patrol far-off deserts and
-                     distant mountains. They have something to tell us today, just as the fallen
-                     heroes who lie in Arlington whisper through the ages. We honor them not only
+                     distant mountains. <ref type = "war">They have something to tell us today, just as the fallen
+                     heroes who lie in Arlington whisper through the ages.</ref> We honor them not only
                      because they are guardians of our liberty, but because they embody the spirit
                      of service, a willingness to find meaning in something greater than themselves.
                      And yet at this moment, a moment that will define a generation, it is precisely
@@ -12009,18 +12009,18 @@
                      knowledge that there is nothing so satisfying to the spirit, so defining of our
                      character, than giving our all to a difficult task.</p>
               <p>This is the price and the promise of citizenship. This is the source of our
-                     confidence, the knowledge that God calls on us to shape an uncertain destiny.
-                     This is the meaning of our liberty and our creed; why men and women and
+                     confidence, <ref type = "religion">the knowledge that God calls on us to shape an uncertain destiny.
+                     This is the meaning of our liberty and our creed;</ref> <ref type = "social">why men and women and
                      children of every race and every faith can join in celebration across this
                      magnificent Mall, and why a man whose father less than 60 years ago might not
                      have been served at a local restaurant can now stand before you to take a most
-                     sacred oath.</p>
+                     sacred oath.</ref></p>
               <p>So let us mark this day with remembrance of who we are and how far we have
-                     traveled. In the year of America's birth, in the coldest of months, a small
+                     traveled. <ref type = "war">In the year of America's birth, in the coldest of months, a small
                      band of patriots huddled by dying campfires on the shores of an icy river. The
                      Capital was abandoned. The enemy was advancing. The snow was stained with
                      blood. At a moment when the outcome of our Revolution was most in doubt, the
-                     Father of our Nation ordered these words be read to the people:</p>
+                     Father of our Nation ordered these words be read to the people:</ref></p>
               <p>"Let it be told to the future world . . . that in the depth of winter, when nothing
                      but hope and virtue could survive . . . that the city and the country, alarmed
                      at one common danger, came forth to meet [it]."</p>
@@ -12028,43 +12028,43 @@
                      remember these timeless words. With hope and virtue, let us brave once more the
                      icy currents and endure what storms may come. Let it be said by our children's
                      children that when we were tested, we refused to let this journey end; that we
-                     did not turn back, nor did we falter. And with eyes fixed on the horizon and
-                     God's grace upon us, we carried forth that great gift of freedom and delivered
+                     did not turn back, nor did we falter. <ref type = "religion">And with eyes fixed on the horizon and
+                     God's grace upon us,</ref> we carried forth that great gift of freedom and delivered
                      it safely to future generations.</p>
-              <p>Thank you. God bless you, and God bless the United States of America.</p>
+              <p>Thank you. <ref type = "religion">God bless you, and God bless the United States of America.</ref></p>
 
        </address>
 
        <address n="57" name="BARACK OBAMA" title="SECOND INAUGURAL ADDRESS" date="JANUARY 21, 2013">
               <p>Thank you. Thank you so much.</p>
-              <p>Vice President Biden, Mr. Chief Justice, Members of the United States Congress,
-                     distinguished guests, and fellow citizens:</p>
+              <p><salutation>Vice President Biden, Mr. Chief Justice, Members of the United States Congress,
+                     distinguished guests, and fellow citizens:</salutation></p>
               <p>Each time we gather to inaugurate a President we bear witness to the enduring
                      strength of our Constitution. We affirm the promise of our democracy. We recall
                      that what binds this Nation together is not the colors of our skin or the
                      tenets of our faith or the origins of our names. What makes us exceptional—what
                      makes us American—is our allegiance to an idea articulated in a declaration
                      made more than two centuries ago:</p>
-              <p>We hold these truths to be self-evident, that all men are created equal; that they
-                     are endowed by their Creator with certain unalienable rights; that among these
+              <p>We hold these truths to be self-evident, <ref type = "social">that all men are created equal;</ref> <ref type = "religion">that they
+                     are endowed by their Creator with certain unalienable rights;</ref> that among these
                      are life, liberty, and the pursuit of happiness.</p>
               <p>Today we continue a never-ending journey to bridge the meaning of those words with
                      the realities of our time. For history tells us that while these truths may be
-                     self-evident, they've never been self-executing; that while freedom is a gift
-                     from God, it must be secured by His people here on Earth. The patriots of 1776
+                     self-evident, they've never been self-executing; <ref type = "religion">that while freedom is a gift
+                     from God, it must be secured by His people here on Earth.</ref> <ref type = "war">The patriots of 1776
                      did not fight to replace the tyranny of a king with the privileges of a few or
-                     the rule of a mob. They gave to us a republic, a government of and by and for
+                     the rule of a mob.</ref> They gave to us a republic, a government of and by and for
                      the people, entrusting each generation to keep safe our founding creed.</p>
               <p>And for more than 200 years, we have.</p>
-              <p>Through blood drawn by lash and blood drawn by sword, we learned that no union
+              <p>Through blood drawn by lash and blood drawn by sword, <ref type = "social">we learned that no union
                      founded on the principles of liberty and equality could survive half-slave and
-                     half-free. We made ourselves anew, and vowed to move forward together.</p>
-              <p>Together, we determined that a modern economy requires railroads and highways to
-                     speed travel and commerce, schools and colleges to train our workers.</p>
-              <p>Together, we discovered that a free market only thrives when there are rules to
-                     ensure competition and fair play.</p>
-              <p>Together, we resolved that a great nation must care for the vulnerable and protect
-                     its people from life's worst hazards and misfortune.</p>
+                     half-free.</ref> We made ourselves anew, and vowed to move forward together.</p>
+              <p><ref type = "economy">Together, we determined that a modern economy requires railroads and highways to
+                     speed travel and commerce, schools and colleges to train our workers.</ref></p>
+              <p><ref type = "economy">Together, we discovered that a free market only thrives when there are rules to
+                     ensure competition and fair play.</ref></p>
+              <p><ref type = "social">Together, we resolved that a great nation must care for the vulnerable and protect
+                     its people from life's worst hazards and misfortune.</ref></p>
               <p>Through it all, we have never relinquished our skepticism of central authority nor
                      have we succumbed to the fiction that all society's ills can be cured through
                      government alone. Our celebration of initiative and enterprise, our insistence
@@ -12072,77 +12072,77 @@
                      character.</p>
               <p>But we have always understood that when times change, so must we; that fidelity to
                      our founding principles requires new responses to new challenges; that
-                     preserving our individual freedoms ultimately requires collective action. For
+                     preserving our individual freedoms ultimately requires collective action. <ref type = "diplomacy">For
                      the American people can no more meet the demands of today's world by acting
                      alone than American soldiers could have met the forces of fascism or communism
-                     with muskets and militias. No single person can train all the math and science
+                     with muskets and militias.</ref> <ref type ="social">No single person can train all the math and science
                      teachers we'll need to equip our children for the future, or build the roads
                      and networks and research labs that will bring new jobs and businesses to our
                      shores. Now more than ever, we must do these things together, as one nation and
-                     one people.</p>
+                     one people.</ref></p>
               <p>This generation of Americans has been tested by crises that steeled our resolve and
-                     proved our resilience. A decade of war is now ending. An economic recovery has
-                     begun. America's possibilities are limitless, for we possess all the qualities
+                     proved our resilience. <ref type = "war">A decade of war is now ending</ref>. <ref type = "economy">An economic recovery has
+                     begun.</ref> America's possibilities are limitless, for we possess all the qualities
                      that this world without boundaries demands: youth and drive; diversity and
                      openness; an endless capacity for risk and a gift for reinvention. My fellow
                      Americans, we are made for this moment and we will seize it—so long as we seize
                      it together.</p>
               <p>For we, the people, understand that our country cannot succeed when a shrinking few
-                     do very well and a growing many barely make it. We believe that America's
+                     do very well and a growing many barely make it. <ref type = "economy">We believe that America's
                      prosperity must rest upon the broad shoulders of a rising middle class. We know
                      that America thrives when every person can find independence and pride in their
                      work; when the wages of honest labor liberate families from the brink of
                      hardship. We are true to our creed when a little girl born into the bleakest
                      poverty knows that she has the same chance to succeed as anybody else, because
-                     she is an American; she is free and she is equal, not just in the eyes of God,
-                     but also in our own.</p>
-              <p>We understand that outworn programs are inadequate to the needs of our time. So we
+                     she is an American;</ref> she is free and she is equal, <ref type = "religion">not just in the eyes of God,
+                     but also in our own.</ref></p>
+              <p>We understand that outworn programs are inadequate to the needs of our time. <ref type = "social">So we
                      must harness new ideas and technology to remake our government, revamp our Tax
                      Code, reform our schools, and empower our citizens with the skills they need to
                      work harder, learn more, reach higher. But while the means will change, our
                      purpose endures: a nation that rewards the effort and determination of every
-                     single American. That is what this moment requires. That is what will give real
+                     single American.</ref> That is what this moment requires. That is what will give real
                      meaning to our creed.</p>
-              <p>We, the people, still believe that every citizen deserves a basic measure of
+              <p><ref type = "social">We, the people, still believe that every citizen deserves a basic measure of
                      security and dignity. We must make the hard choices to reduce the cost of
                      health care and the size of our deficit. But we reject the belief that America
                      must choose between caring for the generation that built this country and
                      investing in the generation that will build its future. For we remember the
                      lessons of our past, when twilight years were spent in poverty and parents of a
-                     child with a disability had nowhere to turn.</p>
+                     child with a disability had nowhere to turn.</ref></p>
               <p>We do not believe that in this country freedom is reserved for the lucky, or
                      happiness for the few. We recognize that no matter how responsibly we live our
                      lives, any one of us at any time may face a job loss or a sudden illness or a
-                     home swept away in a terrible storm. The commitments we make to each other
+                     home swept away in a terrible storm. <ref type = "social">The commitments we make to each other
                      through Medicare and Medicaid and Social Security, these things do not sap our
                      initiative, they strengthen us. They do not make us a nation of takers; they
-                     free us to take the risks that make this country great.</p>
+                     free us to take the risks that make this country great.</ref></p>
               <p>We, the people, still believe that our obligations as Americans are not just to
-                     ourselves, but to all posterity. We will respond to the threat of climate
+                     ourselves, but to all posterity. <ref type = "diplomacy">We will respond to the threat of climate
                      change, knowing that the failure to do so would betray our children and future
                      generations. Some may still deny the overwhelming judgment of science, but none
                      can avoid the devastating impact of raging fires and crippling drought and more
-                     powerful storms.</p>
+                     powerful storms.</ref></p>
               <p>The path towards sustainable energy sources will be long and sometimes difficult.
-                     But America cannot resist this transition, we must lead it. We cannot cede to
+                     But America cannot resist this transition, we must lead it. <ref type = "economy">We cannot cede to
                      other nations the technology that will power new jobs and new industries, we
                      must claim its promise. That's how we will maintain our economic vitality and
                      our national treasure—our forests and waterways, our crop lands and snow-capped
-                     peaks. That is how we will preserve our planet, commanded to our care by God.
+                     peaks.</ref> That is how we will preserve our planet, <ref type = "religion">commanded to our care by God.</ref>
                      That's what will lend meaning to the creed our fathers once declared.</p>
-              <p>We, the people, still believe that enduring security and lasting peace do not
+              <p><ref type = "diplomacy">We, the people, still believe that enduring security and lasting peace do not
                      require perpetual war. Our brave men and women in uniform, tempered by the
                      flames of battle, are unmatched in skill and courage. Our citizens, seared by
                      the memory of those we have lost, know too well the price that is paid for
                      liberty. The knowledge of their sacrifice will keep us forever vigilant against
                      those who would do us harm. But we are also heirs to those who won the peace
                      and not just the war; who turned sworn enemies into the surest of friends—and
-                     we must carry those lessons into this time as well.</p>
-              <p>We will defend our people and uphold our values through strength of arms and rule
+                     we must carry those lessons into this time as well.</ref></p>
+              <p><ref type = "diplomacy">We will defend our people and uphold our values through strength of arms and rule
                      of law. We will show the courage to try and resolve our differences with other
                      nations peacefully—not because we are naive about the dangers we face, but
-                     because engagement can more durably lift suspicion and fear.</p>
-              <p>America will remain the anchor of strong alliances in every corner of the globe.
+                     because engagement can more durably lift suspicion and fear.</ref></p>
+              <p><ref type = "diplomacy">America will remain the anchor of strong alliances in every corner of the globe.
                      And we will renew those institutions that extend our capacity to manage crisis
                      abroad, for no one has a greater stake in a peaceful world than its most
                      powerful nation. We will support democracy from Asia to Africa, from the
@@ -12151,15 +12151,15 @@
                      to the poor, the sick, the marginalized, the victims of prejudice—not out of
                      mere charity, but because peace in our time requires the constant advance of
                      those principles that our common creed describes: tolerance and opportunity,
-                     human dignity and justice.</p>
-              <p>We, the people, declare today that the most evident of truths—that all of us are
+                     human dignity and justice.</ref></p>
+              <p><ref type= "social">We, the people, declare today that the most evident of truths—that all of us are
                      created equal—is the star that guides us still; just as it guided our forebears
                      through Seneca Falls and Selma and Stonewall; just as it guided all those men
                      and women, sung and unsung, who left footprints along this great Mall, to hear
                      a preacher say that we cannot walk alone; to hear a King proclaim that our
                      individual freedom is inextricably bound to the freedom of every soul on
-                     Earth.</p>
-              <p>It is now our generation's task to carry on what those pioneers began. For our
+                     Earth.</ref></p>
+              <p>It is now our generation's task to carry on what those pioneers began. <ref type = "social">For our
                      journey is not complete until our wives, our mothers and daughters can earn a
                      living equal to their efforts. Our journey is not complete until our gay
                      brothers and sisters are treated like anyone else under the law—for if we are
@@ -12171,7 +12171,7 @@
                      enlisted in our workforce rather than expelled from our country. Our journey is
                      not complete until all our children, from the streets of Detroit to the hills
                      of Appalachia, to the quiet lanes of Newtown, know that they are cared for and
-                     cherished and always safe from harm.</p>
+                     cherished and always safe from harm.</ref></p>
               <p>That is our generation's task—to make these words, these rights, these values of
                      life and liberty and the pursuit of happiness real for every American. Being
                      true to our founding documents does not require us to agree on every contour of
@@ -12187,7 +12187,7 @@
                      and 400 years hence to advance the timeless spirit once conferred to us in a
                      spare Philadelphia hall.</p>
               <p>My fellow Americans, the oath I have sworn before you today, like the one recited
-                     by others who serve in this Capitol, was an oath to God and country, not party
+                     by others who serve in this Capitol, <ref type = "religion">was an oath to God and country,</ref> not party
                      or faction. And we must faithfully execute that pledge during the duration of
                      our service. But the words I spoke today are not so different from the oath
                      that is taken each time a soldier signs up for duty or an immigrant realizes
@@ -12202,14 +12202,14 @@
                      lasting birthright. With common effort and common purpose, with passion and
                      dedication, let us answer the call of history and carry into an uncertain
                      future that precious light of freedom.</p>
-              <p>Thank you. God bless you, and may He forever bless these United States of
-                     America.</p>
+              <p>Thank you. <ref type = "religion">God bless you, and may He forever bless these United States of
+                     America.</ref></p>
 
        </address>
 
        <address n="58" name="DONALD J. TRUMP" title="INAUGURAL ADDRESS" date="JANUARY 20, 2017">
-              <p>Chief Justice Roberts, President Carter, President Clinton, President Bush,
-                     President Obama, fellow Americans, and people of the world: Thank you.</p>
+              <p><salutation>Chief Justice Roberts, President Carter, President Clinton, President Bush,
+                     President Obama, fellow Americans, and people of the world: Thank you.</salutation></p>
               <p>We, the citizens of America, are now joined in a great national effort to rebuild
                      our country and restore its promise for all of our people. Together, we will
                      determine the course of America and the world for many, many years to come. We
@@ -12242,67 +12242,67 @@
                      you now.</p>
               <p>You came by the tens of millions to become part of a historic movement the likes of
                      which the world has never seen before. At the center of this movement is a
-                     crucial conviction: that a nation exists to serve its citizens. Americans want
+                     crucial conviction: that a nation exists to serve its citizens. <ref type = "social">Americans want
                      great schools for their children, safe neighborhoods for their families, and
-                     good jobs for themselves. These are just and reasonable demands of righteous
+                     good jobs for themselves.</ref> These are just and reasonable demands of righteous
                      people and a righteous public.</p>
-              <p>But for too many of our citizens, a different reality exists: Mothers and children
+              <p><ref type = "social">But for too many of our citizens, a different reality exists: Mothers and children
                      trapped in poverty in our inner cities; rusted-out factories scattered like
                      tombstones across the landscape of our Nation; an education system, flush with
                      cash, but which leaves our young and beautiful students deprived of all
                      knowledge; and the crime and the gangs and the drugs that have stolen too many
-                     lives and robbed our country of so much unrealized potential.</p>
+                     lives and robbed our country of so much unrealized potential.</ref></p>
               <p>This American carnage stops right here and stops right now. We are one Nation, and
                      their pain is our pain, their dreams are our dreams, and their success will be
                      our success. We share one heart, one home, and one glorious destiny.</p>
               <p>The oath of office I take today is an oath of allegiance to all Americans.</p>
-              <p>For many decades, we've enriched foreign industry at the expense of American
+              <p><ref type = "diplomacy">For many decades, we've enriched foreign industry at the expense of American
                      industry, subsidized the armies of other countries while allowing for the very
                      sad depletion of our military. We've defended other nations' borders while
                      refusing to defend our own and spent trillions and trillions of dollars
                      overseas while America's infrastructure has fallen into disrepair and decay.
                      We've made other countries rich while the wealth, strength, and confidence of
-                     our country has dissipated over the horizon.</p>
-              <p>One by one, the factories shuttered and left our shores, with not even a thought
+                     our country has dissipated over the horizon.</ref></p>
+              <p><ref type = "social">One by one, the factories shuttered and left our shores, with not even a thought
                      about the millions and millions of American workers that were left behind. The
                      wealth of our middle class has been ripped from their homes and then
-                     redistributed all across the world.</p>
+                     redistributed all across the world.</ref></p>
               <p>But that is the past. And now we are looking only to the future.</p>
               <p>We, assembled here today, are issuing a new decree to be heard in every city, in
                      every foreign capital, and in every hall of power. From this day forward, a new
                      vision will govern our land. From this day forward, it's going to be only
                      America first. America first.</p>
-              <p>Every decision on trade, on taxes, on immigration, on foreign affairs, will be made
-                     to benefit American workers and American families.</p>
-              <p>We must protect our borders from the ravages of other countries making our
+              <p><ref type = "social">Every decision on trade, on taxes, on immigration, on foreign affairs, will be made
+                     to benefit American workers and American families.</ref></p>
+              <p><ref type = "diplomacy">We must protect our borders from the ravages of other countries making our
                      products, stealing our companies, and destroying our jobs. Protection will lead
-                     to great prosperity and strength. I will fight for you with every breath in my
+                     to great prosperity and strength.</ref> I will fight for you with every breath in my
                      body, and I will never, ever let you down.</p>
-              <p>America will start winning again, winning like never before. We will bring back our
+              <p>America will start winning again, winning like never before. <ref type = "social">We will bring back our
                      jobs. We will bring back our borders. We will bring back our wealth. And we
-                     will bring back our dreams.</p>
-              <p>We will build new roads and highways and bridges and airports and tunnels and
-                     railways all across our wonderful Nation.</p>
-              <p>We will get our people off of welfare and back to work, rebuilding our country with
+                     will bring back our dreams.</ref></p>
+              <p><ref type = "social">We will build new roads and highways and bridges and airports and tunnels and
+                     railways all across our wonderful Nation.</ref></p>
+              <p><ref type = "economy">We will get our people off of welfare and back to work, rebuilding our country with
                      American hands and American labor. We will follow two simple rules: Buy
-                     American and hire American.</p>
-              <p>We will seek friendship and good will with the nations of the world, but we do so
+                     American and hire American.</ref></p>
+              <p><ref type = "diplomacy">We will seek friendship and good will with the nations of the world, but we do so
                      with the understanding that it is the right of all nations to put their own
                      interests first. We do not seek to impose our way of life on anyone, but rather
-                     to let it shine as an example—we will shine—for everyone to follow.</p>
-              <p>We will reinforce old alliances and form new ones and unite the civilized world
+                     to let it shine as an example—we will shine—for everyone to follow.</ref></p>
+              <p><ref type = "diplomacy">We will reinforce old alliances and form new ones and unite the civilized world
                      against radical Islamic terrorism, which we will eradicate completely from the
-                     face of the Earth.</p>
+                     face of the Earth.</ref></p>
               <p>At the bedrock of our politics will be a total allegiance to the United States of
                      America, and through our loyalty to our country, we will rediscover our loyalty
                      to each other. When you open your heart to patriotism, there is no room for
-                     prejudice. The Bible tells us, "How good and pleasant it is when God's people
-                     live together in unity." We must speak our minds openly, debate our
+                     prejudice. <ref type = "religion">The Bible tells us, "How good and pleasant it is when God's people
+                     live together in unity."</ref> We must speak our minds openly, debate our
                      disagreements honestly, but always pursue solidarity. When America is united,
-                     America is totally unstoppable. There should be no fear: We are protected, and
+                     America is totally unstoppable. <ref type = "social">There should be no fear: We are protected, and
                      we will always be protected. We will be protected by the great men and women of
-                     our military and law enforcement, and most importantly, we will be protected by
-                     God.</p>
+                     our military and law enforcement,</ref> and most importantly, <ref type = "religion">we will be protected by
+                     God.</ref></p>
               <p>Finally, we must think big and dream even bigger. In America, we understand that a
                      nation is only living as long as it is striving.</p>
               <p>We will no longer accept politicians who are all talk and no action, constantly
@@ -12321,34 +12321,34 @@
                      flag.</p>
               <p>And whether a child is born in the urban sprawl of Detroit or the windswept plains
                      of Nebraska, they look up at the same night sky, they fill their heart with the
-                     same dreams, and they are infused with the breath of life by the same almighty
-                     Creator.</p>
+                     same dreams, <ref type = "religion">and they are infused with the breath of life by the same almighty
+                     Creator.</ref></p>
               <p>So to all Americans in every city near and far, small and large, from mountain to
                      mountain, from ocean to ocean, hear these words: You will never be ignored
                      again. Your voice, your hopes, and your dreams will define our American
                      destiny. And your courage and goodness and love will forever guide us along the
                      way.</p>
-              <p>Together, we will make America strong again. We will make America wealthy again. We
+              <p>Together, we will make America strong again. <ref type ="economy">We will make America wealthy again.</ref> We
                      will make America proud again. We will make America safe again.</p>
-              <p>And, yes, together, we will make America great again. Thank you. God bless you, and
-                     God bless America. Thank you. God bless America.</p>
+              <p>And, yes, together, we will make America great again. Thank you. <ref type ="religion">God bless you, and
+                     God bless America. Thank you. God bless America.</ref></p>
 
        </address>
 
        <address n="59" name="JOSEPH R. BIDEN" title="INAUGURAL ADDRESS" date="JANUARY 20, 2021">
-              <p>Chief Justice Roberts, Vice President Harris, Speaker Pelosi, Leader Schumer,
+              <p><salutation>Chief Justice Roberts, Vice President Harris, Speaker Pelosi, Leader Schumer,
                      Leader McConnell, Vice President Pence, and my distinguished guests, and my
                      fellow Americans: This is America's day. This is democracy's day, a day of
                      history and hope, of renewal and resolve. Through a crucible for the ages
-                     America has been tested anew, and America has risen to the challenge.</p>
+                     America has been tested anew, and America has risen to the challenge.</salutation></p>
               <p>Today we celebrate the triumph not of a candidate, but of a cause, the cause of
                      democracy. The people—the will of the people has been heard, and the will of
                      the people has been heeded. We've learned again that democracy is precious,
                      democracy is fragile. And at this hour, my friends, democracy has
                      prevailed.</p>
               <p>So now, on this hallowed ground where just a few days ago violence sought to shake
-                     the Capitol's very foundation, we come together as one Nation under God,
-                     indivisible, to carry out the peaceful transfer of power as we have for more
+                     the Capitol's very foundation, <ref type = "religion">we come together as one Nation under God,
+                     indivisible,</ref> to carry out the peaceful transfer of power as we have for more
                      than two centuries. As we look ahead in our uniquely American way—restless,
                      bold, optimistic—and set our sights on the Nation we know we can be and we must
                      be, I thank my predecessors of both parties for their presence here today. I
