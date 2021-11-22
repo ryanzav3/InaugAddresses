@@ -1960,7 +1960,7 @@
                             crush of people.]</p>
 
               </d>
-              <p>Fellow-Citizens:</p>
+              <p><salutation>Fellow-Citizens:</salutation></p>
               <p>About to undertake the arduous duties that I have been appointed to perform by the
                      choice of a free people, I avail myself of this customary and solemn occasion
                      to express the gratitude which their confidence inspires and to acknowledge the
@@ -1970,23 +1970,23 @@
                      dedication of my humble abilities to their service and their good.</p>
               <p>As the instrument of the Federal Constitution it will devolve on me for a stated
                      period to execute the laws of the United States, to superintend their foreign
-                     and their confederate relations, to manage their revenue, to command their
-                     forces, and, by communications to the Legislature, to watch over and to promote
+                     and their confederate relations, <ref type="economy">to manage their revenue</ref>, <ref type="war">to command their
+                     forces</ref>, and, by communications to the Legislature, to watch over and to promote
                      their interests generally. And the principles of action by which I shall
                      endeavor to accomplish this circle of duties it is now proper for me briefly to
                      explain.</p>
               <p>In administering the laws of Congress I shall keep steadily in view the limitations
                      as well as the extent of the Executive power trusting thereby to discharge the
-                     functions of my office without transcending its authority. With foreign nations
+                     functions of my office without transcending its authority. <ref type="diplomacy">With foreign nations
                      it will be my study to preserve peace and to cultivate friendship on fair and
                      honorable terms, and in the adjustment of any differences that may exist or
                      arise to exhibit the forbearance becoming a powerful nation rather than the
-                     sensibility belonging to a gallant people.</p>
+                     sensibility belonging to a gallant people.</ref></p>
               <p>In such measures as I may be called on to pursue in regard to the rights of the
                      separate States I hope to be animated by a proper respect for those sovereign
                      members of our Union, taking care not to confound the powers they have reserved
                      to themselves with those they have granted to the Confederacy.</p>
-              <p>The management of the public revenue—that searching operation in all governments—is
+              <p><ref type="economy">The management of the public revenue—that searching operation in all governments—is
                      among the most delicate and important trusts in ours, and it will, of course,
                      demand no inconsiderable share of my official solicitude. Under every aspect in
                      which it can be considered it would appear that advantage must result from the
@@ -1998,18 +1998,18 @@
                      engender. Powerful auxiliaries to the attainment of this desirable end are to
                      be found in the regulations provided by the wisdom of Congress for the specific
                      appropriation of public money and the prompt accountability of public
-                     officers.</p>
-              <p>With regard to a proper selection of the subjects of impost with a view to revenue,
+                     officers.</ref></p>
+              <p><ref type="economy">With regard to a proper selection of the subjects of impost with a view to revenue,
                      it would seem to me that the spirit of equity, caution and compromise in which
                      the Constitution was formed requires that the great interests of agriculture,
                      commerce, and manufactures should be equally favored, and that perhaps the only
                      exception to this rule should consist in the peculiar encouragement of any
                      products of either of them that may be found essential to our national
-                     independence.</p>
+                     independence.</ref></p>
               <p>Internal improvement and the diffusion of knowledge, so far as they can be promoted
                      by the constitutional acts of the Federal Government, are of high
                      importance.</p>
-              <p>Considering standing armies as dangerous to free governments in time of peace, I
+              <p><ref type="war">Considering standing armies as dangerous to free governments in time of peace, I
                      shall not seek to enlarge our present establishment, nor disregard that
                      salutary lesson of political experience which teaches that the military should
                      be held subordinate to the civil power. The gradual increase of our Navy, whose
@@ -2028,11 +2028,11 @@
                      we may be subjected to, but a million of armed freemen, possessed of the means
                      of war, can never be conquered by a foreign foe. To any just system, therefore,
                      calculated to strengthen this natural safeguard of the country I shall
-                     cheerfully lend all the aid in my power.</p>
-              <p>It will be my sincere and constant desire to observe toward the Indian tribes
+                     cheerfully lend all the aid in my power.</ref></p>
+              <p><ref type="diplomacy">It will be my sincere and constant desire to observe toward the Indian tribes
                      within our limits a just and liberal policy, and to give that humane and
                      considerate attention to their rights and their wants which is consistent with
-                     the habits of our Government and the feelings of our people.</p>
+                     the habits of our Government and the feelings of our people.</ref></p>
               <p>The recent demonstration of public sentiment inscribes on the list of Executive
                      duties, in characters too legible to be overlooked, the task of reform, which
                      will require particularly the correction of those abuses that have brought the
@@ -2050,11 +2050,11 @@
                      and with veneration to the lights that flow from the mind that founded and the
                      mind that reformed our system. The same diffidence induces me to hope for
                      instruction and aid from the coordinate branches of the Government, and for the
-                     indulgence and support of my fellow-citizens generally. And a firm reliance on
+                     indulgence and support of my fellow-citizens generally. <ref type="religion">And a firm reliance on
                      the goodness of that Power whose providence mercifully protected our national
                      infancy, and has since upheld our liberties in various vicissitudes, encourages
                      me to offer up my ardent supplications that He will continue to make our
-                     beloved country the object of His divine care and gracious benediction.</p>
+                     beloved country the object of His divine care and gracious benediction.</ref></p>
 
        </address>
 
@@ -2216,14 +2216,14 @@
                      branches of the Government; did I not repose with unwavering reliance on the
                      patriotism, the intelligence, and the kindness of a people who never yet
                      deserted a public servant honestly laboring their cause; and, above all, did I
-                     not permit myself humbly to hope for the sustaining support of an ever-watchful
-                     and beneficent Providence.</p>
+                     not permit myself humbly to hope for <ref type="religion">the sustaining support of an ever-watchful
+                     and beneficent Providence.</ref></p>
               <p>To the confidence and consolation derived from these sources it would be ungrateful
                      not to add those which spring from our present fortunate condition. Though not
                      altogether exempt from embarrassments that disturb our tranquillity at home and
                      threaten it abroad, yet in all the attributes of a great, happy, and
-                     flourishing people we stand without a parallel in the world. Abroad we enjoy
-                     the respect and, with scarcely an exception, the friendship of every nation; at
+                     flourishing people we stand without a parallel in the world. <ref type="diplomacy">Abroad we enjoy
+                     the respect and, with scarcely an exception, the friendship of every nation;</ref> at
                      home, while our Government quietly but efficiently performs the sole legitimate
                      end of political institutions—in doing the greatest good to the greatest
                      number—we present an aggregate of human prosperity surely not elsewhere to be
@@ -2260,7 +2260,7 @@
                      unimpaired their sovereign power over the innumerable subjects embraced in the
                      internal government of a just republic, excepting such only as necessarily
                      appertain to the concerns of the whole confederacy or its intercourse as a
-                     united community with the other nations of the world.</p>
+                     <ref type="diplomacy">united community with the other nations of the world.</ref></p>
               <p>This provident forecast has been verified by time. Half a century, teeming with
                      extraordinary events, and elsewhere producing astonishing results, has passed
                      along, but on our institutions it has left no injurious mark. From a small
@@ -2269,10 +2269,10 @@
                      privileges, civil and religious, of the humblest individual are still sacredly
                      protected at home, and while the valor and fortitude of our people have removed
                      far from us the slightest apprehension of foreign power, they have not yet
-                     induced us in a single instance to forget what is right. Our commerce has been
+                     induced us in a single instance to forget what is right. <ref type="economy">Our commerce has been
                      extended to the remotest nations; the value and even nature of our productions
                      have been greatly changed; a wide difference has arisen in the relative wealth
-                     and resources of every portion of our country; yet the spirit of mutual regard
+                     and resources of every portion of our country;</ref> yet the spirit of mutual regard
                      and of faithful adherence to existing compacts has continued to prevail in our
                      councils and never long been absent from our conduct. We have learned by
                      experience a fruitful lesson—that an implicit and undeviating adherence to the
@@ -2282,7 +2282,7 @@
               <p>The success that has thus attended our great experiment is in itself a sufficient
                      cause for gratitude, on account of the happiness it has actually conferred and
                      the example it has unanswerably given But to me, my fellow-citizens, looking
-                     forward to the far-distant future with ardent prayers and confiding hopes, this
+                     forward to the far-distant future <ref type="religion">with ardent prayers and confiding hopes</ref>, this
                      retrospect presents a ground for still deeper delight. It impresses on my mind
                      a firm belief that the perpetuity of our institutions depends upon ourselves;
                      that if we maintain the principles on which they were established they are
@@ -2297,14 +2297,14 @@
                      but reluctantly made, and see how in every instance they have completely
                      failed.</p>
               <p>An imperfect experience during the struggles of the Revolution was supposed to
-                     warrant the belief that the people would not bear the taxation requisite to
+                     warrant the belief that <ref type="economy">the people would not bear the taxation requisite to
                      discharge an immense public debt already incurred and to pay the necessary
                      expenses of the Government. The cost of two wars has been paid, not only
                      without a murmur, but with unequaled alacrity. No one is now left to doubt that
                      every burden will be cheerfully borne that may be necessary to sustain our
                      civil institutions or guard our honor or welfare. Indeed, all experience has
                      shown that the willingness of the people to contribute to these ends in cases
-                     of emergency has uniformly outrun the confidence of their representatives.</p>
+                     of emergency has uniformly outrun the confidence of their representatives.</ref></p>
               <p>In the early stages of the new Government, when all felt the imposing influence as
                      they recognized the unequaled services of the first President, it was a common
                      sentiment that the great weight of his character could alone bind the
@@ -2338,7 +2338,7 @@
                      country can always avoid their friends found a fruitful source of apprehension,
                      their enemies of hope. While they foresaw less promptness of action than in
                      governments differently formed, they overlooked the far more important
-                     consideration that with us war could never be the result of individual or
+                     consideration that with us <ref type="war">war could never be the result of individual or
                      irresponsible will, but must be a measure of redress for injuries sustained
                      voluntarily resorted to by those who were to bear the necessary sacrifice, who
                      would consequently feel an individual interest in the contest, and whose energy
@@ -2350,7 +2350,7 @@
                      the extended and ever-ready military organization of other nations; we may
                      occasionally suffer in the outset for the want of it; but among ourselves all
                      doubt upon this great point has ceased, while a salutary experience will
-                     prevent a contrary opinion from inviting aggression from abroad.</p>
+                     prevent a contrary opinion from inviting aggression from abroad.</ref></p>
               <p>Certain danger was foretold from the extension of our territory, the multiplication
                      of States, and the increase of population. Our system was supposed to be
                      adapted only to boundaries comparatively narrow. These have been widened beyond
@@ -2359,8 +2359,8 @@
                      surpassed anticipation, but none of the consequences have followed. The power
                      and influence of the Republic have arisen to a height obvious to all mankind;
                      respect for its authority was not more apparent at its ancient than it is at
-                     its present limits; new and inexhaustible sources of general prosperity have
-                     been opened; the effects of distance have been averted by the inventive genius
+                     its present limits; <ref type="economy">new and inexhaustible sources of general prosperity have
+                     been opened;</ref> the effects of distance have been averted by the inventive genius
                      of our people, developed and fostered by the spirit of our institutions; and
                      the enlarged variety and amount of interests, productions, and pursuits have
                      strengthened the chain of mutual dependence and formed a circle of mutual
@@ -2464,7 +2464,7 @@
                      me I submitted to them, with great precision, my opinions on all the most
                      prominent of these subjects. Those opinions I shall endeavor to carry out with
                      my utmost ability.</p>
-              <p>Our course of foreign policy has been so uniform and intelligible as to constitute
+              <p><ref type="diplomacy">Our course of foreign policy has been so uniform and intelligible as to constitute
                      a rule of Executive conduct which leaves little to my discretion, unless,
                      indeed, I were willing to run counter to the lights of experience and the known
                      opinions of my constituents. We sedulously cultivate the friendship of all
@@ -2481,7 +2481,7 @@
                      exhaustless resources, we neither anticipate nor fear any designed aggression;
                      and in the consciousness of our own just conduct we feel a security that we
                      shall never be called upon to exert our determination never to permit an
-                     invasion of our rights without punishment or redress.</p>
+                     invasion of our rights without punishment or redress.</ref></p>
               <p>In approaching, then, in the presence of my assembled countrymen, to make the
                      solemn promise that yet remains, and to pledge myself that I will faithfully
                      execute the office I am about to fill, I bring with me a settled purpose to
@@ -2498,11 +2498,11 @@
                      of all, that he may yet long live to enjoy the brilliant evening of his
                      well-spent life; and for myself, conscious of but one desire, faithfully to
                      serve my country, I throw myself without fear on its justice and its kindness.
-                     Beyond that I only look to the gracious protection of the Divine Being whose
+                     Beyond that <ref type="religion">I only look to the gracious protection of the Divine Being whose
                      strengthening support I humbly solicit, and whom I fervently pray to look down
                      upon us all. May it be among the dispensations of His providence to bless our
                      beloved country with honors and with length of days. May her ways be ways of
-                     pleasantness and all her paths be peace!</p>
+                     pleasantness and all her paths be peace!</ref></p>
 
        </address>
 
@@ -3230,7 +3230,7 @@
                             Baltimore by Samuel Morse on his year-old invention.]</p>
 
               </d>
-              <p>Fellow-Citizens:</p>
+              <p><salutation>Fellow-Citizens:</salutation></p>
               <p>Without solicitation on my part, I have been chosen by the free and voluntary
                      suffrages of my countrymen to the most honorable and most responsible office on
                      earth. I am deeply impressed with gratitude for the confidence reposed in me.
@@ -3247,12 +3247,12 @@
                      Government? Well may the boldest fear and the wisest tremble when incurring
                      responsibilities on which may depend our country's peace and prosperity, and in
                      some degree the hopes and happiness of the whole human family.</p>
-              <p>In assuming responsibilities so vast I fervently invoke the aid of that Almighty
+              <p><ref type="religion">In assuming responsibilities so vast I fervently invoke the aid of that Almighty
                      Ruler of the Universe in whose hands are the destinies of nations and of men to
                      guard this Heaven-favored land against the mischiefs which without His guidance
                      might arise from an unwise public policy. With a firm reliance upon the wisdom
                      of Omnipotence to sustain and direct me in the path of duty which I am
-                     appointed to pursue, I stand in the presence of this assembled multitude of my
+                     appointed to pursue,</ref> I stand in the presence of this assembled multitude of my
                      countrymen to take upon myself the solemn obligation "to the best of my ability
                      to preserve, protect, and defend the Constitution of the United States."</p>
               <p>A concise enumeration of the principles which will guide me in the administrative
@@ -3290,8 +3290,8 @@
                      casts its protecting influence, entirely free to improve their own condition by
                      the legitimate exercise of all their mental and physical powers. It is a common
                      protector of each and all the States; of every man who lives upon our soil,
-                     whether of native or foreign birth; of every religious sect, in their worship
-                     of the Almighty according to the dictates of their own conscience; of every
+                     whether of native or foreign birth; <ref type="religion">of every religious sect, in their worship
+                     of the Almighty according to the dictates of their own conscience;</ref> of every
                      shade of opinion, and the most free inquiry; of every art, trade, and
                      occupation consistent with the laws of the States. And we rejoice in the
                      general happiness, prosperity, and advancement of our country, which have been
@@ -3301,7 +3301,7 @@
                      more than half a century, and if preserved from the usurpations of the Federal
                      Government on the one hand and the exercise by the States of powers not
                      reserved to them on the other, will, I fervently hope and believe, endure for
-                     ages to come and dispense the blessings of civil and religious liberty to
+                     ages to come and dispense the blessings of civil and <ref type="religion">religious liberty</ref> to
                      distant generations. To effect objects so dear to every patriot I shall devote
                      myself with anxious solicitude. It will be my desire to guard against that most
                      fruitful source of danger to the harmonious action of our system which consists
@@ -3332,8 +3332,8 @@
                      population has increased from three to twenty millions. New communities and
                      States are seeking protection under its aegis, and multitudes from the Old
                      World are flocking to our shores to participate in its blessings. Beneath its
-                     benign sway peace and prosperity prevail. Freed from the burdens and miseries
-                     of war, our trade and intercourse have extended throughout the world. Mind, no
+                     benign sway peace and prosperity prevail. <ref type="war">Freed from the burdens and miseries
+                            of war,</ref> <ref type="economy">our trade and intercourse have extended throughout the world.</ref> Mind, no
                      longer tasked in devising means to accomplish or resist schemes of ambition,
                      usurpation, or conquest, is devoting itself to man's true interests in
                      developing his faculties and powers and the capacity of nature to minister to
@@ -3356,7 +3356,7 @@
                      the nations of the earth to imitate our example. If he say that error and wrong
                      are committed in the administration of the Government, let him remember that
                      nothing human can be perfect, and that under no other system of government
-                     revealed by Heaven or devised by man has reason been allowed so free and broad
+                     <ref type="religion">revealed by Heaven</ref> or devised by man has reason been allowed so free and broad
                      a scope to combat error. Has the sword of despots proved to be a safer or surer
                      instrument of reform in government than enlightened reason? Does he expect to
                      find among the ruins of this Union a happier abode for our swarming millions
@@ -3396,17 +3396,17 @@
               <p>With these views of the nature, character, and objects of the Government and the
                      value of the Union, I shall steadily oppose the creation of those institutions
                      and systems which in their nature tend to pervert it from its legitimate
-                     purposes and make it the instrument of sections, classes, and individuals. We
-                     need no national banks or other extraneous institutions planted around the
+                     purposes and make it the instrument of sections, classes, and individuals. <ref type="economy">We
+                     need no national banks</ref> or other extraneous institutions planted around the
                      Government to control or strengthen it in opposition to the will of its
                      authors. Experience has taught us how unnecessary they are as auxiliaries of
                      the public authorities—how impotent for good and how powerful for mischief.</p>
-              <p>Ours was intended to be a plain and frugal government, and I shall regard it to be
+              <p><ref type="economy">Ours was intended to be a plain and frugal government, and I shall regard it to be
                      my duty to recommend to Congress and, as far as the Executive is concerned, to
                      enforce by all the means within my power the strictest economy in the
                      expenditure of the public money which may be compatible with the public
-                     interests.</p>
-              <p>A national debt has become almost an institution of European monarchies. It is
+                     interests.</ref></p>
+              <p><ref type="economy">A national debt has become almost an institution of European monarchies. It is
                      viewed in some of them as an essential prop to existing governments. Melancholy
                      is the condition of that people whose government can be sustained only by a
                      system which periodically transfers large amounts from the labor of the many to
@@ -3415,8 +3415,8 @@
                      contracted in our Revolution and during the War of 1812 have been happily
                      extinguished. By a judicious application of the revenues not required for other
                      necessary purposes, it is not doubted that the debt which has grown out of the
-                     circumstances of the last few years may be speedily paid off.</p>
-              <p>I congratulate my fellow-citizens on the entire restoration of the credit of the
+                     circumstances of the last few years may be speedily paid off.</ref></p>
+              <p><ref type="economy">I congratulate my fellow-citizens on the entire restoration of the credit of the
                      General Government of the Union and that of many of the States. Happy would it
                      be for the indebted States if they were freed from their liabilities, many of
                      which were incautiously contracted. Although the Government of the Union is
@@ -3429,8 +3429,8 @@
                      the people of the indebted States can not be questioned, and we are happy to
                      perceive a settled disposition on their part, as their ability returns after a
                      season of unexampled pecuniary embarrassment, to pay off all just demands and
-                     to acquiesce in any reasonable measures to accomplish that object.</p>
-              <p>One of the difficulties which we have had to encounter in the practical
+                     to acquiesce in any reasonable measures to accomplish that object.</ref></p>
+              <p><ref type="economy">One of the difficulties which we have had to encounter in the practical
                      administration of the Government consists in the adjustment of our revenue laws
                      and the levy of the taxes necessary for the support of Government. In the
                      general proposition that no more money shall be collected than the necessities
@@ -3450,8 +3450,8 @@
                      tariff I have sanctioned such moderate discriminating duties as would produce
                      the amount of revenue needed and at the same time afford reasonable incidental
                      protection to our home industry," and that I was "opposed to a tariff for
-                     protection merely, and not for revenue."</p>
-              <p>The power "to lay and collect taxes, duties, imposts, and excises" was an
+                     protection merely, and not for revenue."</ref></p>
+              <p><ref type="economy">The power "to lay and collect taxes, duties, imposts, and excises" was an
                      indispensable one to be conferred on the Federal Government, which without it
                      would possess no means of providing for its own support. In executing this
                      power by levying a tariff of duties for the support of Government, the raising
@@ -3489,7 +3489,7 @@
                      citizens in every part of the Union will readily submit to the payment of such
                      taxes as shall be needed for the support of their Government, whether in peace
                      or in war, if they are so levied as to distribute the burdens as equally as
-                     possible among them.</p>
+                     possible among them.</ref></p>
               <p>The Republic of Texas has made known her desire to come into our Union, to form a
                      part of our Confederacy and enjoy with us the blessings of liberty secured and
                      guaranteed by our Constitution. Texas was once a part of our country—was
@@ -3500,7 +3500,7 @@
                      this Government has been given to the reunion, and it only remains for the two
                      countries to agree upon the terms to consummate an object so important to
                      both.</p>
-              <p>I regard the question of annexation as belonging exclusively to the United States
+              <p><ref type="diplomacy">I regard the question of annexation as belonging exclusively to the United States
                      and Texas. They are independent powers competent to contract, and foreign
                      nations have no right to interfere with them or to take exceptions to their
                      reunion. Foreign powers do not seem to appreciate the true character of our
@@ -3516,11 +3516,11 @@
                      and violence, but as the peaceful acquisition of a territory once her own, by
                      adding another member to our confederation, with the consent of that member,
                      thereby diminishing the chances of war and opening to them new and
-                     ever-increasing markets for their products.</p>
+                     ever-increasing markets for their products.</ref></p>
               <p>To Texas the reunion is important, because the strong protecting arm of our
                      Government would be extended over her, and the vast resources of her fertile
-                     soil and genial climate would be speedily developed, while the safety of New
-                     Orleans and of our whole southwestern frontier against hostile aggression, as
+                     soil and genial climate would be speedily developed, while <ref type="war">the safety of New
+                     Orleans and of our whole southwestern frontier against hostile aggression,</ref> as
                      well as the interests of the whole Union, would be promoted by it.</p>
               <p>In the earlier stages of our national existence the opinion prevailed with some
                      that our system of confederated States could not operate successfully over an
@@ -3540,13 +3540,13 @@
                      that our system may be safely extended to the utmost bounds of our territorial
                      limits, and that as it shall be extended the bonds of our Union, so far from
                      being weakened, will become stronger.</p>
-              <p>None can fail to see the danger to our safety and future peace if Texas remains an
+              <p><ref type="war">None can fail to see the danger to our safety and future peace if Texas remains an
                      independent state or becomes an ally or dependency of some foreign nation more
                      powerful than herself. Is there one among our citizens who would not prefer
                      perpetual peace with Texas to occasional wars, which so often occur between
-                     bordering independent nations? Is there one who would not prefer free
+                     bordering independent nations?</ref> <ref type="economy">Is there one who would not prefer free
                      intercourse with her to high duties on all our products and manufactures which
-                     enter her ports or cross her frontiers? Is there one who would not prefer an
+                     enter her ports or cross her frontiers?</ref> Is there one who would not prefer an
                      unrestricted communication with her citizens to the frontier obstructions which
                      must occur if she remains out of the Union? Whatever is good or evil in the
                      local institutions of Texas will remain her own whether annexed to the United
@@ -3579,18 +3579,18 @@
                      them in the distant regions which they have selected for their homes. The
                      increasing facilities of intercourse will easily bring the States, of which the
                      formation in that part of our territory can not be long delayed, within the
-                     sphere of our federative Union. In the meantime every obligation imposed by
-                     treaty or conventional stipulations should be sacredly respected.</p>
-              <p>In the management of our foreign relations it will be my aim to observe a careful
+                     sphere of our federative Union. <ref type="diplomacy">In the meantime every obligation imposed by
+                     treaty or conventional stipulations should be sacredly respected.</ref></p>
+              <p><ref type="diplomacy">In the management of our foreign relations it will be my aim to observe a careful
                      respect for the rights of other nations, while our own will be the subject of
                      constant watchfulness. Equal and exact justice should characterize all our
                      intercourse with foreign countries. All alliances having a tendency to jeopard
                      the welfare and honor of our country or sacrifice any one of the national
                      interests will be studiously avoided, and yet no opportunity will be lost to
-                     cultivate a favorable understanding with foreign governments by which our
+                     cultivate a favorable understanding with foreign governments</ref> by which <ref type="economy">our
                      navigation and commerce may be extended and the ample products of our fertile
                      soil, as well as the manufactures of our skillful artisans, find a ready market
-                     and remunerating prices in foreign countries.</p>
+                     and remunerating prices in foreign countries.</ref></p>
               <p>In taking "care that the laws be faithfully executed," a strict performance of duty
                      will be exacted from all public officers. From those officers, especially, who
                      are charged with the collection and disbursement of the public revenue will
@@ -3610,11 +3610,11 @@
                      respect and regard.</p>
               <p>Confidently relying upon the aid and assistance of the coordinate departments of
                      the Government in conducting our public affairs, I enter upon the discharge of
-                     the high duties which have been assigned me by the people, again humbly
+                     the high duties which have been assigned me by the people, <ref type="religion">again humbly
                      supplicating that Divine Being who has watched over and protected our beloved
                      country from its infancy to the present hour to continue His gracious
                      benedictions upon us, that we may continue to be a prosperous and happy
-                     people.</p>
+                     people.</ref></p>
 
        </address>
 
@@ -3631,7 +3631,7 @@
                             Justice Roger Taney on the East Portico. After the ceremony, the new
                             President attended several inaugural celebrations, including a ball that
                             evening in a specially built pavilion on Judiciary Square.]</p>
-
+ 
               </d>
               <p><salutation>Elected by the American people to the highest office known to our laws,
                             I appear here to take the oath prescribed by the Constitution, and, in
