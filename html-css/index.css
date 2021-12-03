@@ -1,5 +1,5 @@
 body {
-background-color: #FFCC99;
+background-color: #bed9f7;
 color: #70003D;
 font-family: arial, helvetica, sans-serif;
 }
@@ -7,13 +7,13 @@ font-family: arial, helvetica, sans-serif;
     display: flex;
     width: 100%;
     overflow: hidden;
-    background-color: #70003D;
+    background-color: #8B0000;
     z-index: 500;
 }
 .navbar a {
     float: left;
     font-size: 16px;
-    color: #FFCC99;
+    color: White;
     text-align: center;
     padding: 14px 16px;
     text-decoration: none;
@@ -27,7 +27,7 @@ font-family: arial, helvetica, sans-serif;
     font-size: 16px;
     border: none;
     outline: none;
-    color: #FFCC99;
+    color: White;
     padding: 14px 16px;
     background-color: inherit;
     font-family: inherit;
@@ -62,10 +62,4 @@ font-family: arial, helvetica, sans-serif;
     display: flex;
     width: 100%;
     background-color: #70003D;
-}
-#travelerpic {
-    float: left;
-    height: 300px;
-    margin: 0 40px 0 0;
-    border: 8px solid #70003D;
 }
