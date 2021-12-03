@@ -14,7 +14,7 @@
             
             <head>
                 <title>United States Presidents' Inaugural Speeches</title>
-                <link rel="stylesheet" href="index.css"/>
+                <link rel="stylesheet" href="/InaugAddresses/html-css/index.css"/>
             </head>
             
             
