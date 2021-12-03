@@ -1476,7 +1476,7 @@
               <!--whc 11/20/2021: in the next 2 paras, diplomacy and economy overlap. Ditto war below.
               How do you want to decide which to tag? You can choose one or the other for whole paragraphs,
               or you could subdivide the paragraph bit by bit. Your choice.-->
-              <p><ref type="diplomacy economy">By a treaty with the British Government, bearing date on the 20th of October, 1818,
+              <p><ref type="diplomacy"> By a treaty with the British Government, bearing date on the 20th of October, 1818,
                      the convention regulating the commerce between the United States and Great
                      Britain, concluded on the 3d of July, 1815, which was about expiring, was
                      revived and continued for the term of ten years from the time of its
@@ -1484,21 +1484,21 @@
                      treaty of Ghent respecting the right claimed by the United States for their
                      citizens to take and cure fish on the coast of His Britannic Majesty's
                      dominions in America, with other differences on important interests, were
-                     adjusted to the satisfaction of both parties. No agreement has yet been entered
+                     adjusted to the satisfaction of both parties.</ref> <ref type="economy"> No agreement has yet been entered
                      into respecting the commerce between the United States and the British
                      dominions in the West Indies and on this continent. The restraints imposed on
                      that commerce by Great Britain, and reciprocated by the United States on a
                      principle of defense, continue still in force.</ref></p>
-              <p><ref type="diplomacy economy">The negotiation with France for the regulation of the commercial relations between
+              <p><ref type="diplomacy">The negotiation with France for the regulation of the commercial relations between
                      the two countries, which in the course of the last summer had been commenced at
                      Paris, has since been transferred to this city, and will be pursued on the part
                      of the United States in the spirit of conciliation, and with an earnest desire
                      that it may terminate in an arrangement satisfactory to both parties.</ref></p>
-              <p><ref type="war economy">Our relations with the Barbary Powers are preserved in the same state and by the
+              <p><ref type="war">Our relations with the Barbary Powers are preserved in the same state and by the
                      same means that were employed when I came into this office. As early as 1801 it
                      was found necessary to send a squadron into the Mediterranean for the
                      protection of our commerce and no period has intervened, a short term excepted,
-                     when it was thought advisable to withdraw it. The great interests which the
+                     when it was thought advisable to withdraw it.</ref> <ref type="economy"> The great interests which the
                      United States have in the Pacific, in commerce and in the fisheries, have also
                      made it necessary to maintain a naval force there. In disposing of this force
                      in both instances the most effectual measures in our power have been taken,
@@ -4681,7 +4681,7 @@
                             Building.]</p>
 
               </d>
-              <p>Citizens of the United States:</p>
+              <p><salutation>Citizens of the United States:</salutation></p>
               <p>Your suffrages having elected me to the office of President of the United States, I
                      have, in conformity to the Constitution of our country, taken the oath of
                      office prescribed therein. I have taken this oath without mental reservation
@@ -4699,11 +4699,11 @@
                      will of the people. Laws are to govern all alike—those opposed as well as those
                      who favor them. I know no method to secure the repeal of bad or obnoxious laws
                      so effective as their stringent execution.</p>
-              <p>The country having just emerged from a great rebellion, many questions will come
+              <p><ref type="social">The country having just emerged from a great rebellion, many questions will come
                      before it for settlement in the next four years which preceding Administrations
                      have never had to deal with. In meeting these it is desirable that they should
                      be approached calmly, without prejudice, hate, or sectional pride, remembering
-                     that the greatest good to the greatest number is the object to be attained.</p>
+                     that the greatest good to the greatest number is the object to be attained.</ref></p>
               <p>This requires security of person, property, and free religious and political
                      opinion in every part of our common country, without regard to local prejudice.
                      All laws to secure these ends will receive my best efforts for their
@@ -4713,15 +4713,15 @@
                      basis as soon as it can be accomplished without material detriment to the
                      debtor class or to the country at large, must be provided for. To protect the
                      national honor, every dollar of Government indebtedness should be paid in gold,
-                     unless otherwise expressly stipulated in the contract. Let it be understood
+                     unless otherwise expressly stipulated in the contract. <ref type="economy">Let it be understood
                      that no repudiator of one farthing of our public debt will be trusted in public
                      place, and it will go far toward strengthening a credit which ought to be the
                      best in the world, and will ultimately enable us to replace the debt with bonds
                      bearing less interest than we now pay. To this should be added a faithful
                      collection of the revenue, a strict accountability to the Treasury for every
                      dollar collected, and the greatest practicable retrenchment in expenditure in
-                     every department of Government.</p>
-              <p>When we compare the paying capacity of the country now, with the ten States in
+                     every department of Government.</ref></p>
+              <p><ref type="economy">When we compare the paying capacity of the country now, with the ten States in
                      poverty from the effects of war, but soon to emerge, I trust, into greater
                      prosperity than ever before, with its paying capacity twenty-five years ago,
                      and calculate what it probably will be twenty-five years hence, who can doubt
@@ -4729,7 +4729,7 @@
                      useless luxuries? Why, it looks as though Providence had bestowed upon us a
                      strong box in the precious metals locked up in the sterile mountains of the far
                      West, and which we are now forging the key to unlock, to meet the very
-                     contingency that is now upon us.</p>
+                     contingency that is now upon us.</ref></p>
               <p>Ultimately it may be necessary to insure the facilities to reach these riches and
                      it may be necessary also that the General Government should give its aid to
                      secure this access; but that should only be when a dollar of obligation to pay
@@ -4754,25 +4754,25 @@
                      assessed, and to have them properly accounted for and economically disbursed. I
                      will to the best of my ability appoint to office those only who will carry out
                      this design.</p>
-              <p>In regard to foreign policy, I would deal with nations as equitable law requires
+              <p><ref type="diplomacy">In regard to foreign policy, I would deal with nations as equitable law requires
                      individuals to deal with each other, and I would protect the law-abiding
                      citizen, whether of native or foreign birth, wherever his rights are
                      jeopardized or the flag of our country floats. I would respect the rights of
                      all nations, demanding equal respect for our own. If others depart from this
                      rule in their dealings with us, we may be compelled to follow their
-                     precedent.</p>
+                     precedent.</ref></p>
               <p>The proper treatment of the original occupants of this land—the Indians one
                      deserving of careful study. I will favor any course toward them which tends to
                      their civilization and ultimate citizenship.</p>
-              <p>The question of suffrage is one which is likely to agitate the public so long as a
+              <p><ref type="social">The question of suffrage is one which is likely to agitate the public so long as a
                      portion of the citizens of the nation are excluded from its privileges in any
                      State. It seems to me very desirable that this question should be settled now,
                      and I entertain the hope and express the desire that it may be by the
-                     ratification of the fifteenth article of amendment to the Constitution.</p>
-              <p>In conclusion I ask patient forbearance one toward another throughout the land, and
+                     ratification of the fifteenth article of amendment to the Constitution.</ref></p>
+              <p><ref type="religion">In conclusion I ask patient forbearance one toward another throughout the land, and
                      a determined effort on the part of every citizen to do his share toward
                      cementing a happy union; and I ask the prayers of the nation to Almighty God in
-                     behalf of this consummation.</p>
+                     behalf of this consummation.</ref></p>
 
        </address>
 
@@ -4926,7 +4926,7 @@
                             Justice Morrison Waite administered both oaths.]</p>
 
               </d>
-              <p>Fellow-Citizens:</p>
+              <p><salutation>Fellow-Citizens:</salutation></p>
               <p>We have assembled to repeat the public ceremonial, begun by Washington, observed by
                      all my predecessors, and now a time-honored custom, which marks the
                      commencement of a new term of the Presidential office. Called to the duties of
@@ -4954,7 +4954,7 @@
                      enjoyment of all their constitutional rights is now the one subject in our
                      public affairs which all thoughtful and patriotic citizens regard as of supreme
                      importance.</p>
-              <p>Many of the calamitous efforts of the tremendous revolution which has passed over
+              <p><ref type="social">Many of the calamitous efforts of the tremendous revolution which has passed over
                      the Southern States still remain. The immeasurable benefits which will surely
                      follow, sooner or later, the hearty and generous acceptance of the legitimate
                      results of that revolution have not yet been realized. Difficult and
@@ -4964,16 +4964,16 @@
                      difference of opinion may exist as to the cause of this condition of things,
                      the fact is clear that in the progress of events the time has come when such
                      government is the imperative necessity required by all the varied interests,
-                     public and private, of those States. But it must not be forgotten that only a
+                     public and private, of those States.</ref> But it must not be forgotten that only a
                      local government which recognizes and maintains inviolate the rights of all is
                      a true self-government.</p>
-              <p>With respect to the two distinct races whose peculiar relations to each other have
+              <p><ref type="social">With respect to the two distinct races whose peculiar relations to each other have
                      brought upon us the deplorable complications and perplexities which exist in
                      those States, it must be a government which guards the interests of both races
                      carefully and equally. It must be a government which submits loyally and
                      heartily to the Constitution and the laws—the laws of the nation and the laws
                      of the States themselves—accepting and obeying faithfully the whole
-                     Constitution as it is.</p>
+                     Constitution as it is.</ref></p>
               <p>Resting upon this sure and substantial foundation, the superstructure of beneficent
                      local governments can be built up, and not otherwise. In furtherance of such
                      obedience to the letter and the spirit of the Constitution, and in behalf of
@@ -4987,7 +4987,7 @@
                      partisan sense, either Republicans or Democrats, but fellow-citizens and
                      fellowmen, to whom the interests of a common country and a common humanity are
                      dear.</p>
-              <p>The sweeping revolution of the entire labor system of a large portion of our
+              <p><ref type="social">The sweeping revolution of the entire labor system of a large portion of our
                      country and the advance of 4,000,000 people from a condition of servitude to
                      that of citizenship, upon an equal footing with their former masters, could not
                      occur without presenting problems of the gravest moment, to be dealt with by
@@ -4998,7 +4998,7 @@
                      National Government to employ its constitutional power and influence to
                      establish the rights of the people it has emancipated, and to protect them in
                      the enjoyment of those rights when they are infringed or assailed, is also
-                     generally admitted.</p>
+                     generally admitted.</ref></p>
               <p>The evils which afflict the Southern States can only be removed or remedied by the
                      united and harmonious efforts of both races, actuated by motives of mutual
                      sympathy and regard; and while in duty bound and fully determined to protect
