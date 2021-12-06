@@ -9,14 +9,14 @@
     <xsl:template match = "/">
         <html>
             <head>
-                <title>Numbers of References per Speech</title>
+                <title>Length of References per Speech</title>
                 <link rel="stylesheet" href="/InaugAddresses/html-css/index.css"/>
             </head>
             
             <body>
                 <svg width="100%" height="800%">
                     <g transform="translate(250, 50)">
-                        <text x="775" y="550" text-anchor="middle">Numbers of References per Speech (War, Religion, Economy, Social, Diplomacy)</text>
+                        <text x="775" y="550" text-anchor="middle">Length of References per Speech (War, Religion, Economy, Social, Diplomacy)</text>
                             
                         <!-- to do == flip names so they come from top, add numbers on top axis, fit all names on the graph-->
                         <!-- y-axis -->
@@ -52,7 +52,7 @@
                             <xsl:variable name="ypos" select="position() * $interval"/>
                             <xsl:variable name="xpos" select="(count(descendant::ref[@type]) *20 )+20"/>
                             
-                            <xsl:variable name="xposW" select="(count(descendant::ref[@type='war']) *20 )+20"/>
+                            <xsl:variable name="xposW" select="string-length(string-join(descendant::ref[@type = 'war']))*.125+20"/>
                             <xsl:variable name="xposS" select="(count(descendant::ref[@type='social']) *20 )+20"/>
                             <xsl:variable name="xposE" select="(count(descendant::ref[@type='economy']) *20 )+20"/>
                             <xsl:variable name="xposD" select="(count(descendant::ref[@type='diplomacy']) *20 )+20"/>
@@ -66,24 +66,24 @@
                             <line x1="20" x2="{$xposR}" y1="{$ypos+60}" y2="{$ypos+60}" stroke="purple" stroke-width="15"/>
                             
                             <!-- labels each bar with its count -->
-                            <text x="{$xposW + 10}" y="{$ypos}">
-                                <xsl:value-of select="count(descendant::ref[@type='war'])"/>
+                            <text x="{$xposW + 10}" y="{$ypos+5}">
+                                 War: <xsl:value-of select="string-length(string-join(descendant::ref[@type = 'war']))"/>
                             </text>
                             
                             <text x="{$xposS + 10}" y="{$ypos + 20}">
-                                <xsl:value-of select="count(descendant::ref[@type='social'])"/>
+                                Social: <xsl:value-of select="count(descendant::ref[@type='social'])"/>
                             </text>
                             
                             <text x="{$xposD + 10}" y="{$ypos+ 35}">
-                                <xsl:value-of select="count(descendant::ref[@type='diplomacy'])"/>
+                                Diplomacy: <xsl:value-of select="count(descendant::ref[@type='diplomacy'])"/>
                             </text>
                             
                             <text x="{$xposE + 10}" y="{$ypos + 50}">
-                                <xsl:value-of select="count(descendant::ref[@type='economy'])"/>
+                                Economy: <xsl:value-of select="count(descendant::ref[@type='economy'])"/>
                             </text>
                             
                             <text x="{$xposR + 10}" y="{$ypos + 65}">
-                                <xsl:value-of select="count(descendant::ref[@type='religion'])"/>
+                                Relgion: <xsl:value-of select="count(descendant::ref[@type='religion'])"/>
                             </text>
                             
                             <!--y-axis label -->
@@ -95,5 +95,4 @@
             </body>
         </html>
     </xsl:template>
-    
 </xsl:stylesheet>
