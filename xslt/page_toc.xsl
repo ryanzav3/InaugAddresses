@@ -22,7 +22,7 @@
                 <h1>United States Presidents' Inaugural Speeches</h1>
                 <h2>Table of Contents</h2>
                 <ol><xsl:apply-templates select = "descendant::address" mode ="toc">
-                    <xsl:sort select = "count(descendant::ref[@type = 'war'])" order = "descending"/>
+                    <!--<xsl:sort select = "count(descendant::ref[@type = 'war'])" order = "descending"/>-->
                 </xsl:apply-templates></ol>
                 <hr/>
                 

@@ -63,3 +63,23 @@ font-family: arial, helvetica, sans-serif;
     width: 100%;
     background-color: #70003D;
 }
+
+span.war{
+    color:red;
+}
+
+span.social{
+    color:blue;
+}
+
+span.diplomacy{
+    color:green;
+}
+
+span.economy{
+    color:orange;
+}
+
+span.religion{
+    color:purple;
+}
