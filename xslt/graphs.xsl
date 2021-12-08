@@ -14,7 +14,7 @@
             </head>
             
             <body>
-                <svg width="100%" height="800%">
+                <svg width="125%" height="800%">
                     <g transform="translate(250, 50)">
                         <text x="775" y="550" text-anchor="middle">Length of References per Speech (War, Religion, Economy, Social, Diplomacy)</text>
                             
@@ -22,29 +22,35 @@
                         <!-- y-axis -->
                         <line x1="20" x2="20" y1="0" y2="{(59 * $interval) + 100}" stroke="black" stroke-width="1"/>
                         <!-- x-axis (bottom) -->
-                        <line x1="20" x2="650" y1="{(59 * $interval) + 100}" y2="{(59 * $interval) +100}" stroke="black" stroke-width="1"/>
+                        <line x1="20" x2="1400" y1="{(59 * $interval) + 100}" y2="{(59 * $interval) +100}" stroke="black" stroke-width="1"/>
                         <!-- x-axis (top)-->
-                        <line x1="20" x2="650" y1="0" y2="0" stroke="black" stroke-width="1"/>
+                        <line x1="20" x2="1400" y1="0" y2="0" stroke="black" stroke-width="1"/>
                         
-                        <!-- labels the x-axis (bottom) 
-                        <text x="5" y="20" text-anchor="middle">0</text>
-                        <text x="65" y="20" text-anchor="middle">5</text>
-                        <text x="125" y="20" text-anchor="middle">10</text>
-                        <text x="185" y="20" text-anchor="middle">15</text>
-                        <text x="245" y="20" text-anchor="middle">20</text>
-                        <text x="305" y="20" text-anchor="middle">25</text>
-                        <text x="365" y="20" text-anchor="middle">30</text>
-                        <text x="425" y="20" text-anchor="middle">35</text>-->
+                        <!-- labels the x-axis (bottom) -->
+                        <text x="20" y="{(59 * $interval) + 120}" text-anchor="middle">0 (Words Per Speech)</text>
+                        <text x="150" y="{(59 * $interval) + 120}" text-anchor="middle">1000</text>
+                        <text x="280" y="{(59 * $interval) + 120}" text-anchor="middle">2000</text>
+                        <text x="410" y="{(59 * $interval) + 120}" text-anchor="middle">3000</text>
+                        <text x="540" y="{(59 * $interval) + 120}" text-anchor="middle">4000</text>
+                        <text x="670" y="{(59 * $interval) + 120}" text-anchor="middle">5000</text>
+                        <text x="800" y="{(59 * $interval) + 120}" text-anchor="middle">6000</text>
+                        <text x="930" y="{(59 * $interval) + 120}" text-anchor="middle">7000</text>
+                        <text x="1060" y="{(59 * $interval) + 120}" text-anchor="middle">8000</text>
+                        <text x="1190" y="{(59 * $interval) + 120}" text-anchor="middle">9000</text>
+                        <text x="1320" y="{(59 * $interval) + 120}" text-anchor="middle">10000</text>
                         
-                        <!-- labels the x-axis (top) 
-                        <text x="5" y="20" text-anchor="middle">0</text>
-                        <text x="65" y="20" text-anchor="middle">5</text>
-                        <text x="125" y="20" text-anchor="middle">10</text>
-                        <text x="185" y="20" text-anchor="middle">15</text>
-                        <text x="245" y="20" text-anchor="middle">20</text>
-                        <text x="305" y="20" text-anchor="middle">25</text>
-                        <text x="365" y="20" text-anchor="middle">30</text>
-                        <text x="425" y="20" text-anchor="middle">35</text>-->
+                        <!-- labels the x-axis (top) -->
+                        <text x="20" y="-10" text-anchor="middle">0 (Words Per Speech)</text>
+                        <text x="150" y="-10" text-anchor="middle">1000</text>
+                        <text x="280" y="-10" text-anchor="middle">2000</text>
+                        <text x="410" y="-10" text-anchor="middle">3000</text>
+                        <text x="540" y="-10" text-anchor="middle">4000</text>
+                        <text x="670" y="-10" text-anchor="middle">5000</text>
+                        <text x="800" y="-10" text-anchor="middle">6000</text>
+                        <text x="930" y="-10" text-anchor="middle">7000</text>
+                        <text x="1060" y="-10" text-anchor="middle">8000</text>
+                        <text x="1190" y="-10" text-anchor="middle">9000</text>
+                        <text x="1320" y="-10" text-anchor="middle">10000</text>
                         
                         <!-- Instead stead of using xsl:apply-templates and creating another xsl:template match, we use xsl:for-each -->
                         <xsl:for-each select="//address">
@@ -52,38 +58,38 @@
                             <xsl:variable name="ypos" select="position() * $interval"/>
                             <xsl:variable name="xpos" select="(count(descendant::ref[@type]) *20 )+20"/>
                             
-                            <xsl:variable name="xposW" select="string-length(string-join(descendant::ref[@type = 'war']))*.125+20"/>
-                            <xsl:variable name="xposS" select="(count(descendant::ref[@type='social']) *20 )+20"/>
-                            <xsl:variable name="xposE" select="(count(descendant::ref[@type='economy']) *20 )+20"/>
-                            <xsl:variable name="xposD" select="(count(descendant::ref[@type='diplomacy']) *20 )+20"/>
-                            <xsl:variable name="xposR" select="(count(descendant::ref[@type='religion']) *20 )+20"/>
+                            <xsl:variable name="xposW" select="string-length(normalize-space(string-join(descendant::ref[@type = 'war'])))*.125+20"/>
+                            <xsl:variable name="xposS" select="string-length(normalize-space(string-join(descendant::ref[@type = 'social'])))*.125+20"/>
+                            <xsl:variable name="xposD" select="string-length(normalize-space(string-join(descendant::ref[@type = 'diplomacy'])))*.125+20"/>
+                            <xsl:variable name="xposE" select="string-length(normalize-space(string-join(descendant::ref[@type = 'economy'])))*.125+20"/>
+                            <xsl:variable name="xposR" select="string-length(normalize-space(string-join(descendant::ref[@type = 'religion'])))*.125+20"/>
                             
                             <!--bars (war, social, economy, diplomacy, religion-->
                             <line x1="20" x2="{$xposW}" y1="{$ypos}" y2="{$ypos}" stroke="red" stroke-width="15"/>
                             <line x1="20" x2="{$xposS}" y1="{$ypos+15}" y2="{$ypos+15}" stroke="blue" stroke-width="15"/>
                             <line x1="20" x2="{$xposD}" y1="{$ypos+30}" y2="{$ypos+30}" stroke="green" stroke-width="15"/>
                             <line x1="20" x2="{$xposE}" y1="{$ypos+45}" y2="{$ypos+45}" stroke="orange" stroke-width="15"/>
-                            <line x1="20" x2="{$xposR}" y1="{$ypos+60}" y2="{$ypos+60}" stroke="purple" stroke-width="15"/>
+                            <line x1="20" x2="{$xposR}" y1="{$ypos+60}" y2="{$ypos+60}" stroke="magenta" stroke-width="15"/>
                             
                             <!-- labels each bar with its count -->
                             <text x="{$xposW + 10}" y="{$ypos+5}">
-                                 War: <xsl:value-of select="string-length(string-join(descendant::ref[@type = 'war']))"/>
+                                 War: <xsl:value-of select="string-length(normalize-space(string-join(descendant::ref[@type = 'war'])))"/>
                             </text>
                             
                             <text x="{$xposS + 10}" y="{$ypos + 20}">
-                                Social: <xsl:value-of select="count(descendant::ref[@type='social'])"/>
+                                Social: <xsl:value-of select="string-length(normalize-space(string-join(descendant::ref[@type = 'social'])))"/>
                             </text>
                             
                             <text x="{$xposD + 10}" y="{$ypos+ 35}">
-                                Diplomacy: <xsl:value-of select="count(descendant::ref[@type='diplomacy'])"/>
+                                Diplomacy: <xsl:value-of select="string-length(normalize-space(string-join(descendant::ref[@type = 'diplomacy'])))"/>
                             </text>
                             
                             <text x="{$xposE + 10}" y="{$ypos + 50}">
-                                Economy: <xsl:value-of select="count(descendant::ref[@type='economy'])"/>
+                                Economy: <xsl:value-of select="string-length(normalize-space(string-join(descendant::ref[@type = 'economy'])))"/>
                             </text>
                             
                             <text x="{$xposR + 10}" y="{$ypos + 65}">
-                                Relgion: <xsl:value-of select="count(descendant::ref[@type='religion'])"/>
+                                Relgion: <xsl:value-of select="string-length(normalize-space(string-join(descendant::ref[@type = 'religion'])))"/>
                             </text>
                             
                             <!--y-axis label -->
