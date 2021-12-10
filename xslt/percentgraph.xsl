@@ -14,9 +14,9 @@
             </head>
             
             <body>
+                <h1>Percentage of Each Speech Referring to Each Category</h1>
                 <svg width="125%" height="850%">
                     <g transform="translate(250, 50)">
-                        <text x="775" y="550" text-anchor="middle">Percent of References per Speech (War, Religion, Economy, Social, Diplomacy)</text>
                         
                         <!-- to do == flip names so they come from top, add numbers on top axis, fit all names on the graph-->
                         <!-- y-axis -->

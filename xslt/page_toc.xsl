@@ -40,7 +40,7 @@
     <xsl:template match = "address" mode = "toc">
         <li><a href="#id{@n}"><strong><xsl:apply-templates select = "@name, ' ', @date"/>
         <xsl:apply-templates select="descendant::address"/></strong></a>
-        <xsl:text> [Refs: </xsl:text><xsl:value-of select = "count(descendant::ref[@type = 'war'])"/><xsl:text>]</xsl:text></li>    
+        <xsl:text> [Refs: </xsl:text><xsl:value-of select = "count(descendant::ref[@type])"/><xsl:text>]</xsl:text></li>    
     </xsl:template>
     
     <xsl:template match = "address">
