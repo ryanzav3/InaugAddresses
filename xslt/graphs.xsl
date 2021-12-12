@@ -15,7 +15,7 @@
             
             <body>
                 <h1>Length of References per Speech (War, Religion, Economy, Social, Diplomacy)</h1>
-                <svg width="150%" height="825%">
+                <svg width="150%" height="850%">
                     <g transform="translate(250, 50)">
                             
                         <!-- to do == flip names so they come from top, add numbers on top axis, fit all names on the graph-->
