@@ -9,7 +9,19 @@
     <body> 
         <!-- header will be inserted here -->
         <h1>Methodology</h1>
-        <p>We started with raw text, regex paragrpahs, manually marked refs, inconsistent with markup because of taking turns and each of our interpretations, rounding whole percent leads to
-        inconsistent</p>
+        <p>We found noncopyright raw text of every speech thanks to the <a href="https://www.gutenberg.org/files/925/925-h/925-h.htm#link2H_4_0035">Gutenberg Files</a>
+            and the <a href="https://www.presidency.ucsb.edu/documents/presidential-documents-archive-guidebook/inaugural-addresses">American Presidency Project.</a></p>
+        <p>After locating every speech, we compiled them into a single XML file because it would be easier to REGEX and create RelaxNG schema to standardize the data. 
+        Creating our web pages we used XSLT to manipulate references to display graphs and a table of contents.
+        All of the project's files are located on our GitHub in their corresponding folder.
+        We manully tagged each speech when we noticed references (ref) in economy, religion, war, diplomacy, and social. The diplomacy and war references have some overlap because 
+        they each involve relationships with other countries and powers. We tried to keep the war reference to when the speaker was directly talking about fight locations, soldiers, or 
+        fighting other countries. Diplomacy was used to mark the relationship between countries, or other political issues not involving war. The social tag was commonly used to 
+        wrap text involving problems America was experiencing. This includes ineqaulity, unemployment, and government reform. After we finished marking each speech, we realized the social 
+        reference might be a little too vague to hold accurate and useful analytical data. Maybe in the future we can resolve this issue, but due to limited time we cannot fix this now.</p>
+        <p>Overall, since determining each reference was based on personal judgement, this can lead to some inconsistencies pertaining to how accurate each reference is. 
+        Some references can be missed in general, not marked correctly, or misinterpreted. We apologize for any errors found, and hope to iron them out in the future.
+        The bars on our percentage graph may have different lengths even if they have the same percentage. This is because we rounded the percentages to the closest whole number 
+        for more visually appealing numbers.</p>
     </body>
 </html> 
