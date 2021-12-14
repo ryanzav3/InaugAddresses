@@ -64,22 +64,22 @@ font-family: arial, helvetica, sans-serif;
     background-color: #70003D;
 }
 
-span.war{
+span.war.on{
     color:red;
 }
 
-span.social{
+span.social.on{
     color:blue;
 }
 
-span.diplomacy{
+span.diplomacy.on{
     color:green;
 }
 
-span.economy{
+span.economy.on{
     color:orange;
 }
 
-span.religion{
+span.religion.on{
     color:magenta;
 }

@@ -1,10 +1,8 @@
 window.addEventListener('DOMContentLoaded',init,false);
             
-function init() {
-    alert('The page loaded!');
-}
 
 
+  
 function init() {
     var fieldset = document.getElementsByTagName('input');
     for (var i = 0; i < fieldset.length; i++) {
@@ -51,4 +49,5 @@ function toggle() {
         };
         break;
     }
-  }   
+     
+  }  
