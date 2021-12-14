@@ -19,6 +19,28 @@
             
             
             <body>
+                <div id="navbar">
+                    <div class="navbar">
+                        <a href="/InaugAddresses/index.xhtml">Home</a>
+                        <div class="dropdown">
+                            <button class="dropbtn">About</button>
+                            <div class="dropdown-content">
+                                <a href="/InaugAddresses/html-css/team.html">Team</a>
+                                <a href="/InaugAddresses/html-css/purpose.html">Purpose</a>
+                                <a href="/InaugAddresses/html-css/method.html">Methodology</a>
+                            </div>
+                        </div>           
+                        <a href="/InaugAddresses/html-css/page.html">Text</a>
+                        <div class="dropdown">
+                            <button class="dropbtn">Analysis</button>
+                            <div class="dropdown-content">
+                                <a href="/InaugAddresses/html-css/graph.html">Graph (Characters Per Speech)</a>
+                                <a href="/InaugAddresses/html-css/graphpercent.html">Graph (Percentage of Speech)</a>
+                                <a href="/InaugAddresses/html-css/discussion.html">Discussion</a>                       
+                            </div>
+                        </div>                
+                    </div>
+                </div>
                 <h1>United States Presidents' Inaugural Speeches</h1>
                 <h2>Table of Contents</h2>
                 <ol><xsl:apply-templates select = "descendant::address" mode ="toc">
