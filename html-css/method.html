@@ -7,6 +7,7 @@
         <link rel="stylesheet" type="text/css" href="index.css"/>  
     </head> 
     <body>
+        <h1>Inaugural Addresses</h1>
         <div id="navbar">
             <div class="navbar">
                 <a href="/InaugAddresses/index.xhtml">Home</a>
@@ -44,6 +45,31 @@
         reference might be a little too vague to hold accurate and useful analytical data. Maybe in the future we can resolve this issue, but due to limited time we cannot fix this now.</p>
         <p>Another element that we tagged was the salutation of each speech. We wanted to compare how each president started their speech identify any similarities or differences. 
         We did not get the chance to implement this into our site, but it already marked up for the future if anyone decides to further develop the project.</p>
+        <label for="percentgraph">Percentage Graph:</label>
+        <textarea id="percentgraph" name="percentgraph" rows="16" cols="200">
+            xsl:variable name="ypos" select="position() * $interval"
+            xsl:variable name="xpos" select="(count(descendant::ref[@type]) *20 )+20"
+            
+            xsl:variable name="xposW" select="(string-length(normalize-space(string-join(descendant::ref[@type = 'war']))))div(string-length(normalize-space(string-join(descendant::p))))*100*10+20"/>
+            xsl:variable name="xposS" select="(string-length(normalize-space(string-join(descendant::ref[@type = 'social']))))div(string-length(normalize-space(string-join(descendant::p))))*100*10+20"/>
+            xsl:variable name="xposD" select="(string-length(normalize-space(string-join(descendant::ref[@type = 'diplomacy']))))div(string-length(normalize-space(string-join(descendant::p))))*100*10+20"/>
+            xsl:variable name="xposE" select="(string-length(normalize-space(string-join(descendant::ref[@type = 'economy']))))div(string-length(normalize-space(string-join(descendant::p))))*100*10+20"/>
+            xsl:variable name="xposR" select="(string-length(normalize-space(string-join(descendant::ref[@type = 'religion']))))div(string-length(normalize-space(string-join(descendant::p))))*100*10+20"/>
+            
+            !--bars (war, social, economy, diplomacy, religion-->
+            line x1="20" x2="{$xposW}" y1="{$ypos}" y2="{$ypos}" stroke="red" stroke-width="15"/>
+            line x1="20" x2="{$xposS}" y1="{$ypos+15}" y2="{$ypos+15}" stroke="blue" stroke-width="15"/>
+            line x1="20" x2="{$xposD}" y1="{$ypos+30}" y2="{$ypos+30}" stroke="green" stroke-width="15"/>
+            line x1="20" x2="{$xposE}" y1="{$ypos+45}" y2="{$ypos+45}" stroke="orange" stroke-width="15"/>
+            line x1="20" x2="{$xposR}" y1="{$ypos+60}" y2="{$ypos+60}" stroke="magenta" stroke-width="15"/>
+        </textarea>
+        <p>In our percentage graph, we created a variable for each reference to use in creating the length of the bars and general x and y position variables for starting points of the bars. 
+        To create the variables for each reference we counted the characters inside each @ref element and divided it by the total characters in the whole @address. 
+        For both we have nested functions to accurately count these characters. String-length counts all text and spaces and this would inflate our numbers because of all the spaces in 
+        each speech. Normalize-space takes away white space, so this eliminates the spaces between text. This cut our numbers almost in half. The next function string-join combines all 
+        of the references of that type into one block of text so then it could be divided by the length of the whole text. After the division, we multiplied by 100 so that the numbers are 
+        no longer in small decimals (0.XXXX to XX). Multiplying by 10 increases the size of the whole bar so it easier to read. Finally, we added 20 to our bars because our y-axis was not 
+        centered on zero so the bars would go into the negative range.</p>
         <p>Overall, since determining each reference was based on personal judgement, this can lead to some inconsistencies pertaining to how accurate each reference is. 
         Some references can be missed in general, not marked correctly, or misinterpreted. We apologize for any errors found, and hope to iron them out in the future.
         The bars on our percentage graph may have different lengths even if they have the same percentage. This is because we rounded the percentages to the closest whole number 

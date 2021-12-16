@@ -19,6 +19,7 @@
             
             
             <body>
+                <h1>Inaugural Addresses</h1>
                 <div id="navbar">
                     <div class="navbar">
                         <a href="/InaugAddresses/index.xhtml">Home</a>

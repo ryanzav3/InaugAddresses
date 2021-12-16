@@ -13,7 +13,7 @@
               1789-2005 </source>
 
        <address n="01" name="GEORGE WASHINGTON" title="FIRST INAUGURAL ADDRESS"
-              date="IN THE CITY OF NEW YORK THURSDAY, APRIL 30, 1789">
+              date="IN THE CITY OF NEW YORK THURSDAY, APRIL 30, 1789" year="1789">
               <d class="editnote">
                      <p>[Transcriber's note: The Nation's first chief executive took his oath of
                             office in April in New York City on the balcony of the Senate Chamber at
@@ -150,7 +150,7 @@
        </address>
 
        <address n="02" name="GEORGE WASHINGTON" title="SECOND INAUGURAL ADDRESS"
-              date="IN THE CITY OF PHILADELPHIA, MONDAY, MARCH 4, 1793">
+              date="IN THE CITY OF PHILADELPHIA, MONDAY, MARCH 4, 1793" year="1793">
               <d class="editnote">
                      <p>[Transcriber's note: President Washington's second oath of office was taken
                             in the Senate Chamber of Congress Hall in Philadelphia on March 4, the
@@ -178,7 +178,7 @@
        </address>
 
        <address n="03" name="JOHN ADAMS" title="INAUGURAL ADDRESS"
-              date="IN THE CITY OF PHILADELPHIA SATURDAY, MARCH 4, 1797">
+              date="IN THE CITY OF PHILADELPHIA SATURDAY, MARCH 4, 1797" year="1797">
               <d class="editnote">
                      <p>[Transcriber's note: The first Vice President became the second President of
                             the United States. His opponent in the election, Thomas Jefferson, had
@@ -383,7 +383,7 @@
        </address>
 
        <address n="04" name="THOMAS JEFFERSON" title="FIRST INAUGURAL ADDRESS"
-              date="IN THE WASHINGTON, D.C., WEDNESDAY, MARCH 4, 1801">
+              date="IN THE WASHINGTON, D.C., WEDNESDAY, MARCH 4, 1801" year="1801">
               <d class="editnote">
                      <p>[Transcriber's note: Chief Justice John Marshall administered the first
                             executive oath of office ever taken in the new federal city in the new
@@ -545,7 +545,7 @@
        </address>
 
        <address n="05" name="THOMAS JEFFERSON" title="SECOND INAUGURAL ADDRESS"
-              date="IN WASHINGTON D.C., MONDAY, MARCH 4, 1805">
+              date="IN WASHINGTON D.C., MONDAY, MARCH 4, 1805" year="1805">
               <d class="editnote">
                      <p>[Transcriber's note: The second inauguration of Mr. Jefferson followed an
                             election under which the offices of President and Vice President were to
@@ -742,7 +742,7 @@
        </address>
 
        <address n="06" name="JAMES MADISON" title="FIRST INAUGURAL ADDRESS"
-              date="SATURDAY, MARCH 4, 1809">
+              date="SATURDAY, MARCH 4, 1809" year="1809">
               <d class="editnote">
                      <p>[Transcriber's note: Chief Justice John Marshall administered the oath of
                             office in the Hall of the House of Representatives (now National
@@ -862,7 +862,7 @@
        </address>
 
        <address n="07" name="JAMES MADISON" title="SECOND INAUGURAL ADDRESS"
-              date="THURSDAY, MARCH 4, 1813">
+              date="THURSDAY, MARCH 4, 1813" year="1813">
               <d class="editnote">
                      <p>[Transcriber's note: Chief Justice John Marshall administered the oath of
                             office in the Hall of the House of Representatives. The United States
@@ -975,7 +975,7 @@
        </address>
 
        <address n="08" name="JAMES MONROE" title="FIRST INAUGURAL ADDRESS"
-              date="TUESDAY, MARCH 4, 1817">
+              date="TUESDAY, MARCH 4, 1817" year="1817">
               <d class="editnote">
                      <p>[Transcriber's note: Because the Capitol was under reconstruction after the
                             fire, President-elect Monroe offered to take his oath of office in the
@@ -1284,7 +1284,7 @@
        </address>
 
        <address n="09" name="JAMES MONROE" title="SECOND INAUGURAL ADDRESS"
-              date="MONDAY, MARCH 5, 1821">
+              date="MONDAY, MARCH 5, 1821" year="1821">
               <d class="editnote">
                      <p>[Transcriber's note: In 1821, March 4 fell on a Sunday for the first time
                             that presidential inaugurations had been observed. Although his previous
@@ -1660,7 +1660,7 @@
        </address>
 
        <address n="10" name="JOHN QUINCY ADAMS" title="INAUGURAL ADDRESS"
-              date="FRIDAY, MARCH 4, 1825">
+              date="FRIDAY, MARCH 4, 1825" year="1825">
               <d class="editnote">
                      <p>[Transcriber's note: The only son of a former President to be elected to the
                             Nation's highest office, John Quincy Adams was chosen by the House of
@@ -1943,7 +1943,7 @@
        </address>
 
        <address n="11" name="ANDREW JACKSON" title="FIRST INAUGURAL ADDRESS"
-              date="WEDNESDAY, MARCH 4, 1829">
+              date="WEDNESDAY, MARCH 4, 1829" year="1829">
               <d class="editnote">
                      <p>[Transcriber's note: The election of Andrew Jackson was heralded as a new
                             page in the history of the Republic. The first military leader elected
@@ -2059,7 +2059,7 @@
        </address>
 
        <address n="12" name="ANDREW JACKSON" title="SECOND INAUGURAL ADDRESS"
-              date="MONDAY, MARCH 4, 1833">
+              date="MONDAY, MARCH 4, 1833" year="1833">
               <d class="editnote">
                      <p>[Transcriber's note: Cold weather and the President's poor health caused the
                             second inauguration to be much quieter than the first. The President's
@@ -2177,7 +2177,7 @@
        </address>
 
        <address n="13" name="MARTIN VAN BUREN" title="INAUGURAL ADDRESS"
-              date="SATURDAY, MARCH 4, 1837">
+              date="SATURDAY, MARCH 4, 1837" year="1837">
               <d class="editnote">
                      <p>[Transcriber's note: The ailing President Jackson and his Vice President Van
                             Buren rode together to the Capitol from the White House in a carriage
@@ -2507,7 +2507,7 @@
        </address>
 
        <address n="14" name="WILLIAM HENRY HARRISON" title="INAUGURAL ADDRESS"
-              date="THURSDAY, MARCH 4, 1841">
+              date="THURSDAY, MARCH 4, 1841" year="1841">
               <d class="editnote">
                      <p>[Transcriber's note: President Harrison has the dual distinction among all
                             the Presidents of giving the longest inaugural speech and of serving the
@@ -3216,7 +3216,7 @@
        </address>
 
        <address n="15" name="JAMES KNOX POLK" title="INAUGURAL ADDRESS"
-              date="TUESDAY, MARCH 4, 1845">
+              date="TUESDAY, MARCH 4, 1845" year="1845">
               <d class="editnote">
                      <p>[Transcriber's note: The inaugural ceremonies of former Tennessee Governor
                             and Speaker of the House James Knox Polk were conducted before a large
@@ -3618,7 +3618,7 @@
 
        </address>
 
-       <address n="16" name="ZACHARY TAYLOR" title="INAUGURAL ADDRESS" date="MONDAY, MARCH 5, 1849">
+       <address n="16" name="ZACHARY TAYLOR" title="INAUGURAL ADDRESS" date="MONDAY, MARCH 5, 1849" year="1849">
               <d class="editnote">
                      <p>[Transcriber's note: For the second time in the history of the Republic,
                             March 4 fell on a Sunday. The inaugural ceremony was postponed until the
@@ -3730,7 +3730,7 @@
 
        </address>
 
-       <address n="17" name="FRANKLIN PIERCE" title="INAUGURAL ADDRESS" date="FRIDAY, MARCH 4, 1853">
+       <address n="17" name="FRANKLIN PIERCE" title="INAUGURAL ADDRESS" date="FRIDAY, MARCH 4, 1853" year="1853">
               <d class="editnote">
                      <p>[Transcriber's note: On religious grounds, former Senator and Congressman
                             Franklin Pierce chose "to affirm" rather than "to swear" the executive
@@ -4016,7 +4016,7 @@
        </address>
 
        <address n="18" name="JAMES BUCHANAN" title="INAUGURAL ADDRESS"
-              date="WEDNESDAY, MARCH 4, 1857">
+              date="WEDNESDAY, MARCH 4, 1857" year="1857">
               <d class="editnote">
                      <p>[Transcriber's note: The Democratic Party chose another candidate instead of
                             their incumbent President when they nominated James Buchanan at the
@@ -4284,7 +4284,7 @@
        </address>
 
        <address n="19" name="ABRAHAM LINCOLN" title="FIRST INAUGURAL ADDRESS"
-              date="MONDAY, MARCH 4, 1861">
+              date="MONDAY, MARCH 4, 1861" year="1861">
               <d class="editnote">
                      <p>[Transcriber's note: The national upheaval of secession was a grim reality
                             at Abraham Lincoln's inauguration. Jefferson Davis had been inaugurated
@@ -4593,7 +4593,7 @@
        </address>
 
        <address n="20" name="ABRAHAM LINCOLN" title="SECOND INAUGURAL ADDRESS"
-              date="SATURDAY, MARCH 4, 1865">
+              date="SATURDAY, MARCH 4, 1865" year="1865">
               <d class="editnote">
                      <p>[Transcriber's note: Weeks of wet weather preceding Lincoln's second
                             inauguration had caused Pennsylvania Avenue to become a sea of mud and
@@ -4669,7 +4669,7 @@
        </address>
 
        <address n="21" name="ULYSSES S. GRANT" title="FIRST INAUGURAL ADDRESS"
-              date="THURSDAY, MARCH 4, 1869">
+              date="THURSDAY, MARCH 4, 1869" year="1869">
               <d class="editnote">
                      <p>[Transcriber's note: General Grant was the first of many Civil War officers
                             to become President of the United States. He refused to ride in the
@@ -4777,7 +4777,7 @@
        </address>
 
        <address n="22" name="ULYSSES S. GRANT" title="SECOND INAUGURAL ADDRESS"
-              date="TUESDAY, MARCH 4, 1873">
+              date="TUESDAY, MARCH 4, 1873" year="1873">
               <d class="editnote">
                      <p>[Transcriber's note: Frigid temperatures caused many of the events planned
                             for the second inauguration to be abandoned. The thermometer did not
@@ -4910,7 +4910,7 @@
        </address>
 
        <address n="23" name="RUTHERFORD B. HAYES" title="INAUGURAL ADDRESS"
-              date="MONDAY, MARCH 5, 1877">
+              date="MONDAY, MARCH 5, 1877" year="1877">
               <d class="editnote">
                      <p>[Transcriber's note: The outcome of the election of 1876 was not known until
                             the week before the inauguration itself. Democrat Samuel Tilden had won
@@ -5137,7 +5137,7 @@
        </address>
 
        <address n="24" name="JAMES A. GARFIELD" title="INAUGURAL ADDRESS"
-              date="FRIDAY, MARCH 4, 1881">
+              date="FRIDAY, MARCH 4, 1881" year="1881">
               <d class="editnote">
                      <p>[Transcriber's note: Snow on the ground discouraged many spectators from
                             attending the ceremony at the Capitol. Congressman Garfield had been
@@ -5428,7 +5428,7 @@
        </address>
 
        <address n="25" name="GROVER CLEVELAND" title="FIRST INAUGURAL ADDRESS"
-              date="WEDNESDAY, MARCH 4, 1885">
+              date="WEDNESDAY, MARCH 4, 1885" year="1885">
               <d class="editnote">
                      <p>[Transcriber's note: On the East Portico of the Capitol, the former Governor
                             of New York was administered the oath of office by Chief Justice
@@ -5584,7 +5584,7 @@
        </address>
 
        <address n="26" name="BENJAMIN HARRISON" title="INAUGURAL ADDRESS"
-              date="MONDAY, MARCH 4, 1889">
+              date="MONDAY, MARCH 4, 1889" year="1889">
               <d class="editnote">
                      <p>[Transcriber's note: Nominated on the 8th ballot of the Republican
                             convention, the Civil War veteran, jurist, and Senator from Indiana was
@@ -5993,7 +5993,7 @@
        </address>
 
        <address n="27" name="GROVER CLEVELAND" title="SECOND INAUGURAL ADDRESS"
-              date="SATURDAY, MARCH 4, 1893">
+              date="SATURDAY, MARCH 4, 1893" year="1893">
               <d class="editnote">
                      <p>[Transcriber's note: A light snowfall the night before the inauguration
                             discouraged many spectators from attending President Cleveland's second
@@ -6181,7 +6181,7 @@
        </address>
 
        <address n="28" name="WILLIAM MCKINLEY" title="FIRST INAUGURAL ADDRESS"
-              date="THURSDAY, MARCH 4, 1897">
+              date="THURSDAY, MARCH 4, 1897" year="1897">
               <d class="editnote">
                      <p>[Transcriber's note: A Civil War officer, and a Governor and Congressman
                             from Ohio, Mr. McKinley took the oath on a platform erected on the north
@@ -6547,7 +6547,7 @@
        </address>
 
        <address n="29" name="WILLIAM MCKINLEY" title="SECOND INAUGURAL ADDRESS"
-              date="MONDAY, MARCH 4, 1901">
+              date="MONDAY, MARCH 4, 1901" year="1901">
               <d class="editnote">
                      <p>[Transcriber's note: The second inauguration was a patriotic celebration of
                             the successes of the recently concluded Spanish American War. The new
@@ -6744,7 +6744,7 @@
        </address>
 
        <address n="30" name="THEODORE ROOSEVELT" title="INAUGURAL ADDRESS"
-              date="SATURDAY, MARCH 4, 1905">
+              date="SATURDAY, MARCH 4, 1905" year="1905">
               <d class="editnote">
                      <p>[Transcriber's note: The energetic Republican President had taken his first
                             oath of office upon the death of President McKinley, who died of an
@@ -6840,7 +6840,7 @@
        </address>
 
        <address n="31" name="WILLIAM HOWARD TAFT" title="INAUGURAL ADDRESS"
-              date="THURSDAY, MARCH 4, 1909">
+              date="THURSDAY, MARCH 4, 1909" year="1909">
               <d class="editnote">
                      <p>[Transcriber's note: A blizzard the night before caused the ceremonies to be
                             moved into the Senate Chamber in the Capitol. The oath of office was
@@ -7294,7 +7294,7 @@
        </address>
 
        <address n="32" name="WOODROW WILSON" title="FIRST INAUGURAL ADDRESS"
-              date="TUESDAY, MARCH 4, 1913">
+              date="TUESDAY, MARCH 4, 1913" year="1913">
               <d class="editnote">
                      <p>[Transcriber's note: The election of 1912 produced a Democratic victory over
                             the split vote for President Taft's Republican ticket and Theodore
@@ -7446,7 +7446,7 @@
        </address>
 
        <address n="33" name="WOODROW WILSON" title="SECOND INAUGURAL ADDRESS"
-              date="MONDAY, MARCH 5, 1917">
+              date="MONDAY, MARCH 5, 1917" year="1917">
               <d class="editnote">
                      <p>[Transcriber's note: March 4 was a Sunday, but the President took the oath
                             of office at the Capitol in the President's Room that morning. The oath
@@ -7582,7 +7582,7 @@
        </address>
 
        <address n="34" name="WARREN G. HARDING" title="INAUGURAL ADDRESS"
-              date="FRIDAY, MARCH 4, 1921">
+              date="FRIDAY, MARCH 4, 1921" year="1921">
               <d class="editnote">
                      <p>[Transcriber's note: Senator Harding from Ohio was the first sitting Senator
                             to be elected President. A former newspaper publisher and Governor of
@@ -7910,7 +7910,7 @@
        </address>
 
        <address n="35" name="CALVIN COOLIDGE" title="INAUGURAL ADDRESS"
-              date="WEDNESDAY, MARCH 4, 1925">
+              date="WEDNESDAY, MARCH 4, 1925" year="1925">
               <d class="editnote">
                      <p>[Transcriber's note: In 1923 President Coolidge first took the oath of
                             office, administered by his father, a justice of the peace and a notary,
@@ -8248,7 +8248,7 @@
 
        </address>
 
-       <address n="36" name="HERBERT HOOVER" title="INAUGURAL ADDRESS" date="MONDAY, MARCH 4, 1929">
+       <address n="36" name="HERBERT HOOVER" title="INAUGURAL ADDRESS" date="MONDAY, MARCH 4, 1929" year="1929">
               <d class="editnote">
                      <p>[Transcriber's note: Popular opinion for the engineer, humanitarian, and
                             Secretary of Commerce brought the President-elect to office with
@@ -8610,7 +8610,7 @@
        </address>
 
        <address n="37" name="FRANKLIN D. ROOSEVELT" title="FIRST INAUGURAL ADDRESS"
-              date="SATURDAY, MARCH 4, 1933">
+              date="SATURDAY, MARCH 4, 1933" year="1933">
               <d class="editnote">
                      <p>[Transcriber's note: The former Governor of New York rode to the Capitol
                             with President Hoover. Pressures of the economy faced the
@@ -8778,7 +8778,7 @@
        </address>
 
        <address n="38" name="FRANKLIN D. ROOSEVELT" title="SECOND INAUGURAL ADDRESS"
-              date="WEDNESDAY, JANUARY 20, 1937">
+              date="WEDNESDAY, JANUARY 20, 1937" year="1937">
               <d class="editnote">
                      <p>[Transcriber's note: For the first time the inauguration of the President
                             was held on January 20, pursuant to the provisions of the 20th amendment
@@ -8955,7 +8955,7 @@
        </address>
 
        <address n="39" name="FRANKLIN D. ROOSEVELT" title="THIRD INAUGURAL ADDRESS"
-              date="MONDAY, JANUARY 20, 1941">
+              date="MONDAY, JANUARY 20, 1941" year="1941">
               <d class="editnote">
                      <p>[Transcriber's note: The only chief executive to serve more than two terms,
                             President Roosevelt took office for the third time as Europe and Asia
@@ -9084,7 +9084,7 @@
        </address>
 
        <address n="40" name="FRANKLIN D. ROOSEVELT" title="FOURTH INAUGURAL ADDRESS"
-              date="SATURDAY, JANUARY 20, 1945">
+              date="SATURDAY, JANUARY 20, 1945" year="1945">
               <d class="editnote">
                      <p>[Transcriber's note: The fourth inauguration was conducted without fanfare.
                             Because of the expense and impropriety of festivity during the height of
@@ -9148,7 +9148,7 @@
        </address>
 
        <address n="41" name="HARRY S. TRUMAN" title="INAUGURAL ADDRESS"
-              date="THURSDAY, JANUARY 20, 1949">
+              date="THURSDAY, JANUARY 20, 1949" year="1949">
               <d class="editnote">
                      <p>[Transcriber's note: A former county judge, Senator and Vice President,
                             Harry S. Truman had taken the oath of office first on April 12, 1945,
@@ -9378,7 +9378,7 @@
        </address>
 
        <address n="42" name="DWIGHT D. EISENHOWER" title="FIRST INAUGURAL ADDRESS"
-              date="TUESDAY, JANUARY 20, 1953">
+              date="TUESDAY, JANUARY 20, 1953" year="1953">
               <d class="editnote">
                      <p>[Transcriber's note: The Republican Party successfully promoted the
                             candidacy of the popular General of the Army in the 1952 election over
@@ -9625,7 +9625,7 @@
        </address>
 
        <address n="43" name="DWIGHT D. EISENHOWER" title="SECOND INAUGURAL ADDRESS"
-              date="MONDAY, JANUARY 21, 1957">
+              date="MONDAY, JANUARY 21, 1957" year="1957">
               <d class="editnote">
                      <p>[Transcriber's note: January 20 occurred on a Sunday, so the President took
                             the oath in the East Room at the White House that morning. The next day
@@ -9776,7 +9776,7 @@
        </address>
 
        <address n="44" name="JOHN F. KENNEDY" title="INAUGURAL ADDRESS"
-              date="FRIDAY, JANUARY 20, 1961">
+              date="FRIDAY, JANUARY 20, 1961" year="1961">
               <d class="editnote">
                      <p>[Transcriber's note: Heavy snow fell the night before the inauguration, but
                             thoughts about cancelling the plans were overruled. The election of 1960
@@ -9917,7 +9917,7 @@
        </address>
 
        <address n="45" name="LYNDON BAINES JOHNSON" title="INAUGURAL ADDRESS"
-              date="WEDNESDAY, JANUARY 20, 1965">
+              date="WEDNESDAY, JANUARY 20, 1965" year="1965">
               <d class="editnote">
                      <p>[Transcriber's note: President Johnson had first taken the oath of office on
                             board Air Force One on November 22, 1963, the day President Kennedy was
@@ -10056,7 +10056,7 @@
        </address>
 
        <address n="46" name="RICHARD MILHOUS NIXON" title="FIRST INAUGURAL ADDRESS"
-              date="MONDAY, JANUARY 20, 1969">
+              date="MONDAY, JANUARY 20, 1969" year="1969">
               <d class="editnote">
                      <p>[Transcriber's note: An almost-winner of the 1960 election, and a close
                             winner of the 1968 election, the former Vice President and California
@@ -10268,7 +10268,7 @@
        </address>
 
        <address n="47" name="RICHARD MILHOUS NIXON" title="SECOND INAUGURAL ADDRESS"
-              date="SATURDAY, JANUARY 20, 1973">
+              date="SATURDAY, JANUARY 20, 1973" year="1973">
               <d class="editnote">
                      <p>[Transcriber's note: The election of 1972 consolidated the gains that the
                             President had made with the electorate in 1968. Although the Democratic
@@ -10434,7 +10434,7 @@
        </address>
 
        <address n="48" name="JIMMY CARTER" title="INAUGURAL ADDRESS"
-              date="THURSDAY, JANUARY 20, 1977">
+              date="THURSDAY, JANUARY 20, 1977" year="1977">
               <d class="editnote">
                      <p>[Transcriber's note: The Democrats reclaimed the White House in the 1976
                             election. The Governor from Georgia defeated Gerald Ford, who had become
@@ -10564,7 +10564,7 @@
        </address>
 
        <address n="49" name="RONALD REAGAN" title="FIRST INAUGURAL ADDRESS"
-              date="TUESDAY, JANUARY 20, 1981">
+              date="TUESDAY, JANUARY 20, 1981" year="1981">
               <d class="editnote">
                      <p>[Transcriber's note: For the first time, an inauguration ceremony was held
                             on the terrace of the West Front of the Capitol. Chief Justice Warren
@@ -10777,7 +10777,7 @@
        </address>
 
        <address n="50" name="RONALD REAGAN" title="SECOND INAUGURAL ADDRESS"
-              date="MONDAY, JANUARY 21, 1985">
+              date="MONDAY, JANUARY 21, 1985" year="1985">
               <d class="editnote">
                      <p>[Transcriber's note: January 20 was a Sunday, and the President took the
                             oath of office, administered by Chief Justice Warren Burger, in the
@@ -11016,7 +11016,7 @@
 
        </address>
 
-       <address n="51" name="GEORGE BUSH" title="INAUGURAL ADDRESS" date="FRIDAY, JANUARY 20, 1989">
+       <address n="51" name="GEORGE BUSH" title="INAUGURAL ADDRESS" date="FRIDAY, JANUARY 20, 1989" year="1989">
               <d class="editnote">
                      <p>[Transcriber's note: The 200th anniversary of the Presidency was observed as
                             George Bush took the executive oath on the same Bible George Washington
@@ -11206,7 +11206,7 @@
        </address>
 
        <address n="52" name="WILLIAM JEFFERSON CLINTON" title="FIRST INAUGURAL ADDRESS"
-              date="JANUARY 20, 1993">
+              date="JANUARY 20, 1993" year="1993">
               <d class="editnote">
                      <p>[As presented on the Internet by Project Gutenberg on January 20th,
                             1993]</p>
@@ -11353,7 +11353,7 @@
        </address>
 
        <address n="53" name="WILLIAM JEFFERSON CLINTON" title="SECOND INAUGURAL ADDRESS"
-              date="JANUARY 20, 1997">
+              date="JANUARY 20, 1997" year="1997">
               <p><salutation>My fellow citizens:</salutation></p>
               <p>At this last presidential inauguration of the 20th century, let us lift our eyes
                      toward the challenges that await us in the next century. It is our great good
@@ -11533,7 +11533,7 @@
        </address>
 
        <address n="54" name="GEORGE W. BUSH" title="FIRST INAUGURAL ADDRESS"
-              date="FRIDAY, JANUARY 20, 2001">
+              date="FRIDAY, JANUARY 20, 2001" year="2001">
               <p><salutation>President Clinton, distinguished guests and my fellow citizens, the
                             peaceful transfer of authority is rare in history, yet common in our
                             country. With a simple oath, we affirm old traditions and make new
@@ -11685,7 +11685,7 @@
        </address>
 
        <address n="55" name="GEORGE W. BUSH" title="SECOND INAUGURAL ADDRESS"
-              date="THURSDAY, JANUARY 20, 2005">
+              date="THURSDAY, JANUARY 20, 2005" year="2005">
               <p><salutation>Vice President Cheney, Mr. Chief Justice, President Carter, President Bush,
                      President Clinton, reverend clergy, distinguished guests, fellow citizens:</salutation></p>
               <p>On this day, prescribed by law and marked by ceremony, we celebrate the durable
@@ -11853,7 +11853,7 @@
 
        </address>
 
-       <address n="56" name="BARACK OBAMA" title="INAUGURAL ADDRESS" date="JANUARY 20, 2009">
+       <address n="56" name="BARACK OBAMA" title="INAUGURAL ADDRESS" date="JANUARY 20, 2009" year="2009">
               <p><salutation>My fellow citizens, I stand here today humbled by the task before us, grateful for
                      the trust you have bestowed, mindful of the sacrifices borne by our ancestors.
                      I thank President Bush for his service to our Nation, as well as the generosity
@@ -12043,7 +12043,7 @@
 
        </address>
 
-       <address n="57" name="BARACK OBAMA" title="SECOND INAUGURAL ADDRESS" date="JANUARY 21, 2013">
+       <address n="57" name="BARACK OBAMA" title="SECOND INAUGURAL ADDRESS" date="JANUARY 21, 2013" year="2013">
               <p>Thank you. Thank you so much.</p>
               <p><salutation>Vice President Biden, Mr. Chief Justice, Members of the United States Congress,
                      distinguished guests, and fellow citizens:</salutation></p>
@@ -12215,7 +12215,7 @@
 
        </address>
 
-       <address n="58" name="DONALD J. TRUMP" title="INAUGURAL ADDRESS" date="JANUARY 20, 2017">
+       <address n="58" name="DONALD J. TRUMP" title="INAUGURAL ADDRESS" date="JANUARY 20, 2017" year="2017">
               <p><salutation>Chief Justice Roberts, President Carter, President Clinton, President Bush,
                      President Obama, fellow Americans, and people of the world: Thank you.</salutation></p>
               <p>We, the citizens of America, are now joined in a great national effort to rebuild
@@ -12343,7 +12343,7 @@
 
        </address>
 
-       <address n="59" name="JOSEPH R. BIDEN" title="INAUGURAL ADDRESS" date="JANUARY 20, 2021">
+       <address n="59" name="JOSEPH R. BIDEN" title="INAUGURAL ADDRESS" date="JANUARY 20, 2021" year="2021">
               <p><salutation>Chief Justice Roberts, Vice President Harris, Speaker Pelosi, Leader Schumer,
                      Leader McConnell, Vice President Pence, and my distinguished guests, and my
                      fellow Americans: This is America's day. This is democracy's day, a day of

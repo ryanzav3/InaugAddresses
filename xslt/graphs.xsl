@@ -14,6 +14,7 @@
             </head>
             
             <body>
+                <h1>Inaugural Addresses</h1>
                 <div id="navbar">
                     <div class="navbar">
                         <a href="/InaugAddresses/index.xhtml">Home</a>
@@ -115,7 +116,7 @@
                             </text>
                             
                             <!--y-axis label -->
-                            <text x="-100" y="{$ypos+30}" text-anchor="middle"><xsl:value-of select="@name"/></text>
+                            <text x="-100" y="{$ypos+30}" text-anchor="middle"><xsl:value-of select="@name"/>-<xsl:value-of select = "@year"/></text>
                             
                         </xsl:for-each>
                     </g>
